@@ -1,0 +1,60 @@
+quality_assessment:
+  source_adequacy:
+    sources:
+      - id: S1
+        pages_read: 3
+        signal_density: "high"
+        notes: "Rich executive summary covering all 4 stakeholder pain points, competitive positioning, and financial infrastructure thesis. Screenshots add product context."
+      - id: S2
+        pages_read: 18
+        signal_density: "high"
+        notes: "Full pitch deck with dedicated Problem, Why This Matters, Solution, Market, and Financial slides. Explicit pain-by-stakeholder breakdown. TAM/SAM/SOM with sources cited."
+      - id: S3
+        pages_read: 1
+        signal_density: "medium"
+        notes: "Condensed single-page teaser. Reinforces S1/S2 signals but adds no unique signal not found in the other two documents."
+    overall_recommendation: "sufficient"
+
+  coverage:
+    signals_found: 34
+    signals_used: 28
+    signals_discarded: 6
+    discarded_reasons:
+      - "TAM/SAM/SOM sizing claims — belongs to Market workspace, not Problem"
+      - "Revenue model details (2.50% fee, interest income) — belongs to Business workspace"
+      - "GTM channel list — belongs to Market/Business workspace"
+      - "Raise amount ($750K SAFE) — not a problem signal"
+      - "Product feature list (digital SOV engine, ledger system) — solution signals, already reversed into problem hypotheses"
+      - "Competitive advantage claims (first mover, network effects) — positioning, not problem evidence"
+
+  independence_check:
+    total_hypotheses: 6
+    potentially_overlapping:
+      - pair: ["H1", "H5"]
+        reason: "H1 (payment-progress disconnect) is a specific instance of H5 (no commercial-grade controls). If H5 is false, H1 is likely false."
+        verdict: "kept_separate"
+        rationale: "H1 is a specific testable mechanism (SOV/milestone frameworks absent). H5 is a broader structural claim (commercial vs residential control gap). Research could find that residential has some commercial-grade controls (H5 partially false) but still lacks payment-progress linking specifically (H1 true). They test different things."
+      - pair: ["H2", "H1"]
+        reason: "H2 (homeowner prepayment risk) is a downstream consequence of H1 (no payment-progress link)"
+        verdict: "kept_separate"
+        rationale: "H2 could be false even if H1 is true — homeowners might be protected by other mechanisms (insurance, bonding, escrow) even without SOV frameworks. Independently testable."
+      - pair: ["H4", "H5"]
+        reason: "H4 (institutional visibility gap) is a specific stakeholder instance of H5 (no commercial controls)"
+        verdict: "kept_separate"
+        rationale: "H4 tests institutional-specific processes (draw inspections, adjuster oversight). H5 tests the residential vs commercial control gap broadly. A lender could have good visibility (H4 false) even if residential generally lacks controls (H5 true)."
+
+  specificity_check:
+    all_falsifiable: true
+    weakest_hypothesis: "H6"
+    weakness: "The '$40B' figure is a founder claim repeated across documents. Research may find this number hard to verify precisely — the hypothesis is phrased as 'tens of billions' to allow some range, but the underlying methodology for the $40B claim is unclear."
+
+  provenance_summary:
+    hypotheses_from_single_source: 0
+    hypotheses_from_multiple_sources: 6
+    source_coverage:
+      - id: S1
+        hypotheses_contributed_to: ["H1", "H2", "H3", "H4", "H5"]
+      - id: S2
+        hypotheses_contributed_to: ["H1", "H2", "H3", "H4", "H5", "H6"]
+      - id: S3
+        hypotheses_contributed_to: ["H1", "H2", "H3", "H4", "H5", "H6"]

@@ -1,0 +1,210 @@
+round: 1
+prompts:
+  - id: "prevalence"
+    text: |
+      # Problem Research: ConstructSure
+
+      ## Hypotheses Under Investigation
+
+      We've extracted the following problem hypotheses about financial controls in residential renovation and restoration:
+
+      1. **H1:** Residential renovation payments are structurally disconnected from verified work completion, with no standardized schedule-of-values framework linking disbursements to construction milestones
+      2. **H2:** Homeowners in residential renovation projects routinely prepay for unverified work, exposing them to significant financial loss when contractors underperform, abandon projects, or file mechanic's liens
+      3. **H3:** Residential contractors experience chronic cash flow strain from slow and unpredictable payment cycles, forcing reliance on factoring or self-financing and creating downstream non-payment risk for subcontractors
+      4. **H4:** Lenders and insurers funding residential renovation and restoration projects lack real-time visibility into fund utilization and work completion, relying on manual and costly draw inspection processes that leave them exposed to fraud and overpayment
+      5. **H5:** Residential renovation and restoration operates without the independent third-party financial controls (fund custody, progress verification, audit trails) that are standard practice in commercial construction
+      6. **H6:** The U.S. residential renovation industry loses tens of billions of dollars annually to fraud, overpayment, slow/no-pay, and payment-related disputes and project failures
+
+      These are independent, unranked hypotheses. Your research may validate some, invalidate others, or reveal that some are symptoms of a deeper problem. Report what you find — don't force-fit findings to hypotheses.
+
+      ---
+
+      ## Prevalence Research
+
+      **Find:**
+      - What percentage of residential renovation projects use a formal Schedule of Values (SOV) or milestone-based payment structure vs. ad hoc payment arrangements?
+      - What percentage of homeowners report prepaying for unverified work in residential renovation projects? How common is contractor abandonment or non-completion?
+      - What percentage of residential contractors report cash flow problems related to payment timing? How prevalent is invoice factoring among small to mid-size contractors?
+      - What percentage of renovation lenders still use manual draw inspection processes? How common are renovation loan defaults or fraud incidents?
+      - What percentage of insurance restoration claims involve payment disputes, overpayment, or documentation deficiencies?
+      - How do financial control practices in residential renovation compare to commercial construction? What percentage of commercial projects use third-party fund administrators vs. residential?
+
+      **For each hypothesis, determine:**
+      - Does evidence support or contradict this hypothesis?
+      - Is this a root problem or a symptom of something deeper?
+      - What did you find that wasn't anticipated by any hypothesis?
+
+      **Sources to prioritize:**
+      - Industry reports from NAHB, NARI, Harvard Joint Center for Housing Studies, Home Improvement Research Institute
+      - Professional association surveys (AGC, ASA, AIA residential chapters)
+      - Academic studies on construction payment practices and disputes
+      - Insurance industry reports on restoration claim management
+      - Banking/lending industry reports on renovation loan performance
+
+      **Citation format:**
+      - Claim: [finding]
+      - Relevant hypothesis: [H1, H2, etc. — or "new finding" if not anticipated]
+      - Source: [org name]
+      - Date: [date]
+      - URL: [url]
+      - Quote: [verbatim excerpt if available]
+
+      **Important:** Focus on percentage affected, not total numbers. "What % of contractors experience cash flow strain?" not "How many contractors exist?" Flag uncertainty rather than speculate. If evidence is ambiguous, say so.
+
+  - id: "severity"
+    text: |
+      # Problem Research: ConstructSure
+
+      ## Hypotheses Under Investigation
+
+      We've extracted the following problem hypotheses about financial controls in residential renovation and restoration:
+
+      1. **H1:** Residential renovation payments are structurally disconnected from verified work completion, with no standardized schedule-of-values framework linking disbursements to construction milestones
+      2. **H2:** Homeowners in residential renovation projects routinely prepay for unverified work, exposing them to significant financial loss when contractors underperform, abandon projects, or file mechanic's liens
+      3. **H3:** Residential contractors experience chronic cash flow strain from slow and unpredictable payment cycles, forcing reliance on factoring or self-financing and creating downstream non-payment risk for subcontractors
+      4. **H4:** Lenders and insurers funding residential renovation and restoration projects lack real-time visibility into fund utilization and work completion, relying on manual and costly draw inspection processes that leave them exposed to fraud and overpayment
+      5. **H5:** Residential renovation and restoration operates without the independent third-party financial controls (fund custody, progress verification, audit trails) that are standard practice in commercial construction
+      6. **H6:** The U.S. residential renovation industry loses tens of billions of dollars annually to fraud, overpayment, slow/no-pay, and payment-related disputes and project failures
+
+      These are independent, unranked hypotheses. Your research may validate some, invalidate others, or reveal that some are symptoms of a deeper problem. Report what you find — don't force-fit findings to hypotheses.
+
+      ---
+
+      ## Severity Research
+
+      **Find:**
+      - How much time do residential contractors spend on payment-related administrative tasks (tracking deposits, reconciling payments, chasing draws, lien documentation) per project or per week?
+      - What is the typical payment delay for residential contractors from invoice to payment? How does this compare to contract terms?
+      - How long do homeowners typically wait for resolution when a renovation payment dispute arises? What is the typical escalation path (mediation, arbitration, litigation)?
+      - How many hours per draw do lenders/inspectors spend on manual residential renovation draw inspections? What is the error rate or dispute rate on draw approvals?
+      - What is the typical duration and outcome of mechanic's lien disputes in residential renovation? How severe is the impact on homeowners?
+      - How much project delay results from payment disputes or cash flow interruptions in residential renovation?
+      - What is the severity of subcontractor non-payment when general contractors experience cash flow strain? How does this cascade through the project?
+
+      **For each hypothesis, determine:**
+      - Does evidence support or contradict this hypothesis?
+      - Is this a root problem or a symptom of something deeper?
+      - What did you find that wasn't anticipated by any hypothesis?
+
+      **Sources to prioritize:**
+      - Time studies and productivity research in construction administration
+      - Contractor surveys on payment practices (Levelset/Procore payment reports, Billd surveys)
+      - Legal databases on construction lien and dispute resolution
+      - Insurance adjuster workload studies
+      - Academic research on construction payment cascades and project delay causes
+
+      **Citation format:**
+      - Claim: [finding]
+      - Relevant hypothesis: [H1, H2, etc. — or "new finding" if not anticipated]
+      - Source: [org name]
+      - Date: [date]
+      - URL: [url]
+      - Quote: [verbatim excerpt if available]
+
+      **Important:** Focus on time/effort lost, not dollar figures. "How many hours per week?" not "What's the opportunity cost in $?" Flag uncertainty rather than speculate.
+
+  - id: "customer-voice"
+    text: |
+      # Problem Research: ConstructSure
+
+      ## Hypotheses Under Investigation
+
+      We've extracted the following problem hypotheses about financial controls in residential renovation and restoration:
+
+      1. **H1:** Residential renovation payments are structurally disconnected from verified work completion, with no standardized schedule-of-values framework linking disbursements to construction milestones
+      2. **H2:** Homeowners in residential renovation projects routinely prepay for unverified work, exposing them to significant financial loss when contractors underperform, abandon projects, or file mechanic's liens
+      3. **H3:** Residential contractors experience chronic cash flow strain from slow and unpredictable payment cycles, forcing reliance on factoring or self-financing and creating downstream non-payment risk for subcontractors
+      4. **H4:** Lenders and insurers funding residential renovation and restoration projects lack real-time visibility into fund utilization and work completion, relying on manual and costly draw inspection processes that leave them exposed to fraud and overpayment
+      5. **H5:** Residential renovation and restoration operates without the independent third-party financial controls (fund custody, progress verification, audit trails) that are standard practice in commercial construction
+      6. **H6:** The U.S. residential renovation industry loses tens of billions of dollars annually to fraud, overpayment, slow/no-pay, and payment-related disputes and project failures
+
+      These are independent, unranked hypotheses. Your research may validate some, invalidate others, or reveal that some are symptoms of a deeper problem. Report what you find — don't force-fit findings to hypotheses.
+
+      ---
+
+      ## Customer Voice Research
+
+      **Find:**
+      - Verbatim quotes from homeowners about their experiences with renovation payment practices, contractor trust, prepayment anxiety, and financial losses from problem projects
+      - Verbatim quotes from residential contractors about payment timing frustrations, cash flow management, administrative burden of financial tracking, and chasing payments
+      - Verbatim quotes from renovation lenders or loan officers about the challenges of monitoring residential renovation loans, draw inspection processes, and fraud experiences
+      - Verbatim quotes from insurance adjusters or restoration managers about documentation challenges, fund control issues, and claims oversight difficulties
+      - Any voices expressing frustration that commercial construction has better financial controls than residential
+      - Workarounds people describe — spreadsheets, manual tracking, escrow arrangements, personal trust-based systems
+
+      **For each quote, tag:**
+      - Which hypothesis it relates to (H1-H6, or "general" if spanning multiple, or "new finding")
+      - The emotional weight: frustration, resignation, anger, anxiety, relief (from a workaround)
+
+      **Sources to prioritize:**
+      - Reddit (r/HomeImprovement, r/Renovations, r/Construction, r/Contractors, r/RealEstate, r/personalfinance)
+      - Houzz forums, contractor forums, remodeling community boards
+      - BBB complaint narratives about contractors
+      - G2/Capterra reviews of existing construction payment or project management tools
+      - LinkedIn posts from construction finance professionals, renovation lenders, insurance adjusters
+      - Podcasts or interviews with residential contractors about business challenges
+      - State attorney general consumer complaint databases related to contractor fraud
+
+      **Citation format:**
+      - Quote: [verbatim text]
+      - Relevant hypothesis: [H1, H2, etc. — or "new finding"]
+      - Source: [platform/forum name]
+      - Date: [date if available]
+      - URL: [url if available]
+      - Context: [brief description of who is speaking and the situation]
+
+      **Important:** Capture actual voices, not paraphrased summaries. The emotional weight matters as much as the factual content. Look for patterns across multiple voices — are many people saying the same thing?
+
+  - id: "current-solutions"
+    text: |
+      # Problem Research: ConstructSure
+
+      ## Hypotheses Under Investigation
+
+      We've extracted the following problem hypotheses about financial controls in residential renovation and restoration:
+
+      1. **H1:** Residential renovation payments are structurally disconnected from verified work completion, with no standardized schedule-of-values framework linking disbursements to construction milestones
+      2. **H2:** Homeowners in residential renovation projects routinely prepay for unverified work, exposing them to significant financial loss when contractors underperform, abandon projects, or file mechanic's liens
+      3. **H3:** Residential contractors experience chronic cash flow strain from slow and unpredictable payment cycles, forcing reliance on factoring or self-financing and creating downstream non-payment risk for subcontractors
+      4. **H4:** Lenders and insurers funding residential renovation and restoration projects lack real-time visibility into fund utilization and work completion, relying on manual and costly draw inspection processes that leave them exposed to fraud and overpayment
+      5. **H5:** Residential renovation and restoration operates without the independent third-party financial controls (fund custody, progress verification, audit trails) that are standard practice in commercial construction
+      6. **H6:** The U.S. residential renovation industry loses tens of billions of dollars annually to fraud, overpayment, slow/no-pay, and payment-related disputes and project failures
+
+      These are independent, unranked hypotheses. Your research may validate some, invalidate others, or reveal that some are symptoms of a deeper problem. Report what you find — don't force-fit findings to hypotheses.
+
+      ---
+
+      ## Current Solutions Research
+
+      **Find:**
+      - What existing tools or platforms address payment management in residential renovation? (e.g., Buildertrend, CoConstruct, Houzz Pro, Jobber, Levelset/Procore). What specifically do they offer for financial controls, SOV tracking, milestone payments, and fund custody?
+      - Do any existing platforms offer independent third-party fund custody or escrow for residential renovation? If so, how widely are they adopted?
+      - What do commercial construction fund administrators (e.g., Construction Funds Administration, Harbour Group) do, and why hasn't this model been applied to residential?
+      - How do renovation lenders currently manage draw processes? What technology exists for automating draw inspections? (e.g., Built Technologies, Land Gorilla, EagleView)
+      - How do insurance carriers currently manage restoration fund disbursement and oversight? What tools exist?
+      - What payment protection mechanisms exist for homeowners (escrow, surety bonds, state recovery funds, lien waivers)? Why are these insufficient?
+      - What are users saying about gaps in existing construction management tools regarding financial controls?
+
+      **For each solution found, assess:**
+      - Which hypotheses does it address (partially or fully)?
+      - What specific gaps remain despite this solution?
+      - Why hasn't it solved the problem? (adoption barriers, feature gaps, wrong market segment, cost)
+      - Is it complementary to or competitive with a dedicated financial control platform?
+
+      **Sources to prioritize:**
+      - Competitor websites and product documentation (Buildertrend, CoConstruct, Houzz Pro, Jobber, Levelset)
+      - G2, Capterra, Software Advice reviews of construction management tools — specifically financial/payment features
+      - Commercial construction fund administration industry resources
+      - FinTech analysis of construction payment innovation
+      - Built Technologies, Land Gorilla product pages and press coverage
+      - State-by-state lien law and homeowner protection mechanism databases
+
+      **Citation format:**
+      - Claim: [finding]
+      - Relevant hypothesis: [H1, H2, etc. — or "new finding"]
+      - Source: [org name]
+      - Date: [date]
+      - URL: [url]
+      - Quote: [verbatim excerpt if available]
+
+      **Important:** Focus on why solutions fail, not market share. Document specific gaps and user complaints. Flag uncertainty rather than speculate.

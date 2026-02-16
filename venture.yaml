@@ -1,0 +1,16 @@
+name: "ConstructSure"
+description: "Partner-referred startup seeking venture forge evaluation"
+created: "2026-02-16"
+source: "fund-referred"
+
+current_stage: "problem"
+current_workspace: "problem"
+workspace_status: "gate-review"
+
+workspaces:
+  problem:
+    status: "gate-review"
+    started: "2026-02-16"
+    completed: null
+    gate_decision: null
+    gate_notes: null

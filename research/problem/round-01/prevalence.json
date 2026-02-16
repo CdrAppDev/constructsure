@@ -1,0 +1,744 @@
+{
+  "metadata": {
+    "model": "sonar-deep-research",
+    "response_id": "b547e0ae-2ece-4f30-bd9e-69cad265a61e",
+    "usage": {
+      "prompt_tokens": 719,
+      "completion_tokens": 8701,
+      "total_tokens": 9420,
+      "citation_tokens": 52478,
+      "reasoning_tokens": 315113,
+      "num_search_queries": 30,
+      "cost": {
+        "total_cost": null,
+        "input_tokens_cost": null,
+        "output_tokens_cost": null
+      }
+    },
+    "citation_count": 60
+  },
+  "citations": [
+    {
+      "index": 1,
+      "url": "https://www.projectmanager.com/blog/schedule-of-values",
+      "title": "Schedule of Values in Construction (Example & Template Included)",
+      "snippet": "The schedule of values helps them track the construction budget and costs as well as manage their payment application as they're paid in part ..."
+    },
+    {
+      "index": 2,
+      "url": "https://www.nahb.org/news-and-economics/housing-economics/indices/adc-financing-survey",
+      "title": "AD&C Financing Survey - NAHB",
+      "snippet": "The cost of credit for residential construction and development declined in the fourth quarter of 2025, according to NAHB's quarterly survey on ..."
+    },
+    {
+      "index": 3,
+      "url": "https://www.parealtors.org/blog/71-of-homeowners-postponing-renovations-due-to-economic-concern/",
+      "title": "71% of Homeowners Postponing Renovations Due to ...",
+      "snippet": "So far this year, 71% of homeowners have postponed renovations due to economic uncertainty, according to a survey of over 1,000 homeowners ..."
+    },
+    {
+      "index": 4,
+      "url": "https://www.procore.com/library/schedule-of-values-explained",
+      "title": "Schedule of Values in Construction Explained - Procore",
+      "snippet": "A well-defined SOV fosters transparent payment practices as it explicitly states the assigned value for each work item. This clarity empowers owners to make ..."
+    },
+    {
+      "index": 5,
+      "url": "https://www.nahb.org/blog/2025/01/cost-of-construction-survey-2024",
+      "title": "Cost to Construct a Home Rose Significantly Over Last Two Years",
+      "snippet": "Construction costs accounted for 64.4% of the average price of a new home in 2024 compared to 60.8% in 2022, according to NAHB's most recent ..."
+    },
+    {
+      "index": 6,
+      "url": "https://www.constructiondive.com/news/abandonments-project-stress-constructconnect/744831/",
+      "title": "'Unwelcome surge' of project abandonments hits construction",
+      "snippet": "The Project Stress Index, a measure of construction projects that have been paused, abandoned or have a delayed bid date, increased 1.1% in ..."
+    },
+    {
+      "index": 7,
+      "url": "https://getbuilt.com/blog/70-percent-of-contractors-say-payment-delays-threaten-industry/",
+      "title": "70% of Contractors Say Payment Delays Threaten Industry",
+      "snippet": "Built study reveals slow payments inflate bids by 8%, trigger project cancellations, and discourage competition amid economic uncertainty."
+    },
+    {
+      "index": 8,
+      "url": "https://www.rivierafinance.com/philadelphia-invoice-factoring/",
+      "title": "Invoice Factoring in Philadelphia & Harrisburg, PA & Delaware",
+      "snippet": "Need working capital? We provide cash flow solutions in the Philadelphia, Harrisburg or Delaware area for businesses who need invoice factoring."
+    },
+    {
+      "index": 9,
+      "url": "https://nixlaw.com/practice-areas/construction-dispute-lawyers/statistics/",
+      "title": "Construction Dispute Statistics | Nix Patterson, LLP",
+      "snippet": "According to the 2022 Global Construction Disputes Report published by Arcadis, the majority of respondents handled more disputes in 2021 than in 2020. Whether ..."
+    },
+    {
+      "index": 10,
+      "url": "https://www.plooto.com/blog/the-top-four-cash-flow-management-issues-construction-companies-face",
+      "title": "The top four cash flow management issues construction companies ...",
+      "snippet": "1. Inaccurate project estimates that create downstream cash flow problems \u00b7 2. Change orders that throw off your financial timing \u00b7 3. Payroll ..."
+    },
+    {
+      "index": 11,
+      "url": "https://www.1stcommercialcredit.com/pennsylvania/philadelphia",
+      "title": "Factoring Company in Philadelphia, Pennsylvania (PN)",
+      "snippet": "1st Commercial Credit makes the telecom invoice financing process short and simple. The initial application approval takes between 3-5 days, and once approved, ..."
+    },
+    {
+      "index": 12,
+      "url": "https://www.levelset.com/blog/top-misunderstandings-residential-contractors-homeowners/",
+      "title": "Top 6 Misunderstandings Between Residential Contractors and ...",
+      "snippet": "Learn the most common misunderstandings between residential contractors and homeowners \u2014 and exactly how they can be avoided."
+    },
+    {
+      "index": 13,
+      "url": "https://www.trinityonline.com/blog/how-to-challenge-draw-inspection-report-results-and-what-happens-next-a-lenders-guide",
+      "title": "Challenge Draw Inspection Report Results - A Lender's Guide",
+      "snippet": "In this article, we'll break down how to navigate an unsupported draw request, inspection differences, what to expect next, and how to ..."
+    },
+    {
+      "index": 14,
+      "url": "https://www.randrmagonline.com/articles/89798-dispute-resolution-5-options-when-the-adjuster-refuses-to-pay",
+      "title": "Dispute Resolution: 5 Options When the Adjuster Refuses to Pay",
+      "snippet": "1. Make a compelling case. Before you decide to go to war over a bill or an estimate, do your due diligence to support your position."
+    },
+    {
+      "index": 15,
+      "url": "https://fullertonlaw.com/mechanics-liens-in-pennsylvania",
+      "title": "Pennsylvania Mechanic's Liens",
+      "snippet": "The mechanic's lien for new construction will have priority over all liens on the property, except an acquisition loan or construction loan."
+    },
+    {
+      "index": 16,
+      "url": "https://aaplonline.com/articles/uncategorized/understanding-draw-management/",
+      "title": "Understanding Draw Management",
+      "snippet": "Further, it should go without saying that with wire fraud at an all-time high, lenders should not send wires without independent verbal ..."
+    },
+    {
+      "index": 17,
+      "url": "https://millerlawgroupnc.com/insurance-coverage-disputes/",
+      "title": "Insurance Dispute Lawyers Near Raleigh - Miller Law Group",
+      "snippet": "Our insurance claim dispute attorneys serving the greater Raleigh, North Carolina area help policyholders who find themselves in a disagreement about coverage."
+    },
+    {
+      "index": 18,
+      "url": "https://www.kaplaw.com/blog/building-in-pennsylvania-make-sure-you-understand-mechanic-s-liens/",
+      "title": "Building In Pennsylvania? | Kaplin Stewart Meloff Reiter & Stein, P.C.",
+      "snippet": "A mechanic's lien allows one who supplies labor, material, or services in connection with the improvement of privately owned real property and is unpaid to ..."
+    },
+    {
+      "index": 19,
+      "url": "https://www.eisneramper.com/insights/real-estate/streamlining-construction-property-pe-portfolios-1222/",
+      "title": "Streamlining Construction and Property Accounting in Private Equity ...",
+      "snippet": "Fund management should consult with real estate accounting firms on the benefits of outsourcing property accounting, focusing on current pain points."
+    },
+    {
+      "index": 20,
+      "url": "https://www.veryfi.com/fraud-detection/construction-fraud-the-250000-problem-threatening-your-business/",
+      "title": "Construction Fraud: The $250000 Problem Threatening Your Business",
+      "snippet": "$9.3 billion annually lost to post-disaster contractor fraud alone ... \u201cFraud in the Construction Industry \u2013 Survey Report 2022.\u201d July 2022 ..."
+    },
+    {
+      "index": 21,
+      "url": "https://www.nari.org/NARI/media/Assets/2025-Remodeling-Impact-Report_Final-4-9-25.pdf",
+      "title": "[PDF] 2025 Remodeling Impact Report",
+      "snippet": "National Association of the Remodeling Industry Cost. Survey: In the summer of 2024, NARI emailed a cost survey to its member companies. A ..."
+    },
+    {
+      "index": 22,
+      "url": "https://thecromeenslawfirm.com/construction-trust-funds/",
+      "title": "Construction Trust Funds - The Cromeens Law Firm",
+      "snippet": "A construction trust fund provides protection for contractors, subcontractors, and material suppliers in cases where owners or contractors fail to pay for work."
+    },
+    {
+      "index": 23,
+      "url": "https://www.nicb.org/news/news-releases/contractor-fraud-costs-americans-billions-every-year",
+      "title": "Contractor Fraud Costs Americans Billions Every Year",
+      "snippet": "Upwards of 10 percent or $9.3 billion is lost to post-disaster fraud, which not only impacts individuals, but also impacts insurance premiums ..."
+    },
+    {
+      "index": 24,
+      "url": "https://www.qualifiedremodeler.com/exclusive-the-2022-nari-salary-survey",
+      "title": "Exclusive: The 2022 NARI Salary Survey - QUALIFIED REMODELER",
+      "snippet": "A five-year employee at a firm with $1 million in revenue receives 10 days of paid vacation while firms with revenue greater than $4 million ..."
+    },
+    {
+      "index": 25,
+      "url": "https://www.levelset.com/blog/residential-and-commercial-construction-differences/",
+      "title": "Residential and Commercial Construction: 7 Crucial Differences",
+      "snippet": "Residential projects tend to be shorter and less complicated than commercial projects. For example, commercial projects may need to secure ..."
+    },
+    {
+      "index": 26,
+      "url": "https://www.agc.org/news/2026/01/21/construction-spending-increases-05-percent-october-gains-public-outlays-home-renovation-offset",
+      "title": "Construction Spending Increases By 0.5 Percent In October As ...",
+      "snippet": "Spending on projects underway in October climbed by 0.5 percent from September, led by a huge increase in residential improvements and a small ..."
+    },
+    {
+      "index": 27,
+      "url": "https://www.jchs.harvard.edu/sites/default/files/reports/files/Harvard_JCHS_Improving_Americas_Housing_2025.pdf",
+      "title": "[PDF] Improving America's Housing 2025",
+      "snippet": "For additional information, data tables, and interactive charts, or to download a PDF of this report, visit www.jchs.harvard.edu."
+    },
+    {
+      "index": 28,
+      "url": "https://cicconstruction.com/blog/the-top-important-differences-between-commercial-and-residential-construction/",
+      "title": "The Top 8 Important Differences Between Commercial and ...",
+      "snippet": "Residential construction usually is paid by homeowners using cash and/or bank loans. Some residential projects are funded by government agencies ..."
+    },
+    {
+      "index": 29,
+      "url": "https://www.agc.org/sites/default/files/users/user21902/2025_Outlook_National_V3%20(1).pdf",
+      "title": "[PDF] 2025 Construction Outlook National Survey Results",
+      "snippet": "Increased base pay rates more in 2024 than in 2023. 41%. 10%. 25%. 32%. 45%. 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%. We have accelerated purchases after ..."
+    },
+    {
+      "index": 30,
+      "url": "https://www.jchs.harvard.edu/research-areas/remodeling/lira",
+      "title": "Leading Indicator of Remodeling Activity (LIRA)",
+      "snippet": "The Leading Indicator of Remodeling Activity (LIRA) provides a short-term outlook of national home improvement and repair spending to owner-occupied homes."
+    },
+    {
+      "index": 31,
+      "url": "https://www.constructiondive.com/news/private-project-abandonments-record-high/750100/",
+      "title": "Private project abandonments hit record highs",
+      "snippet": "A 30.3% spike in overall project abandonments caused the surge in stress in May, according to the report. In contrast, delayed bids dropped 1.9% ..."
+    },
+    {
+      "index": 32,
+      "url": "https://wymanlegalsolutions.com/the-hidden-dangers-of-overpaying-your-contractor-too-early/",
+      "title": "The Hidden Dangers of Overpaying Your Contractor Too Early",
+      "snippet": "Keep detailed records of contracts, payments, and communications to protect yourself if disputes arise. Conclusion: Protect Your Home and Budget."
+    },
+    {
+      "index": 33,
+      "url": "https://www.pbmares.com/accounts-receivable-in-construction-cash-flow-at-risk-amid-payment-delays/",
+      "title": "2024 Construction Payments Report | Delayed Payments",
+      "snippet": "82 percent of contractors now face payment waits of over 30 days, up from 49 percent two years ago. These delays interrupt cash flow, impacting the ability to ..."
+    },
+    {
+      "index": 34,
+      "url": "https://theaiatrust.com/construction-project-abandonments-on-the-rise/",
+      "title": "Construction Project Abandonments on the Rise \u2014 News",
+      "snippet": "The abandonments are primarily fueled by cost-related matters as the design is completed and the impact of high interest rates is factored into the actual cost."
+    },
+    {
+      "index": 35,
+      "url": "https://www.levelset.com/blog/contractor-rights-when-homeowner-wont-pay/",
+      "title": "Contractor Rights When the Homeowner Won't Pay - Levelset",
+      "snippet": "In this article, we look at common reasons why a homeowner doesn't pay their contractor \u2014 and how to overcome them ..."
+    },
+    {
+      "index": 36,
+      "url": "https://getbuilt.com/blog/70-percent-of-contractors-say-payment-delays-threaten-industry/",
+      "title": "70% of Contractors Say Payment Delays Threaten Industry",
+      "snippet": "Built study reveals slow payments inflate bids by 8%, trigger project cancellations, and discourage competition amid economic uncertainty."
+    },
+    {
+      "index": 37,
+      "url": "https://www.nicb.org/news/news-releases/contractor-fraud-costs-americans-billions-every-year",
+      "title": "Contractor Fraud Costs Americans Billions Every Year",
+      "snippet": "Upwards of 10 percent or $9.3 billion is lost to post-disaster fraud, which not only impacts individuals, but also impacts insurance premiums ..."
+    },
+    {
+      "index": 38,
+      "url": "https://themortgagepoint.com/2025/12/04/weak-housing-market-dampens-enthusiasm-for-home-remodeling/",
+      "title": "Weak Housing Market Dampens Enthusiasm for Home Remodeling",
+      "snippet": "LIRA projects that year-over-year spending on home renovation and repair will rise by 2.4% in early 2026 before easing to 1.9% in the third ..."
+    },
+    {
+      "index": 39,
+      "url": "https://inszoneinsurance.com/blog/construction-defect-claims",
+      "title": "Construction Defect Claims: Trends and Strategies for 2024",
+      "snippet": "Learn how to manage construction defect claims effectively with expert insights, key trends, and strategies to mitigate risks in 2024."
+    },
+    {
+      "index": 40,
+      "url": "https://www.cotality.com/insights/articles/disaster-relief-delays-open-doors-to-insurance-fraud",
+      "title": "Federal disaster relief delays could inflate insurance fraud - Cotality",
+      "snippet": "Already, one in every 10 property and casualty (P&C) claims involve some form of inaccurate or misleading information. Adding an influx of ..."
+    },
+    {
+      "index": 41,
+      "url": "https://www.jchs.harvard.edu/blog/remodeling-expected-continue-slow-steady-growth-next-year",
+      "title": "Remodeling Expected to Continue Slow but Steady Growth Into Next ...",
+      "snippet": "Despite the modest pace, total homeowner remodeling spending is expected to reach $524 billion in early 2026, a new record high. If the housing ..."
+    },
+    {
+      "index": 42,
+      "url": "https://www.milliman.com/insight/2017/Analyzing-construction-defects-Practical-considerations/",
+      "title": "Analyzing construction defects: Practical considerations - Milliman",
+      "snippet": "A simple starting point in analyzing construction defect claims is to separate the data by state, or groups of states."
+    },
+    {
+      "index": 43,
+      "url": "https://www.sekady.com/sekady-blog/what-is-a-draw-inspection",
+      "title": "What is a Draw Inspection? - Sekady",
+      "snippet": "$500-$1,500 per inspection (commercial); Based on location, travel, complexity. For a $500,000 project with 5 inspections: $1,500-$2,500 total."
+    },
+    {
+      "index": 44,
+      "url": "https://www.cca-acc.com/wp-content/uploads/2021/05/Construction-in-the-digital-age-report-EN-FINAL.pdf",
+      "title": "[PDF] A deep dive into technological adoption in Canada's construction ...",
+      "snippet": "Sixty-four percent of respondents indicate that CEOs (41%), CFOs (14%) and CIO/CTOs (9%) are their companies' primary tech investment decision makers."
+    },
+    {
+      "index": 45,
+      "url": "https://warrenaverett.com/insights/custody-audit/",
+      "title": "You Need a Custody Audit. Now What? (A Step-by-Step Guide for ...",
+      "snippet": "Unlike a financial statement audit, a custody audit examines how your firm handles client assets. The auditor will look at your control ..."
+    },
+    {
+      "index": 46,
+      "url": "https://www.larsonhomeinspection.com/construction-bank-draw-inspection",
+      "title": "Construction Bank Draw Inspection",
+      "snippet": "Commercial - $250-$350. Residential - $100-$150. Fees are based on size of project, regularity and complexity of inspections, and distance traveled."
+    },
+    {
+      "index": 47,
+      "url": "https://kpmg.com/ca/en/home/media/press-releases/2025/06/pressure-to-invest-in-technology-mounts.html",
+      "title": "Pressure to invest in technology mounts - KPMG Canada",
+      "snippet": "Nearly eight in 10 (78 per cent) say procurement processes are changing to encourage innovation and digital adoption, and 43 per cent indicated ..."
+    },
+    {
+      "index": 48,
+      "url": "https://www.kitces.com/blog/ria-custody-rule-2064-2-investment-advisers-act-1940-sec-regulation-trigger-compliance-liabillity/",
+      "title": "RIA Custody Rule: Understanding Hidden Liability Triggers",
+      "snippet": "This article unpacks nuances of the Custody Rule, clarifying when custody is triggered and how RIAs can build operational systems that ..."
+    },
+    {
+      "index": 49,
+      "url": "https://magicplan.app/blog/getting-paid-on-time-for-construction-contractors",
+      "title": "The Road to Getting Paid on Time for Residential Construction ...",
+      "snippet": "43% of the respondents said that they have to wait between 30 and 60 days for their payment. For another 30%, this figure rises to more than 60 days. Yes, the ..."
+    },
+    {
+      "index": 50,
+      "url": "https://nixlaw.com/practice-areas/construction-dispute-lawyers/statistics/",
+      "title": "Construction Dispute Statistics | Nix Patterson, LLP",
+      "snippet": "According to the 2022 Global Construction Disputes Report published by Arcadis, the majority of respondents handled more disputes in 2021 than in 2020. Whether ..."
+    },
+    {
+      "index": 51,
+      "url": "https://www.constructiondive.com/news/late-payments-cost-construction-industry-208b-in-2022-report/636224/",
+      "title": "Late payments cost construction industry $208B in 2022",
+      "snippet": "In the past year, late financial payments cost the industry $208 billion. The figure is a 53% increase from 2021's total of $136 billion ..."
+    },
+    {
+      "index": 52,
+      "url": "https://billd.com/blog/cost-of-slow-payments/",
+      "title": "How to Calculate the Hidden Cost of Slow Pay in Construction - Billd",
+      "snippet": "A formula to help subcontractors calculate the true cost of slow pay, along with considerations to make when determining the cost of capital."
+    },
+    {
+      "index": 53,
+      "url": "https://www.arcadis.com/en/insights/perspectives/global/global-construction-disputes-report",
+      "title": "2022 Global Construction Disputes Report",
+      "snippet": "From 2020 to 2021, the average value of disputes declined by 3% across the globe but remains at historically high levels compared to 2019 and earlier."
+    },
+    {
+      "index": 54,
+      "url": "https://www.americanexpress.com/content/dam/amex/us/merchant/pdf/bcfm/PYMNTS-Construction-Delayed-Payments-January-2025.pdf",
+      "title": "[PDF] Solving Construction's Delayed Payments With Digital Tools",
+      "snippet": "In 2024, payment delays cost the United States construction industry an estimated $280 billion. However, slow payments' impact is not limited to higher ..."
+    },
+    {
+      "index": 55,
+      "url": "https://www.projectmanager.com/blog/schedule-of-values",
+      "title": "Schedule of Values in Construction (Example & Template Included)",
+      "snippet": "The schedule of values helps them track the construction budget and costs as well as manage their payment application as they're paid in part ..."
+    },
+    {
+      "index": 56,
+      "url": "https://www.procore.com/library/contractor-payment-schedule",
+      "title": "Contractor Payment Schedules: Why They're Important & Choosing ...",
+      "snippet": "A clear payment schedule helps ensure a project's contractor and subcontractors are paid in a timely manner and that the project progresses smoothly."
+    },
+    {
+      "index": 57,
+      "url": "https://www.nicb.org/news/news-releases/contractor-fraud-costs-americans-billions-every-year",
+      "title": "Contractor Fraud Costs Americans Billions Every Year",
+      "snippet": "Upwards of 10 percent or $9.3 billion is lost to post-disaster fraud, which not only impacts individuals, but also impacts insurance premiums ..."
+    },
+    {
+      "index": 58,
+      "url": "https://www.rakenapp.com/blog/what-is-schedule-of-values-sov",
+      "title": "What is a Schedule of Values (SOV) in Construction? - Raken",
+      "snippet": "A schedule of values, or SOV, is a document that lists all work and costs associated with a construction project. SOVs help track financial ..."
+    },
+    {
+      "index": 59,
+      "url": "https://maresdow.com/how-often-should-a-general-contractor-update-the-property-owner/",
+      "title": "How Often Should a General Contractor Update the Property Owner?",
+      "snippet": "The frequency with which a general contractor provides updates is influenced by various factors. First, the complexity and scale of the project play a ..."
+    },
+    {
+      "index": 60,
+      "url": "https://riskandinsurance.com/insurance-fraud-reaches-billions-as-traditional-detection-methods-miss-majority-of-clues/",
+      "title": "Insurance Fraud Reaches Billions as Traditional Detection Methods ...",
+      "snippet": "Insurance claims fraud resulted in over $300 billion in losses during 2023, yet traditional fraud detection methods analyze only 5% of open injury claims."
+    }
+  ],
+  "search_results": [
+    {
+      "title": "Schedule of Values in Construction (Example & Template Included)",
+      "url": "https://www.projectmanager.com/blog/schedule-of-values",
+      "snippet": "The schedule of values helps them track the construction budget and costs as well as manage their payment application as they're paid in part ...",
+      "date": null
+    },
+    {
+      "title": "AD&C Financing Survey - NAHB",
+      "url": "https://www.nahb.org/news-and-economics/housing-economics/indices/adc-financing-survey",
+      "snippet": "The cost of credit for residential construction and development declined in the fourth quarter of 2025, according to NAHB's quarterly survey on ...",
+      "date": null
+    },
+    {
+      "title": "71% of Homeowners Postponing Renovations Due to ...",
+      "url": "https://www.parealtors.org/blog/71-of-homeowners-postponing-renovations-due-to-economic-concern/",
+      "snippet": "So far this year, 71% of homeowners have postponed renovations due to economic uncertainty, according to a survey of over 1,000 homeowners ...",
+      "date": null
+    },
+    {
+      "title": "Schedule of Values in Construction Explained - Procore",
+      "url": "https://www.procore.com/library/schedule-of-values-explained",
+      "snippet": "A well-defined SOV fosters transparent payment practices as it explicitly states the assigned value for each work item. This clarity empowers owners to make ...",
+      "date": null
+    },
+    {
+      "title": "Cost to Construct a Home Rose Significantly Over Last Two Years",
+      "url": "https://www.nahb.org/blog/2025/01/cost-of-construction-survey-2024",
+      "snippet": "Construction costs accounted for 64.4% of the average price of a new home in 2024 compared to 60.8% in 2022, according to NAHB's most recent ...",
+      "date": null
+    },
+    {
+      "title": "'Unwelcome surge' of project abandonments hits construction",
+      "url": "https://www.constructiondive.com/news/abandonments-project-stress-constructconnect/744831/",
+      "snippet": "The Project Stress Index, a measure of construction projects that have been paused, abandoned or have a delayed bid date, increased 1.1% in ...",
+      "date": null
+    },
+    {
+      "title": "70% of Contractors Say Payment Delays Threaten Industry",
+      "url": "https://getbuilt.com/blog/70-percent-of-contractors-say-payment-delays-threaten-industry/",
+      "snippet": "Built study reveals slow payments inflate bids by 8%, trigger project cancellations, and discourage competition amid economic uncertainty.",
+      "date": null
+    },
+    {
+      "title": "Invoice Factoring in Philadelphia & Harrisburg, PA & Delaware",
+      "url": "https://www.rivierafinance.com/philadelphia-invoice-factoring/",
+      "snippet": "Need working capital? We provide cash flow solutions in the Philadelphia, Harrisburg or Delaware area for businesses who need invoice factoring.",
+      "date": null
+    },
+    {
+      "title": "Construction Dispute Statistics | Nix Patterson, LLP",
+      "url": "https://nixlaw.com/practice-areas/construction-dispute-lawyers/statistics/",
+      "snippet": "According to the 2022 Global Construction Disputes Report published by Arcadis, the majority of respondents handled more disputes in 2021 than in 2020. Whether ...",
+      "date": null
+    },
+    {
+      "title": "The top four cash flow management issues construction companies ...",
+      "url": "https://www.plooto.com/blog/the-top-four-cash-flow-management-issues-construction-companies-face",
+      "snippet": "1. Inaccurate project estimates that create downstream cash flow problems \u00b7 2. Change orders that throw off your financial timing \u00b7 3. Payroll ...",
+      "date": null
+    },
+    {
+      "title": "Factoring Company in Philadelphia, Pennsylvania (PN)",
+      "url": "https://www.1stcommercialcredit.com/pennsylvania/philadelphia",
+      "snippet": "1st Commercial Credit makes the telecom invoice financing process short and simple. The initial application approval takes between 3-5 days, and once approved, ...",
+      "date": null
+    },
+    {
+      "title": "Top 6 Misunderstandings Between Residential Contractors and ...",
+      "url": "https://www.levelset.com/blog/top-misunderstandings-residential-contractors-homeowners/",
+      "snippet": "Learn the most common misunderstandings between residential contractors and homeowners \u2014 and exactly how they can be avoided.",
+      "date": null
+    },
+    {
+      "title": "Challenge Draw Inspection Report Results - A Lender's Guide",
+      "url": "https://www.trinityonline.com/blog/how-to-challenge-draw-inspection-report-results-and-what-happens-next-a-lenders-guide",
+      "snippet": "In this article, we'll break down how to navigate an unsupported draw request, inspection differences, what to expect next, and how to ...",
+      "date": null
+    },
+    {
+      "title": "Dispute Resolution: 5 Options When the Adjuster Refuses to Pay",
+      "url": "https://www.randrmagonline.com/articles/89798-dispute-resolution-5-options-when-the-adjuster-refuses-to-pay",
+      "snippet": "1. Make a compelling case. Before you decide to go to war over a bill or an estimate, do your due diligence to support your position.",
+      "date": null
+    },
+    {
+      "title": "Pennsylvania Mechanic's Liens",
+      "url": "https://fullertonlaw.com/mechanics-liens-in-pennsylvania",
+      "snippet": "The mechanic's lien for new construction will have priority over all liens on the property, except an acquisition loan or construction loan.",
+      "date": null
+    },
+    {
+      "title": "Understanding Draw Management",
+      "url": "https://aaplonline.com/articles/uncategorized/understanding-draw-management/",
+      "snippet": "Further, it should go without saying that with wire fraud at an all-time high, lenders should not send wires without independent verbal ...",
+      "date": null
+    },
+    {
+      "title": "Insurance Dispute Lawyers Near Raleigh - Miller Law Group",
+      "url": "https://millerlawgroupnc.com/insurance-coverage-disputes/",
+      "snippet": "Our insurance claim dispute attorneys serving the greater Raleigh, North Carolina area help policyholders who find themselves in a disagreement about coverage.",
+      "date": null
+    },
+    {
+      "title": "Building In Pennsylvania? | Kaplin Stewart Meloff Reiter & Stein, P.C.",
+      "url": "https://www.kaplaw.com/blog/building-in-pennsylvania-make-sure-you-understand-mechanic-s-liens/",
+      "snippet": "A mechanic's lien allows one who supplies labor, material, or services in connection with the improvement of privately owned real property and is unpaid to ...",
+      "date": null
+    },
+    {
+      "title": "Streamlining Construction and Property Accounting in Private Equity ...",
+      "url": "https://www.eisneramper.com/insights/real-estate/streamlining-construction-property-pe-portfolios-1222/",
+      "snippet": "Fund management should consult with real estate accounting firms on the benefits of outsourcing property accounting, focusing on current pain points.",
+      "date": null
+    },
+    {
+      "title": "Construction Fraud: The $250000 Problem Threatening Your Business",
+      "url": "https://www.veryfi.com/fraud-detection/construction-fraud-the-250000-problem-threatening-your-business/",
+      "snippet": "$9.3 billion annually lost to post-disaster contractor fraud alone ... \u201cFraud in the Construction Industry \u2013 Survey Report 2022.\u201d July 2022 ...",
+      "date": null
+    },
+    {
+      "title": "[PDF] 2025 Remodeling Impact Report",
+      "url": "https://www.nari.org/NARI/media/Assets/2025-Remodeling-Impact-Report_Final-4-9-25.pdf",
+      "snippet": "National Association of the Remodeling Industry Cost. Survey: In the summer of 2024, NARI emailed a cost survey to its member companies. A ...",
+      "date": null
+    },
+    {
+      "title": "Construction Trust Funds - The Cromeens Law Firm",
+      "url": "https://thecromeenslawfirm.com/construction-trust-funds/",
+      "snippet": "A construction trust fund provides protection for contractors, subcontractors, and material suppliers in cases where owners or contractors fail to pay for work.",
+      "date": null
+    },
+    {
+      "title": "Contractor Fraud Costs Americans Billions Every Year",
+      "url": "https://www.nicb.org/news/news-releases/contractor-fraud-costs-americans-billions-every-year",
+      "snippet": "Upwards of 10 percent or $9.3 billion is lost to post-disaster fraud, which not only impacts individuals, but also impacts insurance premiums ...",
+      "date": null
+    },
+    {
+      "title": "Exclusive: The 2022 NARI Salary Survey - QUALIFIED REMODELER",
+      "url": "https://www.qualifiedremodeler.com/exclusive-the-2022-nari-salary-survey",
+      "snippet": "A five-year employee at a firm with $1 million in revenue receives 10 days of paid vacation while firms with revenue greater than $4 million ...",
+      "date": null
+    },
+    {
+      "title": "Residential and Commercial Construction: 7 Crucial Differences",
+      "url": "https://www.levelset.com/blog/residential-and-commercial-construction-differences/",
+      "snippet": "Residential projects tend to be shorter and less complicated than commercial projects. For example, commercial projects may need to secure ...",
+      "date": null
+    },
+    {
+      "title": "Construction Spending Increases By 0.5 Percent In October As ...",
+      "url": "https://www.agc.org/news/2026/01/21/construction-spending-increases-05-percent-october-gains-public-outlays-home-renovation-offset",
+      "snippet": "Spending on projects underway in October climbed by 0.5 percent from September, led by a huge increase in residential improvements and a small ...",
+      "date": null
+    },
+    {
+      "title": "[PDF] Improving America's Housing 2025",
+      "url": "https://www.jchs.harvard.edu/sites/default/files/reports/files/Harvard_JCHS_Improving_Americas_Housing_2025.pdf",
+      "snippet": "For additional information, data tables, and interactive charts, or to download a PDF of this report, visit www.jchs.harvard.edu.",
+      "date": null
+    },
+    {
+      "title": "The Top 8 Important Differences Between Commercial and ...",
+      "url": "https://cicconstruction.com/blog/the-top-important-differences-between-commercial-and-residential-construction/",
+      "snippet": "Residential construction usually is paid by homeowners using cash and/or bank loans. Some residential projects are funded by government agencies ...",
+      "date": null
+    },
+    {
+      "title": "[PDF] 2025 Construction Outlook National Survey Results",
+      "url": "https://www.agc.org/sites/default/files/users/user21902/2025_Outlook_National_V3%20(1).pdf",
+      "snippet": "Increased base pay rates more in 2024 than in 2023. 41%. 10%. 25%. 32%. 45%. 0% 10% 20% 30% 40% 50% 60% 70% 80% 90% 100%. We have accelerated purchases after ...",
+      "date": null
+    },
+    {
+      "title": "Leading Indicator of Remodeling Activity (LIRA)",
+      "url": "https://www.jchs.harvard.edu/research-areas/remodeling/lira",
+      "snippet": "The Leading Indicator of Remodeling Activity (LIRA) provides a short-term outlook of national home improvement and repair spending to owner-occupied homes.",
+      "date": null
+    },
+    {
+      "title": "Private project abandonments hit record highs",
+      "url": "https://www.constructiondive.com/news/private-project-abandonments-record-high/750100/",
+      "snippet": "A 30.3% spike in overall project abandonments caused the surge in stress in May, according to the report. In contrast, delayed bids dropped 1.9% ...",
+      "date": null
+    },
+    {
+      "title": "The Hidden Dangers of Overpaying Your Contractor Too Early",
+      "url": "https://wymanlegalsolutions.com/the-hidden-dangers-of-overpaying-your-contractor-too-early/",
+      "snippet": "Keep detailed records of contracts, payments, and communications to protect yourself if disputes arise. Conclusion: Protect Your Home and Budget.",
+      "date": null
+    },
+    {
+      "title": "2024 Construction Payments Report | Delayed Payments",
+      "url": "https://www.pbmares.com/accounts-receivable-in-construction-cash-flow-at-risk-amid-payment-delays/",
+      "snippet": "82 percent of contractors now face payment waits of over 30 days, up from 49 percent two years ago. These delays interrupt cash flow, impacting the ability to ...",
+      "date": null
+    },
+    {
+      "title": "Construction Project Abandonments on the Rise \u2014 News",
+      "url": "https://theaiatrust.com/construction-project-abandonments-on-the-rise/",
+      "snippet": "The abandonments are primarily fueled by cost-related matters as the design is completed and the impact of high interest rates is factored into the actual cost.",
+      "date": null
+    },
+    {
+      "title": "Contractor Rights When the Homeowner Won't Pay - Levelset",
+      "url": "https://www.levelset.com/blog/contractor-rights-when-homeowner-wont-pay/",
+      "snippet": "In this article, we look at common reasons why a homeowner doesn't pay their contractor \u2014 and how to overcome them ...",
+      "date": null
+    },
+    {
+      "title": "Construction's Cash Crunch: 70% of Contractors Say Payment ...",
+      "url": "https://getbuilt.com/blog/70-percent-of-contractors-say-payment-delays-threaten-industry/",
+      "snippet": "According to research involving 250 general contractors and subcontractors, a staggering 70% regularly face delayed payments, causing serious ...",
+      "date": null
+    },
+    {
+      "title": "Contractor Fraud Costs Americans Billions Every Year",
+      "url": "https://www.nicb.org/news/news-releases/contractor-fraud-costs-americans-billions-every-year",
+      "snippet": "Upwards of 10 percent or $9.3 billion is lost to post-disaster fraud, which not only impacts individuals, but also impacts insurance premiums ...",
+      "date": null
+    },
+    {
+      "title": "Weak Housing Market Dampens Enthusiasm for Home Remodeling",
+      "url": "https://themortgagepoint.com/2025/12/04/weak-housing-market-dampens-enthusiasm-for-home-remodeling/",
+      "snippet": "LIRA projects that year-over-year spending on home renovation and repair will rise by 2.4% in early 2026 before easing to 1.9% in the third ...",
+      "date": null
+    },
+    {
+      "title": "Construction Defect Claims: Trends and Strategies for 2024",
+      "url": "https://inszoneinsurance.com/blog/construction-defect-claims",
+      "snippet": "Learn how to manage construction defect claims effectively with expert insights, key trends, and strategies to mitigate risks in 2024.",
+      "date": null
+    },
+    {
+      "title": "Federal disaster relief delays could inflate insurance fraud - Cotality",
+      "url": "https://www.cotality.com/insights/articles/disaster-relief-delays-open-doors-to-insurance-fraud",
+      "snippet": "Already, one in every 10 property and casualty (P&C) claims involve some form of inaccurate or misleading information. Adding an influx of ...",
+      "date": null
+    },
+    {
+      "title": "Remodeling Expected to Continue Slow but Steady Growth Into Next ...",
+      "url": "https://www.jchs.harvard.edu/blog/remodeling-expected-continue-slow-steady-growth-next-year",
+      "snippet": "Despite the modest pace, total homeowner remodeling spending is expected to reach $524 billion in early 2026, a new record high. If the housing ...",
+      "date": null
+    },
+    {
+      "title": "Analyzing construction defects: Practical considerations - Milliman",
+      "url": "https://www.milliman.com/insight/2017/Analyzing-construction-defects-Practical-considerations/",
+      "snippet": "A simple starting point in analyzing construction defect claims is to separate the data by state, or groups of states.",
+      "date": null
+    },
+    {
+      "title": "What is a Draw Inspection? - Sekady",
+      "url": "https://www.sekady.com/sekady-blog/what-is-a-draw-inspection",
+      "snippet": "$500-$1,500 per inspection (commercial); Based on location, travel, complexity. For a $500,000 project with 5 inspections: $1,500-$2,500 total.",
+      "date": null
+    },
+    {
+      "title": "[PDF] A deep dive into technological adoption in Canada's construction ...",
+      "url": "https://www.cca-acc.com/wp-content/uploads/2021/05/Construction-in-the-digital-age-report-EN-FINAL.pdf",
+      "snippet": "Sixty-four percent of respondents indicate that CEOs (41%), CFOs (14%) and CIO/CTOs (9%) are their companies' primary tech investment decision makers.",
+      "date": null
+    },
+    {
+      "title": "You Need a Custody Audit. Now What? (A Step-by-Step Guide for ...",
+      "url": "https://warrenaverett.com/insights/custody-audit/",
+      "snippet": "Unlike a financial statement audit, a custody audit examines how your firm handles client assets. The auditor will look at your control ...",
+      "date": null
+    },
+    {
+      "title": "Construction Bank Draw Inspection",
+      "url": "https://www.larsonhomeinspection.com/construction-bank-draw-inspection",
+      "snippet": "Commercial - $250-$350. Residential - $100-$150. Fees are based on size of project, regularity and complexity of inspections, and distance traveled.",
+      "date": null
+    },
+    {
+      "title": "Pressure to invest in technology mounts - KPMG Canada",
+      "url": "https://kpmg.com/ca/en/home/media/press-releases/2025/06/pressure-to-invest-in-technology-mounts.html",
+      "snippet": "Nearly eight in 10 (78 per cent) say procurement processes are changing to encourage innovation and digital adoption, and 43 per cent indicated ...",
+      "date": null
+    },
+    {
+      "title": "RIA Custody Rule: Understanding Hidden Liability Triggers",
+      "url": "https://www.kitces.com/blog/ria-custody-rule-2064-2-investment-advisers-act-1940-sec-regulation-trigger-compliance-liabillity/",
+      "snippet": "This article unpacks nuances of the Custody Rule, clarifying when custody is triggered and how RIAs can build operational systems that ...",
+      "date": null
+    },
+    {
+      "title": "The Road to Getting Paid on Time for Residential Construction ...",
+      "url": "https://magicplan.app/blog/getting-paid-on-time-for-construction-contractors",
+      "snippet": "43% of the respondents said that they have to wait between 30 and 60 days for their payment. For another 30%, this figure rises to more than 60 days. Yes, the ...",
+      "date": null
+    },
+    {
+      "title": "Construction Dispute Statistics | Nix Patterson, LLP",
+      "url": "https://nixlaw.com/practice-areas/construction-dispute-lawyers/statistics/",
+      "snippet": "And construction disputes can be costly \u2014 the average dispute value globally in 2021 was reported to be $52.6 million, according to the report. \u201cFrom 2020 to ...",
+      "date": null
+    },
+    {
+      "title": "Late payments cost construction industry $208B in 2022",
+      "url": "https://www.constructiondive.com/news/late-payments-cost-construction-industry-208b-in-2022-report/636224/",
+      "snippet": "In the past year, late financial payments cost the industry $208 billion. The figure is a 53% increase from 2021's total of $136 billion ...",
+      "date": null
+    },
+    {
+      "title": "How to Calculate the Hidden Cost of Slow Pay in Construction - Billd",
+      "url": "https://billd.com/blog/cost-of-slow-payments/",
+      "snippet": "A formula to help subcontractors calculate the true cost of slow pay, along with considerations to make when determining the cost of capital.",
+      "date": null
+    },
+    {
+      "title": "2022 Global Construction Disputes Report",
+      "url": "https://www.arcadis.com/en/insights/perspectives/global/global-construction-disputes-report",
+      "snippet": "From 2020 to 2021, the average value of disputes declined by 3% across the globe but remains at historically high levels compared to 2019 and earlier.",
+      "date": null
+    },
+    {
+      "title": "[PDF] Solving Construction's Delayed Payments With Digital Tools",
+      "url": "https://www.americanexpress.com/content/dam/amex/us/merchant/pdf/bcfm/PYMNTS-Construction-Delayed-Payments-January-2025.pdf",
+      "snippet": "In 2024, payment delays cost the United States construction industry an estimated $280 billion. However, slow payments' impact is not limited to higher ...",
+      "date": null
+    },
+    {
+      "title": "Schedule of Values in Construction (Example & Template Included)",
+      "url": "https://www.projectmanager.com/blog/schedule-of-values",
+      "snippet": "There are complicated projects and the contractors use the schedule of values to help stay on budget and not eat into their profit margin.",
+      "date": null
+    },
+    {
+      "title": "Contractor Payment Schedules: Why They're Important & Choosing ...",
+      "url": "https://www.procore.com/library/contractor-payment-schedule",
+      "snippet": "A clear payment schedule helps ensure a project's contractor and subcontractors are paid in a timely manner and that the project progresses smoothly.",
+      "date": null
+    },
+    {
+      "title": "Contractor Fraud Costs Americans Billions Every Year",
+      "url": "https://www.nicb.org/news/news-releases/contractor-fraud-costs-americans-billions-every-year",
+      "snippet": "\u201cContractor fraud costs hardworking Americans billions of dollars every year,\u201d said David J. Glawe, President and CEO of NICB.",
+      "date": null
+    },
+    {
+      "title": "What is a Schedule of Values (SOV) in Construction? - Raken",
+      "url": "https://www.rakenapp.com/blog/what-is-schedule-of-values-sov",
+      "snippet": "A schedule of values, or SOV, is a document that lists all work and costs associated with a construction project. SOVs help track financial ...",
+      "date": null
+    },
+    {
+      "title": "How Often Should a General Contractor Update the Property Owner?",
+      "url": "https://maresdow.com/how-often-should-a-general-contractor-update-the-property-owner/",
+      "snippet": "The frequency with which a general contractor provides updates is influenced by various factors. First, the complexity and scale of the project play a ...",
+      "date": null
+    },
+    {
+      "title": "Insurance Fraud Reaches Billions as Traditional Detection Methods ...",
+      "url": "https://riskandinsurance.com/insurance-fraud-reaches-billions-as-traditional-detection-methods-miss-majority-of-clues/",
+      "snippet": "Insurance claims fraud resulted in over $300 billion in losses during 2023, yet traditional fraud detection methods analyze only 5% of open injury claims.",
+      "date": null
+    }
+  ]
+}

@@ -1,0 +1,196 @@
+engine_version: 3.0.0
+provider: perplexity
+project: constructsure
+workspace: problem
+started_at: '2026-02-16T18:12:42Z'
+updated_at: '2026-02-16T18:20:00Z'
+config:
+  max_rounds: 4
+  max_attempts_per_hypothesis: 2
+  broad_model: sonar-deep-research
+  targeted_model: sonar-deep-research
+  budget_limit_usd: null
+hypotheses:
+  H1:
+    text: Residential renovation payments are structurally disconnected from verified work completion, with no standardized
+      schedule-of-values framework linking disbursements to construction milestones
+    status: validated
+    resolution_round: 1
+    resolution_rationale: "SOV frameworks concentrated in commercial, not residential. Residential uses vague percentage-based or lump-sum schedules without objective completion criteria. No third-party verification standard. Multiple sources confirm this across prevalence, severity, customer voice, and current solutions research."
+    evidence_strength: strong
+    evidence_refs:
+      - "prevalence: SOV 'mostly in large-scale commercial projects' (NAHB/industry analysis)"
+      - "prevalence: NARI survey shows no widespread SOV adoption among residential contractors"
+      - "severity: Ambiguity about 'completion' enables overpayment — no standard for what constitutes milestone completion"
+      - "severity: Manual draw process averages 11 days vs 1.5 days automated"
+      - "customer-voice: Singapore CAS data — S$728K in prepayment losses from renovation contractors (2024)"
+      - "customer-voice: Mr. Lim case — S$90K contract, payments made for 'project confirmation to carpentry progress,' work barely started"
+      - "current-solutions: CoConstruct, Houzz Pro, Buildertrend generate invoices but do NOT enforce SOV verification or independent progress checks"
+      - "current-solutions: Jobber offers progress invoicing but no third-party verification of milestone completion"
+    redirected_to: null
+    gaps_remaining: []
+  H2:
+    text: Homeowners in residential renovation projects routinely prepay for unverified work, exposing them to significant
+      financial loss when contractors underperform, abandon projects, or file mechanic's liens
+    status: validated
+    resolution_round: 1
+    resolution_rationale: "Overwhelming evidence. FTC: 109K+ scams since 2007, $206.9M losses, median $1,700 per scam (3.5x other scam types). 1 in 10 Americans victimized. Project abandonments at record highs (66.5% increase since end 2024). Multiple case studies of catastrophic homeowner loss."
+    evidence_strength: strong
+    evidence_refs:
+      - "prevalence: FTC — 109,000+ home improvement scams reported 2007-2021, $206.9M total losses"
+      - "prevalence: 2024 FTC — 81,900 scam reports, avg loss $1,800/incident"
+      - "prevalence: 1 in 10 Americans victimized by contractor fraud, avg loss >$2,400"
+      - "prevalence: Project abandonments up 66.5% since end 2024 — record highs (ConstructConnect)"
+      - "prevalence: 71% of homeowners postponing renovations due to economic uncertainty"
+      - "severity: Colorado homeowner lost entire retirement savings on $350K renovation scam"
+      - "severity: Mechanics lien foreclosure risk — contractor can force property sale in some states"
+      - "severity: Dispute resolution averages 16.7 months (Arcadis)"
+      - "customer-voice: 'I told my husband I was done' — homeowner after contractor disappeared"
+      - "customer-voice: 'I'm still in debt, still trying to pay it off. There was a dark period.'"
+      - "customer-voice: 75 homeowners mass-emailed by bankrupt roofer who collected prepayments"
+      - "customer-voice: BBB Scam Tracker — 'They vanished without cleaning the asphalt debris. Phone was disconnected.'"
+      - "customer-voice: 85% of remodeling homeowners report significant stress, 57% experience renovation fatigue (Block Renovation)"
+    redirected_to: null
+    gaps_remaining: []
+  H3:
+    text: Residential contractors experience chronic cash flow strain from slow and unpredictable payment cycles, forcing
+      reliance on factoring or self-financing and creating downstream non-payment risk for subcontractors
+    status: validated
+    resolution_round: 1
+    resolution_rationale: "Most quantitatively documented hypothesis. 70% face delayed payments, 82% wait 30+ days (up from 49% two years ago), average 83-day collection time. 60 hours/month on payment admin. Bids inflated 8%. $280B annual payment delay costs. 100% of subs evaluate GC payment history, 88% have rejected projects over payment concerns."
+    evidence_strength: strong
+    evidence_refs:
+      - "prevalence: 70% of contractors regularly face delayed payments (Built 2025, n=250)"
+      - "prevalence: 82% face 30+ day payment waits, up from 49% two years ago (Rabbet 2024)"
+      - "prevalence: Average 83-day collection time vs 30-day contract terms (CFMA)"
+      - "prevalence: 71% of subcontractors report delayed payments from GCs, up from 60% in 2022"
+      - "prevalence: 77% of subcontractors cover materials out-of-pocket before reimbursement"
+      - "severity: 60 hours/month on payment administration — nearly 2 full work weeks"
+      - "severity: Invoice creation ~15 hrs/mo, follow-up/collections ~20 hrs/mo, disputes ~12 hrs/mo, reconciliation ~13 hrs/mo"
+      - "severity: Contractors inflate bids 8% to compensate for slow payment risk"
+      - "severity: 35% of projects canceled or significantly delayed due to financing gaps"
+      - "severity: $280B annual cost from payment delays (Rabbet 2024)"
+      - "severity: Texas GC forced onto personal credit cards to pay subs while waiting on $50K invoice"
+      - "customer-voice: 'anxiety becomes a constant companion, sleepless nights follow' (Contractor Foreman)"
+      - "customer-voice: 100% of subcontractors evaluate GC payment reputation, 75% raise bids to compensate"
+      - "customer-voice: 88% of subcontractors have rejected projects over payment reliability concerns"
+      - "customer-voice: 76% of contractors willing to offer discounts for guaranteed faster payments"
+      - "customer-voice: 82% open to digital payment systems if it accelerates cash flow"
+    redirected_to: null
+    gaps_remaining: []
+  H4:
+    text: Lenders and insurers funding residential renovation and restoration projects lack real-time visibility into fund
+      utilization and work completion, relying on manual and costly draw inspection processes that leave them exposed to fraud
+      and overpayment
+    status: validated
+    resolution_round: 1
+    resolution_rationale: "Manual draw process averages 11 days. Draw inspection costs $200-$500/inspection residential. Inspections are episodic point-in-time snapshots, not real-time monitoring. Built Technologies and Land Gorilla solve this for commercial loans but are not adapted for residential projects ($10K-$100K). AI-generated fraudulent photos now a distinct risk category. $9.3B lost annually to post-disaster fraud."
+    evidence_strength: strong
+    evidence_refs:
+      - "prevalence: Manual draw inspection timeline averages 11 days from work completion to payment"
+      - "prevalence: 29% of inspection requests received after business hours, adding scheduling delays"
+      - "prevalence: Built Technologies customers average 2.5-day inspection turnaround — but this is commercial lending"
+      - "severity: Draw inspection costs $200-$500 per inspection residential, $500-$1,500 commercial"
+      - "severity: Common draw errors: incomplete submissions, calculation errors, missing lien waivers, budget ambiguity"
+      - "severity: Inspection disputes when inspectors report 50% completion but builders claim 80%"
+      - "severity: Between inspections, lenders have zero visibility into progress, quality, or fund usage"
+      - "customer-voice: 'inspections provide snapshots, not real-time visibility' — financial services analysis"
+      - "customer-voice: Truepic documenting fraudulent/manipulated progress photos as major fraud vector"
+      - "current-solutions: Built Technologies, Land Gorilla exist for commercial — NOT adapted for residential at scale"
+      - "current-solutions: Per-draw costs don't scale to $10K-$100K residential projects"
+      - "current-solutions: EagleView drones for insurance claims but not residential renovation progress"
+      - "current-solutions: $9.3B lost annually to post-disaster fraud (NICB) — 10% of catastrophe losses"
+    redirected_to: null
+    gaps_remaining: []
+  H5:
+    text: "Residential renovation and restoration operates without the independent third-party financial controls — fund
+      custody, progress verification, audit trails — that are standard practice in commercial construction"
+    status: validated
+    resolution_round: 1
+    resolution_rationale: "Comprehensive comparison across all research areas confirms the gap. Commercial has: SOV frameworks, third-party inspections, surety bonds, AIA contracts, construction loan admin systems, segregated escrow accounts, real-time reporting. Residential has none as standard. Escrow workarounds exist (Build Safe Escrow, La Mesa Fund Control) but are expensive ($400-$725/draw), fragmented by state, and underutilized. No CM platform (Buildertrend, CoConstruct, Houzz Pro, Jobber) offers fund custody."
+    evidence_strength: strong
+    evidence_refs:
+      - "prevalence: Commercial uses SOV, third-party inspections, surety bonds, AIA contracts — residential uses none as standard"
+      - "prevalence: Commercial construction trust funds segregate funds, verify work, authorize disbursements — residential does not"
+      - "prevalence: NY requires escrow/bond for residential contractors but compliance uneven"
+      - "severity: '$75K paid to contractor who vanished before pouring foundation — no escrow, no recourse'"
+      - "severity: Escrow costs $400-$725 per draw — 5-15% of project cost for small renovations"
+      - "severity: State regulatory fragmentation — 50 different regimes for escrow/bonding"
+      - "customer-voice: Niche escrow companies (Build Safe, La Mesa) market third-party custody as novel — proves it's not standard"
+      - "current-solutions: Buildertrend, CoConstruct, Houzz Pro, Jobber — none offer fund custody or independent verification"
+      - "current-solutions: Would need money transmitter/escrow licenses in 50 states to offer custody — major regulatory barrier"
+      - "current-solutions: Levelset, Procore offer lien waiver management but designed for commercial, not residential"
+    redirected_to: null
+    gaps_remaining: []
+  H6:
+    text: The U.S. residential renovation industry loses tens of billions of dollars annually to fraud, overpayment, slow/no-pay,
+      and payment-related disputes and project failures
+    status: validated
+    resolution_round: 1
+    resolution_rationale: "Founder's $40B claim is actually conservative. Payment delays alone cost $280B annually across construction (Rabbet 2024). Post-disaster fraud $9.3B (NICB). 8% bid inflation on $400B+ residential spending = $32B+. Construction fraud median $250K per incident, 25% of firms victimized, 60% increase in cases. Aggregate estimates range $50B-$300B+ depending on what's included. 'Tens of billions' is well-supported as a floor."
+    evidence_strength: strong
+    evidence_refs:
+      - "prevalence: $280B annual cost from payment delays across construction (Rabbet 2024)"
+      - "prevalence: $9.3B annual post-disaster fraud (NICB — 10% of $93B catastrophe losses)"
+      - "prevalence: 8% bid inflation × $400B+ residential spending = $32B+ in inflated costs"
+      - "prevalence: FTC documented $13.8M/year in reported scams — massively understated (only reported cases)"
+      - "prevalence: Construction fraud median $250K per incident — 72% higher than global average of $145K (ACFE 2024)"
+      - "prevalence: 25% of construction firms victimized annually, 60% increase in fraud cases recent years"
+      - "severity: 60% of small contractors pushed near bankruptcy by fraud"
+      - "severity: Aggregate estimates: $50B-$100B+ residential-specific (current solutions research)"
+      - "severity: $300-$400B total when including all payment-related costs (severity research)"
+    redirected_to: null
+    gaps_remaining: []
+rounds:
+- round: 1
+  model: sonar-deep-research
+  prompts:
+  - id: prevalence
+    status: completed
+    completed_at: '2026-02-16T18:17:07Z'
+    citation_count: 60
+    token_usage:
+      total_tokens: 9420
+    hypotheses_addressed: [H1, H2, H3, H4, H5, H6]
+  - id: severity
+    status: completed
+    completed_at: '2026-02-16T18:17:07Z'
+    citation_count: 60
+    token_usage:
+      total_tokens: 9688
+    hypotheses_addressed: [H1, H2, H3, H4, H5, H6]
+  - id: customer-voice
+    status: completed
+    completed_at: '2026-02-16T18:17:15Z'
+    citation_count: 46
+    token_usage:
+      total_tokens: 9937
+    hypotheses_addressed: [H1, H2, H3, H4, H5, H6]
+  - id: current-solutions
+    status: completed
+    completed_at: '2026-02-16T18:16:57Z'
+    citation_count: 60
+    token_usage:
+      total_tokens: 9964
+    hypotheses_addressed: [H1, H2, H3, H4, H5, H6]
+  gap_analysis:
+    summary: "All 6 hypotheses validated in Round 1 with strong evidence across all 4 research areas. No ambiguous or insufficient hypotheses. No Round 2 needed."
+    hypotheses_resolved: [H1, H2, H3, H4, H5, H6]
+    hypotheses_still_ambiguous: []
+    emergent_findings:
+      - "E1: 60 hours/month administrative burden on contractors for payment management — nearly 2 full work weeks wasted. Strengthens H3 but also reveals standalone automation opportunity."
+      - "E2: Generational divide — Millennials feel renovation stress most acutely (67% moderate-high stress, 40% strained relationships) and are more likely to use digital platforms. Potential market entry angle."
+      - "E3: State regulatory fragmentation — escrow/bonding requirements vary across 50 states, creating complexity for any national platform. Structural barrier to solving H5."
+      - "E4: AI-generated fraud — fraudsters now use AI to create fake invoices and progress photos. Fraud sophistication is increasing."
+      - "E5: Economic headwinds amplifying vulnerability — 71% postponing renovations, tariffs adding material cost unpredictability. 82% of homeowners have home issues needing repair but 60% can't afford it."
+    decision: "Stop after Round 1. All hypotheses resolved with strong evidence."
+cumulative_usage:
+  input_tokens: 3011
+  output_tokens: 35998
+  total_citations: 226
+  estimated_cost_usd: 0.0
+stopping:
+  reason: all_resolved
+  final_round: 1
+  unresolved_hypotheses: []
+  notes: "All 6 hypotheses validated in Round 1 with 226 citations across 4 prompts. High-quality extraction (0 independence issues, all falsifiable) enabled single-round resolution — consistent with GrAIded learnings."

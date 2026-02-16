@@ -1,0 +1,744 @@
+{
+  "metadata": {
+    "model": "sonar-deep-research",
+    "response_id": "2a47dcfa-f4be-4dca-971e-bcab7716f0cc",
+    "usage": {
+      "prompt_tokens": 798,
+      "completion_tokens": 9166,
+      "total_tokens": 9964,
+      "citation_tokens": 47936,
+      "reasoning_tokens": 286740,
+      "num_search_queries": 30,
+      "cost": {
+        "total_cost": null,
+        "input_tokens_cost": null,
+        "output_tokens_cost": null
+      }
+    },
+    "citation_count": 60
+  },
+  "citations": [
+    {
+      "index": 1,
+      "url": "https://www.tradingview.com/news/reuters.com,2026-02-16:newsml_NFC79qfYJ:0-slow-payments-are-driving-subcontractors-away-and-costing-the-home-building-industry-billions-buildertrend-introduces-bill-pay-to-change-that/",
+      "title": "Buildertrend Introduces Bill Pay to Change That - TradingView",
+      "snippet": "Capture bills automatically: \u00b7 Coordinate reviews and approvals: \u00b7 Pay subs and vendors in one place: \u00b7 Track payment status clearly: ..."
+    },
+    {
+      "index": 2,
+      "url": "https://www.coconstruct.com/blog/invoices-in-residential-construction",
+      "title": "What is an invoice in residential construction? - CoConstruct",
+      "snippet": "1. Draw Schedule ... A draw schedule is a predetermined schedule of payments dependent on the length and dollar value of the project. Agreed upon ..."
+    },
+    {
+      "index": 3,
+      "url": "https://securedtrustescrow.com/blog/",
+      "title": "Blog - Holding Escrow Services Los Angeles",
+      "snippet": "Escrow Company December 5, 2025 Construction Escrow vs Retention California 2025 ... 2025 Housing Department Approved Escrow Services ..."
+    },
+    {
+      "index": 4,
+      "url": "https://helpcenter.buildertrend.net/s/article/Buildertrend-S-Ideal-Financial-Workflow",
+      "title": "Buildertrend's Ideal Financial Workflow",
+      "snippet": "Buildertrend's Projected Cost Adjustments allows you to reflect anticipated expenses for bills that have not yet been received. By updating your Job Costing ..."
+    },
+    {
+      "index": 5,
+      "url": "https://www.coconstruct.com/learn-construction-software-features/scheduling",
+      "title": "Scheduling - CoConstruct",
+      "snippet": "CoConstruct's scheduling feature allows you to build out your project's schedule, assign tasks to trade partners and team members and communicate with those ..."
+    },
+    {
+      "index": 6,
+      "url": "https://www.mufg-investorservices.com/solutions/banking-liquidity/escrow-agency-services/",
+      "title": "Escrow Agency Services",
+      "snippet": "Real Estate and Construction Financing. Bank accounts and financing for large, complex real estate or construction transactions. Cross-border Transactions."
+    },
+    {
+      "index": 7,
+      "url": "https://pro.houzz.com/for-pros/feature-online-payment",
+      "title": "Online Payment Software for Construction & Design",
+      "snippet": "That's the power of Online Payments through Houzz Pro, where you can accept credit cards, automate payment reminders, track finances, and more without lifting a ..."
+    },
+    {
+      "index": 8,
+      "url": "https://www.levelset.com/lien-waiver-management/",
+      "title": "Lien Waiver Management - Levelset",
+      "snippet": "See all requested or incoming waivers in a unique waiver inbox, and use filters to easily search for past waivers and organize your files."
+    },
+    {
+      "index": 9,
+      "url": "https://www.youtube.com/watch?v=37Xoay4nxDc",
+      "title": "Jobber Now 2025: Brand New Features Built for Home Service Pros",
+      "snippet": "... Pay 22:07 Supplier Catalogs (Beta) 23:02 Route Optimization 24 ... Must-See Jobber 2025 Updates for Contractors. The Handy Manual\u2022334 ..."
+    },
+    {
+      "index": 10,
+      "url": "https://pro.houzz.com/for-pros/financial-tool",
+      "title": "Financial Tools - Houzz Pro",
+      "snippet": "Build a payment schedule, take deposits and send automatic payment requests and invoices. START NOW. I love that with the invoice tool, clients can click a ..."
+    },
+    {
+      "index": 11,
+      "url": "https://www.levelset.com/lien-waivers/",
+      "title": "Lien Waivers in Construction | Forms, Guides, & FAQs - Levelset",
+      "snippet": "Everything contractors & suppliers need to know about lien waivers. Guides, FAQs, form templates, and tools to make lien waivers easy and fast for you."
+    },
+    {
+      "index": 12,
+      "url": "https://www.getjobber.com",
+      "title": "Jobber: The Top Home & Commercial Service Software in 2025",
+      "snippet": "Jobber's home & commercial service software is the best way to organize your service business. Quote, schedule, invoice, and get paid\u2014all in one place."
+    },
+    {
+      "index": 13,
+      "url": "https://www.haber.law/understanding-construction-escrow/",
+      "title": "Understanding Construction Escrow | Haber law",
+      "snippet": "Escrow accounts in construction ensure proper fund allocation for projects and diminish potential title disputes among project stakeholders."
+    },
+    {
+      "index": 14,
+      "url": "https://getbuilt.com/features/draw-inspections/",
+      "title": "Construction Draw Inspection Software - Built Technologies",
+      "snippet": "AI Draw Agent. Streamline draw management with automation that increases capacity, enforces policy compliance, and accelerates draw funding. Draw Inspections."
+    },
+    {
+      "index": 15,
+      "url": "https://www.woodsborobank.com/blog/what-you-should-know-about-commercial-construction-loans/",
+      "title": "What You Should Know About Commercial Construction Loans",
+      "snippet": "Commercial construction loans are a special type of financing product designed to meet the requirements of contractors and property owners."
+    },
+    {
+      "index": 16,
+      "url": "https://www.procore.com/library/construction-escrow-accounts",
+      "title": "Construction Escrow: What Contractors & Suppliers Need to Know",
+      "snippet": "An escrow account helps ensure that payments will be made on a project. Because these accounts involve a third party \u2014 either a bank or title ..."
+    },
+    {
+      "index": 17,
+      "url": "https://landgorilla.com",
+      "title": "Land Gorilla: Construction Loan Management Software",
+      "snippet": "The leading construction loan software for faster, safer, and more profitable construction lending. Fund draws 80% faster with Land Gorilla."
+    },
+    {
+      "index": 18,
+      "url": "https://capitalfund1.com/tennessee-hard-money-lender/nashville/home-remodel-rehab-loan/",
+      "title": "Renovation & Home Remodel Loans in Nashville, TN | Capital Fund 1",
+      "snippet": "Our major remodel-addition loans allow you to roll the costs of upgrades or repair into the loan that you need to buy and remodel a distressed property."
+    },
+    {
+      "index": 19,
+      "url": "https://www.stampli.com/blog/accounts-payable/bill-com-reviews/",
+      "title": "BILL (Bill.com) reviews: What do real users think? - Stampli",
+      "snippet": "Overall, BILL receives mixed reviews for customer experience. Users report they like BILL's scalability, ease of use, and centralized payment management."
+    },
+    {
+      "index": 20,
+      "url": "https://riskonnect.com/claims-management-software/",
+      "title": "Claims Management Software Solutions",
+      "snippet": "Riskonnect's Claims Management software streamlines the claims process from intake to final settlement. \u00b7 Track all claim details in one place."
+    },
+    {
+      "index": 21,
+      "url": "https://mortgage.nationwidelicensingsystem.org/knowledge/Products/nmls/pubs/policyGuide/reference/policyGuide/maps/topics/nmlsPG_TA_recoveryFundsAndSuretyBonds.html",
+      "title": "Recovery Funds and Surety Bonds",
+      "snippet": "The SAFE Act gives the Consumer Financial Protection Bureau authorization to set minimum net worth or surety bond requirements for MLOs and for recovery funds ..."
+    },
+    {
+      "index": 22,
+      "url": "https://www.g2.com/products/capterra/reviews?page=2",
+      "title": "Capterra Reviews 2026: Details, Pricing, & Features - G2",
+      "snippet": "Custom services (review managment) were very unhelpful and unwilling to assist an (ex-)paying customer. A false review was posted by someone who wasn't even a ..."
+    },
+    {
+      "index": 23,
+      "url": "https://www.wamy.com/blog/insurance-restoration-software-transforming-how-claims-are-managed",
+      "title": "Insurance Restoration Software: Transforming How Claims Are ...",
+      "snippet": "Insurance restoration software is a specialized set of tools designed to help insurers, contractors, and adjusters manage property damage claims ..."
+    },
+    {
+      "index": 24,
+      "url": "https://www.trec.texas.gov/forms/timeshare-escrow-surety-bond",
+      "title": "Timeshare Escrow Surety Bond - TREC - Texas.gov",
+      "snippet": "I've been harmed by a license holder. Can TREC recover damages for me? No, TREC does not have the authority to require a license holder to pay another person ..."
+    },
+    {
+      "index": 25,
+      "url": "https://www.inspectionsupport.com/home-improvement-scams-trends-report-2022/",
+      "title": "Home Improvement Scams Trends Report 2022 - ISN",
+      "snippet": "Americans lost $206.9 million to home improvement scams in the last 14 years, $13.8m annually. Residents of Nebraska ($5,730 per scam per year) and Minnesota ($ ..."
+    },
+    {
+      "index": 26,
+      "url": "https://fasacares.org/improving-cash-flow-predictability-in-2025/",
+      "title": "Improving Cash Flow Predictability in 2025 - FASA",
+      "snippet": "Strong lien management ensures subcontractors and suppliers have leverage when payments slow down. It also discourages slow-paying customers ..."
+    },
+    {
+      "index": 27,
+      "url": "https://downtobid.com/blog/coconstruct-vs-buildertrend-vs-downtobid",
+      "title": "CoConstruct vs. Buildertrend vs. Downtobid - 2025 Updated",
+      "snippet": "Buildertrend costs $199-799/month with no autosave; CoConstruct hides pricing; Downtobid offers transparent rates. Downtobid excels at ..."
+    },
+    {
+      "index": 28,
+      "url": "https://ukenreport.com/home-renovation-scams-spike/",
+      "title": "Home Renovation Scams Spike - Uken Report",
+      "snippet": "Home Renovation Scam Spike: How Owners Can Reduce Fraud Risks \u00b7 Scams Surge as Renovation Demand Explodes \u2014 Homeowners at Risk of Losing Tens of ..."
+    },
+    {
+      "index": 29,
+      "url": "https://www.ncscredit.com/education-center/blog/lien-index-q2-2025/",
+      "title": "Lien Index Q2 2025 - NCS Credit",
+      "snippet": "Lien activity down 3% in Q2 2025 as contractors faced cash flow issues, bankruptcies, and labor shortages; see top states & regional trends."
+    },
+    {
+      "index": 30,
+      "url": "https://www.clbnetwork.com/article/buildertrend-vs-coconstruct",
+      "title": "BuilderTrend vs. CoConstruct: Construction Management Battle",
+      "snippet": "BuilderTrend impresses with its modern interface and comprehensive features, while CoConstruct caters to those in the luxury market with its specialized ..."
+    },
+    {
+      "index": 31,
+      "url": "https://www.siteline.com/lien-waiver/pennsylvania",
+      "title": "Pennsylvania Lien Waiver Requirements and FAQs",
+      "snippet": "In Pennsylvania, lien rights can be waived before payment for residential projects only, or through a payment bond for non-residential projects."
+    },
+    {
+      "index": 32,
+      "url": "https://en-gb.support.procore.com/products/online/user-guide/project-level/invoicing",
+      "title": "Payment Applications - Support - Procore",
+      "snippet": "With Procore's Payment applications tool, your company can simplify the payment application collection, review and approval process on all of your construction ..."
+    },
+    {
+      "index": 33,
+      "url": "https://www.eagleview.com/product/eagleview-assess-construction/",
+      "title": "Drone Roof Inspections for Construction - EagleView Technologies",
+      "snippet": "Assess drones come equipped with fully integrated software, specifically designed for inspecting and measuring roofs. Fully Autonomous Drone."
+    },
+    {
+      "index": 34,
+      "url": "https://landgorilla.com/sr/pennsylvania-construction-lending-resources/",
+      "title": "Pennsylvania Construction Lending State Compliance Library",
+      "snippet": "A contractor or subcontractor may waive the right to file a claim against a residential property by signing a lien waiver or by conduct that operates equitably ..."
+    },
+    {
+      "index": 35,
+      "url": "https://www.procore.com/library/project-management-milestones",
+      "title": "Construction Project Management Milestones | Procore",
+      "snippet": "Project milestones are critical dates or activities in a construction schedule that can be used to plan and track the progress of a project."
+    },
+    {
+      "index": 36,
+      "url": "https://www.eagleview.com/government/sketch-inspect/",
+      "title": "Sketch Inspect - EagleView Technologies",
+      "snippet": "Eliminate Time-Consuming Manual Work. Complete sketch verification and parcel record updates in days, instead of weeks, using the power of automation."
+    },
+    {
+      "index": 37,
+      "url": "https://wymanlegalsolutions.com/the-hidden-dangers-of-overpaying-your-contractor-too-early/",
+      "title": "The Hidden Dangers of Overpaying Your Contractor Too Early",
+      "snippet": "Discover the risks of overpaying your contractor too early. Learn how to protect your investment with expert tips from Wyman Legal ..."
+    },
+    {
+      "index": 38,
+      "url": "https://secureglobalpay.net/construction-merchant-account-high-risk/",
+      "title": "Construction Merchant Account - Is it High Risk? - SecureGlobalPay",
+      "snippet": "Large invoice amounts raise red flags because of the potential for chargebacks. The worst possible scenario for a card processing service is ..."
+    },
+    {
+      "index": 39,
+      "url": "https://www.haber.law/understanding-construction-escrow/",
+      "title": "Understanding Construction Escrow | Haber law",
+      "snippet": "Escrow accounts in construction ensure proper fund allocation for projects and diminish potential title disputes among project stakeholders."
+    },
+    {
+      "index": 40,
+      "url": "https://www.youtube.com/watch?v=XNXE0dhT-jA",
+      "title": "Homeowner Beware: The Sneaky Contractor Scams of 2025!",
+      "snippet": "... Check out the brand new Around the House We ... Around the House\u00ae Home Improvement: The New Generation of DIY, Design and Construction."
+    },
+    {
+      "index": 41,
+      "url": "https://www.chargebackgurus.com/blog/keeping-high-risk-merchants-safe-from-chargebacks",
+      "title": "Keeping High Risk Merchants Safe From Chargebacks",
+      "snippet": "Most payment processors define a maximum chargeback rate\u2014often 1%\u2014that their merchants must stay below. If a merchant exceeds that rate, they ..."
+    },
+    {
+      "index": 42,
+      "url": "https://www.procore.com/library/construction-escrow-accounts",
+      "title": "Construction Escrow: What Contractors & Suppliers Need to Know",
+      "snippet": "An escrow account helps ensure that payments will be made on a project. Because these accounts involve a third party \u2014 either a bank or title ..."
+    },
+    {
+      "index": 43,
+      "url": "https://learn.g2.com/best-construction-management-software",
+      "title": "My Review of the 9 Best Construction Management Software - G2",
+      "snippet": "It holds a G2 rating of 4.6 out of 5, reflecting strong satisfaction among users focused on compliance and financial accuracy in construction ..."
+    },
+    {
+      "index": 44,
+      "url": "https://www.nicb.org/news/news-releases/contractor-fraud-costs-americans-billions-every-year",
+      "title": "Contractor Fraud Costs Americans Billions Every Year",
+      "snippet": "Upwards of 10 percent or $9.3 billion is lost to post-disaster fraud, which not only impacts individuals, but also impacts insurance premiums ..."
+    },
+    {
+      "index": 45,
+      "url": "https://www.netsuite.com/portal/resource/articles/accounting/construction-payment-management.shtml",
+      "title": "9 Best Practices for Construction Payment Management - NetSuite",
+      "snippet": "This guide details the elements required to seamlessly coordinate construction payment management, along with important strategies to improve ..."
+    },
+    {
+      "index": 46,
+      "url": "https://www.g2.com/categories/construction-management",
+      "title": "Best Construction Management Software - G2",
+      "snippet": "Construction management software allows users to delegate specific project objectives and milestones, change orders, set up and track budgets, ..."
+    },
+    {
+      "index": 47,
+      "url": "https://www.insurancejournal.com/magazines/mag-features/2025/04/21/820248.htm",
+      "title": "Fighting Insurance Fraud: A Long-Term Win for the Industry",
+      "snippet": "... Insurance Fraud estimates annual losses of approximately $308.6 billion in the U.S. ... claims that are caught, the fewer fraudulent dollars ..."
+    },
+    {
+      "index": 48,
+      "url": "https://stripe.com/resources/more/construction-payment-processing",
+      "title": "Construction payment processing: A guide | Stripe",
+      "snippet": "Below, we'll cover how construction payment processing works, what slows it down, and how to make it faster, safer, and more predictable."
+    },
+    {
+      "index": 49,
+      "url": "https://fridmar.com/2024/04/common-pitfalls-for-homeowners-in-residential-construction/",
+      "title": "Caveat Owner: Common Pitfalls for Homeowners in Residential ...",
+      "snippet": "The imbalance between homeowners and contractors often leads to various blunders and consequences, some of which are innocent and others ..."
+    },
+    {
+      "index": 50,
+      "url": "https://getbuilt.com/blog/lender-construction-draw-request/",
+      "title": "Stop Draw Delays and Automate Construction Loan Draw Requests",
+      "snippet": "This article breaks down where traditional draw processes slow down, why those bottlenecks emerge as volume increases, and how lenders are ..."
+    },
+    {
+      "index": 51,
+      "url": "https://www.verisk.com/products/xactimate/",
+      "title": "Xactimate: Property Claims Estimating Software - Verisk",
+      "snippet": "Xactimate provides property claims estimating that's precise, fast & flexible. Explore how Xactimate software can streamline the insurance claims process."
+    },
+    {
+      "index": 52,
+      "url": "https://realestatelawyers.ca/5-things-to-remember-when-doing-a-renovation/",
+      "title": "5 Things to Remember When Doing a Renovation",
+      "snippet": "Here are five things to remember before you hire anyone to renovate your home: Check References, Ask any contractor how long they have been in business."
+    },
+    {
+      "index": 53,
+      "url": "https://www.hud.loans/developer-guide/construction-draw-processes-by-lender/",
+      "title": "How Construction Draw Processes Vary by Lender | HUD Loans",
+      "snippet": "The construction draw process is not just administrative paperwork \u2014 it's the heartbeat of your project's cash flow. And it varies wildly from lender to lender ..."
+    },
+    {
+      "index": 54,
+      "url": "https://xactimate.com/home/",
+      "title": "Xactimate",
+      "snippet": "The most powerful and comprehensive solution for property claims estimating. Generate precise, professional estimates for restoration jobs of all types."
+    },
+    {
+      "index": 55,
+      "url": "https://escrowinternationalcr.com/en/differences-residential-and-commercial-real-estate-escrow/",
+      "title": "Differences between Residential and Commercial Real Estate Escrow",
+      "snippet": "Residential escrow tends to be more straightforward, focusing on title checks, home inspections, and financing. Commercial escrow, however, often involves a ..."
+    },
+    {
+      "index": 56,
+      "url": "https://www.nyc.gov/site/dca/businesses/license-checklist-home-improvement-contractor.page",
+      "title": "Home Improvement Contractor License Application Checklist - DCWP",
+      "snippet": "A person or business must have a Home Improvement Contractor license to do construction, repair, remodeling, or other home improvement work to any residential ..."
+    },
+    {
+      "index": 57,
+      "url": "https://contractorforeman.com/how-payments-to-subcontractors-create-cash-flow-anxiety/",
+      "title": "How Payments to Subcontractors Create Cash Flow Anxiety",
+      "snippet": "Managing payments to subcontractors while waiting on client invoices creates real cash flow anxiety. Discover how cash flow planning relieves stress."
+    },
+    {
+      "index": 58,
+      "url": "https://www.neweraescrow.com/commercial-vs-residential-escrow/",
+      "title": "Commercial vs Residential Escrow, 5 Fascinating Difference",
+      "snippet": "Buying or selling real estate property can be very overwhelming. We discuss the difference between a commercial vs residential escrow."
+    },
+    {
+      "index": 59,
+      "url": "https://ag.ny.gov/home-improvement-fact-sheet",
+      "title": "Home Improvement Fact Sheet | New York State Attorney General",
+      "snippet": "The bond must be delivered within ten business days after the contractor receives the customer's money. Other Contract Requirements: Home improvement contracts ..."
+    },
+    {
+      "index": 60,
+      "url": "https://getbuilt.com/blog/70-percent-of-contractors-say-payment-delays-threaten-industry/",
+      "title": "Construction's Cash Crunch: 70% of Contractors Say Payment ...",
+      "snippet": "Built study reveals slow payments inflate bids by 8%, trigger project cancellations, and discourage competition amid economic uncertainty."
+    }
+  ],
+  "search_results": [
+    {
+      "title": "Buildertrend Introduces Bill Pay to Change That - TradingView",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-02-16:newsml_NFC79qfYJ:0-slow-payments-are-driving-subcontractors-away-and-costing-the-home-building-industry-billions-buildertrend-introduces-bill-pay-to-change-that/",
+      "snippet": "Capture bills automatically: \u00b7 Coordinate reviews and approvals: \u00b7 Pay subs and vendors in one place: \u00b7 Track payment status clearly: ...",
+      "date": null
+    },
+    {
+      "title": "What is an invoice in residential construction? - CoConstruct",
+      "url": "https://www.coconstruct.com/blog/invoices-in-residential-construction",
+      "snippet": "1. Draw Schedule ... A draw schedule is a predetermined schedule of payments dependent on the length and dollar value of the project. Agreed upon ...",
+      "date": null
+    },
+    {
+      "title": "Blog - Holding Escrow Services Los Angeles",
+      "url": "https://securedtrustescrow.com/blog/",
+      "snippet": "Escrow Company December 5, 2025 Construction Escrow vs Retention California 2025 ... 2025 Housing Department Approved Escrow Services ...",
+      "date": null
+    },
+    {
+      "title": "Buildertrend's Ideal Financial Workflow",
+      "url": "https://helpcenter.buildertrend.net/s/article/Buildertrend-S-Ideal-Financial-Workflow",
+      "snippet": "Buildertrend's Projected Cost Adjustments allows you to reflect anticipated expenses for bills that have not yet been received. By updating your Job Costing ...",
+      "date": null
+    },
+    {
+      "title": "Scheduling - CoConstruct",
+      "url": "https://www.coconstruct.com/learn-construction-software-features/scheduling",
+      "snippet": "CoConstruct's scheduling feature allows you to build out your project's schedule, assign tasks to trade partners and team members and communicate with those ...",
+      "date": null
+    },
+    {
+      "title": "Escrow Agency Services",
+      "url": "https://www.mufg-investorservices.com/solutions/banking-liquidity/escrow-agency-services/",
+      "snippet": "Real Estate and Construction Financing. Bank accounts and financing for large, complex real estate or construction transactions. Cross-border Transactions.",
+      "date": null
+    },
+    {
+      "title": "Online Payment Software for Construction & Design",
+      "url": "https://pro.houzz.com/for-pros/feature-online-payment",
+      "snippet": "That's the power of Online Payments through Houzz Pro, where you can accept credit cards, automate payment reminders, track finances, and more without lifting a ...",
+      "date": null
+    },
+    {
+      "title": "Lien Waiver Management - Levelset",
+      "url": "https://www.levelset.com/lien-waiver-management/",
+      "snippet": "See all requested or incoming waivers in a unique waiver inbox, and use filters to easily search for past waivers and organize your files.",
+      "date": null
+    },
+    {
+      "title": "Jobber Now 2025: Brand New Features Built for Home Service Pros",
+      "url": "https://www.youtube.com/watch?v=37Xoay4nxDc",
+      "snippet": "... Pay 22:07 Supplier Catalogs (Beta) 23:02 Route Optimization 24 ... Must-See Jobber 2025 Updates for Contractors. The Handy Manual\u2022334 ...",
+      "date": null
+    },
+    {
+      "title": "Financial Tools - Houzz Pro",
+      "url": "https://pro.houzz.com/for-pros/financial-tool",
+      "snippet": "Build a payment schedule, take deposits and send automatic payment requests and invoices. START NOW. I love that with the invoice tool, clients can click a ...",
+      "date": null
+    },
+    {
+      "title": "Lien Waivers in Construction | Forms, Guides, & FAQs - Levelset",
+      "url": "https://www.levelset.com/lien-waivers/",
+      "snippet": "Everything contractors & suppliers need to know about lien waivers. Guides, FAQs, form templates, and tools to make lien waivers easy and fast for you.",
+      "date": null
+    },
+    {
+      "title": "Jobber: The Top Home & Commercial Service Software in 2025",
+      "url": "https://www.getjobber.com",
+      "snippet": "Jobber's home & commercial service software is the best way to organize your service business. Quote, schedule, invoice, and get paid\u2014all in one place.",
+      "date": null
+    },
+    {
+      "title": "Understanding Construction Escrow | Haber law",
+      "url": "https://www.haber.law/understanding-construction-escrow/",
+      "snippet": "Escrow accounts in construction ensure proper fund allocation for projects and diminish potential title disputes among project stakeholders.",
+      "date": null
+    },
+    {
+      "title": "Construction Draw Inspection Software - Built Technologies",
+      "url": "https://getbuilt.com/features/draw-inspections/",
+      "snippet": "AI Draw Agent. Streamline draw management with automation that increases capacity, enforces policy compliance, and accelerates draw funding. Draw Inspections.",
+      "date": null
+    },
+    {
+      "title": "What You Should Know About Commercial Construction Loans",
+      "url": "https://www.woodsborobank.com/blog/what-you-should-know-about-commercial-construction-loans/",
+      "snippet": "Commercial construction loans are a special type of financing product designed to meet the requirements of contractors and property owners.",
+      "date": null
+    },
+    {
+      "title": "Construction Escrow: What Contractors & Suppliers Need to Know",
+      "url": "https://www.procore.com/library/construction-escrow-accounts",
+      "snippet": "An escrow account helps ensure that payments will be made on a project. Because these accounts involve a third party \u2014 either a bank or title ...",
+      "date": null
+    },
+    {
+      "title": "Land Gorilla: Construction Loan Management Software",
+      "url": "https://landgorilla.com",
+      "snippet": "The leading construction loan software for faster, safer, and more profitable construction lending. Fund draws 80% faster with Land Gorilla.",
+      "date": null
+    },
+    {
+      "title": "Renovation & Home Remodel Loans in Nashville, TN | Capital Fund 1",
+      "url": "https://capitalfund1.com/tennessee-hard-money-lender/nashville/home-remodel-rehab-loan/",
+      "snippet": "Our major remodel-addition loans allow you to roll the costs of upgrades or repair into the loan that you need to buy and remodel a distressed property.",
+      "date": null
+    },
+    {
+      "title": "BILL (Bill.com) reviews: What do real users think? - Stampli",
+      "url": "https://www.stampli.com/blog/accounts-payable/bill-com-reviews/",
+      "snippet": "Overall, BILL receives mixed reviews for customer experience. Users report they like BILL's scalability, ease of use, and centralized payment management.",
+      "date": null
+    },
+    {
+      "title": "Claims Management Software Solutions",
+      "url": "https://riskonnect.com/claims-management-software/",
+      "snippet": "Riskonnect's Claims Management software streamlines the claims process from intake to final settlement. \u00b7 Track all claim details in one place.",
+      "date": null
+    },
+    {
+      "title": "Recovery Funds and Surety Bonds",
+      "url": "https://mortgage.nationwidelicensingsystem.org/knowledge/Products/nmls/pubs/policyGuide/reference/policyGuide/maps/topics/nmlsPG_TA_recoveryFundsAndSuretyBonds.html",
+      "snippet": "The SAFE Act gives the Consumer Financial Protection Bureau authorization to set minimum net worth or surety bond requirements for MLOs and for recovery funds ...",
+      "date": null
+    },
+    {
+      "title": "Capterra Reviews 2026: Details, Pricing, & Features - G2",
+      "url": "https://www.g2.com/products/capterra/reviews?page=2",
+      "snippet": "Custom services (review managment) were very unhelpful and unwilling to assist an (ex-)paying customer. A false review was posted by someone who wasn't even a ...",
+      "date": null
+    },
+    {
+      "title": "Insurance Restoration Software: Transforming How Claims Are ...",
+      "url": "https://www.wamy.com/blog/insurance-restoration-software-transforming-how-claims-are-managed",
+      "snippet": "Insurance restoration software is a specialized set of tools designed to help insurers, contractors, and adjusters manage property damage claims ...",
+      "date": null
+    },
+    {
+      "title": "Timeshare Escrow Surety Bond - TREC - Texas.gov",
+      "url": "https://www.trec.texas.gov/forms/timeshare-escrow-surety-bond",
+      "snippet": "I've been harmed by a license holder. Can TREC recover damages for me? No, TREC does not have the authority to require a license holder to pay another person ...",
+      "date": null
+    },
+    {
+      "title": "Home Improvement Scams Trends Report 2022 - ISN",
+      "url": "https://www.inspectionsupport.com/home-improvement-scams-trends-report-2022/",
+      "snippet": "Americans lost $206.9 million to home improvement scams in the last 14 years, $13.8m annually. Residents of Nebraska ($5,730 per scam per year) and Minnesota ($ ...",
+      "date": null
+    },
+    {
+      "title": "Improving Cash Flow Predictability in 2025 - FASA",
+      "url": "https://fasacares.org/improving-cash-flow-predictability-in-2025/",
+      "snippet": "Strong lien management ensures subcontractors and suppliers have leverage when payments slow down. It also discourages slow-paying customers ...",
+      "date": null
+    },
+    {
+      "title": "CoConstruct vs. Buildertrend vs. Downtobid - 2025 Updated",
+      "url": "https://downtobid.com/blog/coconstruct-vs-buildertrend-vs-downtobid",
+      "snippet": "Buildertrend costs $199-799/month with no autosave; CoConstruct hides pricing; Downtobid offers transparent rates. Downtobid excels at ...",
+      "date": null
+    },
+    {
+      "title": "Home Renovation Scams Spike - Uken Report",
+      "url": "https://ukenreport.com/home-renovation-scams-spike/",
+      "snippet": "Home Renovation Scam Spike: How Owners Can Reduce Fraud Risks \u00b7 Scams Surge as Renovation Demand Explodes \u2014 Homeowners at Risk of Losing Tens of ...",
+      "date": null
+    },
+    {
+      "title": "Lien Index Q2 2025 - NCS Credit",
+      "url": "https://www.ncscredit.com/education-center/blog/lien-index-q2-2025/",
+      "snippet": "Lien activity down 3% in Q2 2025 as contractors faced cash flow issues, bankruptcies, and labor shortages; see top states & regional trends.",
+      "date": null
+    },
+    {
+      "title": "BuilderTrend vs. CoConstruct: Construction Management Battle",
+      "url": "https://www.clbnetwork.com/article/buildertrend-vs-coconstruct",
+      "snippet": "BuilderTrend impresses with its modern interface and comprehensive features, while CoConstruct caters to those in the luxury market with its specialized ...",
+      "date": null
+    },
+    {
+      "title": "Pennsylvania Lien Waiver Requirements and FAQs",
+      "url": "https://www.siteline.com/lien-waiver/pennsylvania",
+      "snippet": "In Pennsylvania, lien rights can be waived before payment for residential projects only, or through a payment bond for non-residential projects.",
+      "date": null
+    },
+    {
+      "title": "Payment Applications - Support - Procore",
+      "url": "https://en-gb.support.procore.com/products/online/user-guide/project-level/invoicing",
+      "snippet": "With Procore's Payment applications tool, your company can simplify the payment application collection, review and approval process on all of your construction ...",
+      "date": null
+    },
+    {
+      "title": "Drone Roof Inspections for Construction - EagleView Technologies",
+      "url": "https://www.eagleview.com/product/eagleview-assess-construction/",
+      "snippet": "Assess drones come equipped with fully integrated software, specifically designed for inspecting and measuring roofs. Fully Autonomous Drone.",
+      "date": null
+    },
+    {
+      "title": "Pennsylvania Construction Lending State Compliance Library",
+      "url": "https://landgorilla.com/sr/pennsylvania-construction-lending-resources/",
+      "snippet": "A contractor or subcontractor may waive the right to file a claim against a residential property by signing a lien waiver or by conduct that operates equitably ...",
+      "date": null
+    },
+    {
+      "title": "Construction Project Management Milestones | Procore",
+      "url": "https://www.procore.com/library/project-management-milestones",
+      "snippet": "Project milestones are critical dates or activities in a construction schedule that can be used to plan and track the progress of a project.",
+      "date": null
+    },
+    {
+      "title": "Sketch Inspect - EagleView Technologies",
+      "url": "https://www.eagleview.com/government/sketch-inspect/",
+      "snippet": "Eliminate Time-Consuming Manual Work. Complete sketch verification and parcel record updates in days, instead of weeks, using the power of automation.",
+      "date": null
+    },
+    {
+      "title": "The Hidden Dangers of Overpaying Your Contractor Too Early",
+      "url": "https://wymanlegalsolutions.com/the-hidden-dangers-of-overpaying-your-contractor-too-early/",
+      "snippet": "Discover the risks of overpaying your contractor too early. Learn how to protect your investment with expert tips from Wyman Legal ...",
+      "date": null
+    },
+    {
+      "title": "Construction Merchant Account - Is it High Risk? - SecureGlobalPay",
+      "url": "https://secureglobalpay.net/construction-merchant-account-high-risk/",
+      "snippet": "Large invoice amounts raise red flags because of the potential for chargebacks. The worst possible scenario for a card processing service is ...",
+      "date": null
+    },
+    {
+      "title": "Understanding Construction Escrow | Haber law",
+      "url": "https://www.haber.law/understanding-construction-escrow/",
+      "snippet": "Escrow accounts in construction ensure proper fund allocation for projects and diminish potential title disputes among project stakeholders.",
+      "date": null
+    },
+    {
+      "title": "Homeowner Beware: The Sneaky Contractor Scams of 2025!",
+      "url": "https://www.youtube.com/watch?v=XNXE0dhT-jA",
+      "snippet": "... Check out the brand new Around the House We ... Around the House\u00ae Home Improvement: The New Generation of DIY, Design and Construction.",
+      "date": null
+    },
+    {
+      "title": "Keeping High Risk Merchants Safe From Chargebacks",
+      "url": "https://www.chargebackgurus.com/blog/keeping-high-risk-merchants-safe-from-chargebacks",
+      "snippet": "Most payment processors define a maximum chargeback rate\u2014often 1%\u2014that their merchants must stay below. If a merchant exceeds that rate, they ...",
+      "date": null
+    },
+    {
+      "title": "Construction Escrow: What Contractors & Suppliers Need to Know",
+      "url": "https://www.procore.com/library/construction-escrow-accounts",
+      "snippet": "An escrow account is a type of holding account for funds on a construction project. It's usually set up by the lender or financial institution ...",
+      "date": null
+    },
+    {
+      "title": "My Review of the 9 Best Construction Management Software - G2",
+      "url": "https://learn.g2.com/best-construction-management-software",
+      "snippet": "It holds a G2 rating of 4.6 out of 5, reflecting strong satisfaction among users focused on compliance and financial accuracy in construction ...",
+      "date": null
+    },
+    {
+      "title": "Contractor Fraud Costs Americans Billions Every Year",
+      "url": "https://www.nicb.org/news/news-releases/contractor-fraud-costs-americans-billions-every-year",
+      "snippet": "Upwards of 10 percent or $9.3 billion is lost to post-disaster fraud, which not only impacts individuals, but also impacts insurance premiums ...",
+      "date": null
+    },
+    {
+      "title": "9 Best Practices for Construction Payment Management - NetSuite",
+      "url": "https://www.netsuite.com/portal/resource/articles/accounting/construction-payment-management.shtml",
+      "snippet": "This guide details the elements required to seamlessly coordinate construction payment management, along with important strategies to improve ...",
+      "date": null
+    },
+    {
+      "title": "Best Construction Management Software - G2",
+      "url": "https://www.g2.com/categories/construction-management",
+      "snippet": "Construction management software allows users to delegate specific project objectives and milestones, change orders, set up and track budgets, ...",
+      "date": null
+    },
+    {
+      "title": "Fighting Insurance Fraud: A Long-Term Win for the Industry",
+      "url": "https://www.insurancejournal.com/magazines/mag-features/2025/04/21/820248.htm",
+      "snippet": "... Insurance Fraud estimates annual losses of approximately $308.6 billion in the U.S. ... claims that are caught, the fewer fraudulent dollars ...",
+      "date": null
+    },
+    {
+      "title": "Construction payment processing: A guide | Stripe",
+      "url": "https://stripe.com/resources/more/construction-payment-processing",
+      "snippet": "Below, we'll cover how construction payment processing works, what slows it down, and how to make it faster, safer, and more predictable.",
+      "date": null
+    },
+    {
+      "title": "Caveat Owner: Common Pitfalls for Homeowners in Residential ...",
+      "url": "https://fridmar.com/2024/04/common-pitfalls-for-homeowners-in-residential-construction/",
+      "snippet": "The imbalance between homeowners and contractors often leads to various blunders and consequences, some of which are innocent and others ...",
+      "date": null
+    },
+    {
+      "title": "Stop Draw Delays and Automate Construction Loan Draw Requests",
+      "url": "https://getbuilt.com/blog/lender-construction-draw-request/",
+      "snippet": "This article breaks down where traditional draw processes slow down, why those bottlenecks emerge as volume increases, and how lenders are ...",
+      "date": null
+    },
+    {
+      "title": "Xactimate: Property Claims Estimating Software - Verisk",
+      "url": "https://www.verisk.com/products/xactimate/",
+      "snippet": "Xactimate provides property claims estimating that's precise, fast & flexible. Explore how Xactimate software can streamline the insurance claims process.",
+      "date": null
+    },
+    {
+      "title": "5 Things to Remember When Doing a Renovation",
+      "url": "https://realestatelawyers.ca/5-things-to-remember-when-doing-a-renovation/",
+      "snippet": "Here are five things to remember before you hire anyone to renovate your home: Check References, Ask any contractor how long they have been in business.",
+      "date": null
+    },
+    {
+      "title": "How Construction Draw Processes Vary by Lender | HUD Loans",
+      "url": "https://www.hud.loans/developer-guide/construction-draw-processes-by-lender/",
+      "snippet": "The construction draw process is not just administrative paperwork \u2014 it's the heartbeat of your project's cash flow. And it varies wildly from lender to lender ...",
+      "date": null
+    },
+    {
+      "title": "Xactimate",
+      "url": "https://xactimate.com/home/",
+      "snippet": "The most powerful and comprehensive solution for property claims estimating. Generate precise, professional estimates for restoration jobs of all types.",
+      "date": null
+    },
+    {
+      "title": "Differences between Residential and Commercial Real Estate Escrow",
+      "url": "https://escrowinternationalcr.com/en/differences-residential-and-commercial-real-estate-escrow/",
+      "snippet": "Residential escrow tends to be more straightforward, focusing on title checks, home inspections, and financing. Commercial escrow, however, often involves a ...",
+      "date": null
+    },
+    {
+      "title": "Home Improvement Contractor License Application Checklist - DCWP",
+      "url": "https://www.nyc.gov/site/dca/businesses/license-checklist-home-improvement-contractor.page",
+      "snippet": "A person or business must have a Home Improvement Contractor license to do construction, repair, remodeling, or other home improvement work to any residential ...",
+      "date": null
+    },
+    {
+      "title": "How Payments to Subcontractors Create Cash Flow Anxiety",
+      "url": "https://contractorforeman.com/how-payments-to-subcontractors-create-cash-flow-anxiety/",
+      "snippet": "Managing payments to subcontractors while waiting on client invoices creates real cash flow anxiety. Discover how cash flow planning relieves stress.",
+      "date": null
+    },
+    {
+      "title": "Commercial vs Residential Escrow, 5 Fascinating Difference",
+      "url": "https://www.neweraescrow.com/commercial-vs-residential-escrow/",
+      "snippet": "Buying or selling real estate property can be very overwhelming. We discuss the difference between a commercial vs residential escrow.",
+      "date": null
+    },
+    {
+      "title": "Home Improvement Fact Sheet | New York State Attorney General",
+      "url": "https://ag.ny.gov/home-improvement-fact-sheet",
+      "snippet": "The bond must be delivered within ten business days after the contractor receives the customer's money. Other Contract Requirements: Home improvement contracts ...",
+      "date": null
+    },
+    {
+      "title": "Construction's Cash Crunch: 70% of Contractors Say Payment ...",
+      "url": "https://getbuilt.com/blog/70-percent-of-contractors-say-payment-delays-threaten-industry/",
+      "snippet": "Built study reveals slow payments inflate bids by 8%, trigger project cancellations, and discourage competition amid economic uncertainty.",
+      "date": null
+    }
+  ]
+}

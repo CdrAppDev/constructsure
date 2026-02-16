@@ -1,0 +1,50 @@
+pipeline_version: 1.0.0
+project: constructsure
+workspace: problem
+started_at: '2026-02-16T18:12:42Z'
+updated_at: '2026-02-16T18:12:42Z'
+steps:
+  extract:
+    status: pending
+    started_at: null
+    completed_at: null
+    error: null
+    outputs: []
+  research:
+    status: in_progress
+    started_at: '2026-02-16T18:12:42Z'
+    completed_at: null
+    error: null
+    outputs: []
+  process:
+    status: pending
+    started_at: null
+    completed_at: null
+    error: null
+    outputs: []
+    current_substep: null
+    substeps:
+      step_1_hypothesis_validation: pending
+      step_2_first_principles: pending
+      step_3_jtbd: pending
+      step_4_synthesis: pending
+      step_5_sources: pending
+      step_6_processing_log: pending
+      step_7_validate: pending
+      step_8_fix: pending
+      step_9_revalidate: pending
+      step_10_present: pending
+      step_11_metrics: pending
+  validate:
+    status: pending
+    started_at: null
+    completed_at: null
+    error: null
+    outputs: []
+    attempts: 0
+  present:
+    status: pending
+    started_at: null
+    completed_at: null
+    error: null
+    outputs: []

@@ -1,0 +1,744 @@
+{
+  "metadata": {
+    "model": "sonar-deep-research",
+    "response_id": "aa67ca69-4e92-47c7-909b-1031830cc256",
+    "usage": {
+      "prompt_tokens": 735,
+      "completion_tokens": 8953,
+      "total_tokens": 9688,
+      "citation_tokens": 57365,
+      "reasoning_tokens": 359792,
+      "num_search_queries": 30,
+      "cost": {
+        "total_cost": null,
+        "input_tokens_cost": null,
+        "output_tokens_cost": null
+      }
+    },
+    "citation_count": 60
+  },
+  "citations": [
+    {
+      "index": 1,
+      "url": "https://bccassn.com/new-b-c-construction-industry-survey-reveals-shocking-data-91-reported-late-payments-69-experienced-not-being-paid-at-all/",
+      "title": "New B.C. Construction Industry Survey Reveals Shocking Data",
+      "snippet": "91% of employer respondents reporting being paid late at one time this past year for completed work and 69% having not being paid at least once at all."
+    },
+    {
+      "index": 2,
+      "url": "https://www.advocatemagazine.com/article/2024-september/resolving-construction-disputes-through-mediation",
+      "title": "Resolving construction disputes through mediation",
+      "snippet": "The key steps for positioning most construction disputes for settlement at mediation are: Fully document the nature and scope of the problem; fully document ..."
+    },
+    {
+      "index": 3,
+      "url": "https://www.deltek.com/en/construction/construction-invoicing",
+      "title": "Construction Invoicing 101: A Contractor's Essential Guide - Deltek",
+      "snippet": "Construction invoices are typically sent monthly, especially for larger or longer projects, aligning with payment schedules. However, for smaller projects, ..."
+    },
+    {
+      "index": 4,
+      "url": "https://getbuilt.com/blog/70-percent-of-contractors-say-payment-delays-threaten-industry/",
+      "title": "Construction's Cash Crunch: 70% of Contractors Say Payment ...",
+      "snippet": "According to research involving 250 general contractors and subcontractors, a staggering 70% regularly face delayed payments, causing serious ..."
+    },
+    {
+      "index": 5,
+      "url": "https://themediationgroupinc.com/mediation-for-property-disputes-florida/",
+      "title": "Mediation for Property Disputes Florida & HOA Conflicts",
+      "snippet": "The process is way more streamlined\u2014no endless discovery or repeat court dates. Time comparison: Mediation: 2-8 weeks average resolution; Litigation: 6 months ..."
+    },
+    {
+      "index": 6,
+      "url": "https://www.procore.com/library/contractor-payment-schedule",
+      "title": "Contractor Payment Schedules: Why They're Important & Choosing ...",
+      "snippet": "In construction, payment scheduling can be crucial. Learn about effective contractor payment schedules and which is best for your project."
+    },
+    {
+      "index": 7,
+      "url": "https://magicplan.app/blog/getting-paid-on-time-for-construction-contractors",
+      "title": "The Road to Getting Paid on Time for Residential Construction ...",
+      "snippet": "43% of the respondents said that they have to wait between 30 and 60 days for their payment. For another 30%, this figure rises to more than 60 days. Yes, the ..."
+    },
+    {
+      "index": 8,
+      "url": "https://landgorilla.com/blog/how-construction-draw-management-improves-inspection-turn-times/",
+      "title": "How Construction Draw Management Technology Can Improve ...",
+      "snippet": "A manual inspection process can result in draw disbursements taking 3 times longer than a more standardized, automated process. Issues that cost your team time ..."
+    },
+    {
+      "index": 9,
+      "url": "https://www.lawjtlg.com/2022/10/06/my-contractor-filed-a-mechanics-lien-what-should-i-do/",
+      "title": "My Contractor Filed a Mechanics Lien. What Should I Do?",
+      "snippet": "Time Limits \u00b7 Lien must be filed within 4 months of last work to affect lenders or future owners. \u00b7 Lien must be filed within 2 years of last work ..."
+    },
+    {
+      "index": 10,
+      "url": "https://www.procore.com/library/contractor-payment-schedule",
+      "title": "Contractor Payment Schedules: Why They're Important & Choosing ...",
+      "snippet": "In construction, payment scheduling can be crucial. Learn about effective contractor payment schedules and which is best for your project."
+    },
+    {
+      "index": 11,
+      "url": "https://www.mastt.com/guide/construction-draw",
+      "title": "Construction Draw Guide: Steps, Docs, and Best Practices - Mastt",
+      "snippet": "This guide breaks down how the construction draw process works, what documents are required, who's involved, and how to avoid common challenges."
+    },
+    {
+      "index": 12,
+      "url": "https://www.lauriebrennan.com/blog/clearing-the-way-removing-expired-mechanics-liens-from-title-in-illinois/",
+      "title": "Clearing the Way: Removing Expired Mechanics Liens From Title In ...",
+      "snippet": "After properly recording a lien claim, a claimant must file suit to foreclose the lien within two years after completion of the part of the work ..."
+    },
+    {
+      "index": 13,
+      "url": "https://www.nicb.org/news/news-releases/contractor-fraud-costs-americans-billions-every-year",
+      "title": "Contractor Fraud Costs Americans Billions Every Year",
+      "snippet": "Upwards of 10 percent or $9.3 billion is lost to post-disaster fraud, which not only impacts individuals, but also impacts insurance premiums ..."
+    },
+    {
+      "index": 14,
+      "url": "https://www.rogergjain.com/subcontractor-didnt-finish-what-homeowners-do/",
+      "title": "Subcontractor Didn't Finish the Job! What Can Texas Homeowners ...",
+      "snippet": "Texas civil laws allow for homeowners to sue a subcontractor or developer for breach of contract. Do you have to pay them? Find out HERE."
+    },
+    {
+      "index": 15,
+      "url": "https://www.pbmares.com/accounts-receivable-in-construction-cash-flow-at-risk-amid-payment-delays/",
+      "title": "2024 Construction Payments Report | Delayed Payments",
+      "snippet": "82 percent of contractors now face payment waits of over 30 days, up from 49 percent two years ago. These delays interrupt cash flow, impacting the ability to ..."
+    },
+    {
+      "index": 16,
+      "url": "https://www.cbiz.com/insights/article/faults-in-the-foundation-exposing-fraud-in-construction",
+      "title": "Faults in the Foundation: Exposing Fraud in Construction",
+      "snippet": "That amounts to a staggering $98,000,000,000 (or $98 billion dollars) in industry-related fraud. Then in November of 2024, Red Flag Alert ..."
+    },
+    {
+      "index": 17,
+      "url": "https://wymanlegalsolutions.com/the-real-reason-contractors-abandon-projects-and-how-to-protect-yourself/",
+      "title": "The Real Reason Contractors Abandon Projects and How to Protect ...",
+      "snippet": "What should a homeowner do if their contractor abandons the project? The Real Reason Contractors Abandon Projects and How to Protect Yourself."
+    },
+    {
+      "index": 18,
+      "url": "https://commandcredit.com/blog/avoid-payment-delays-construction",
+      "title": "How to Avoid Payment Delays in Construction - Command Credit",
+      "snippet": "Delayed payments in construction can cause cascading ... While payment delays in construction may be common, they are not inevitable."
+    },
+    {
+      "index": 19,
+      "url": "https://www.youtube.com/watch?v=8qjeZeiaCxk",
+      "title": "Nearly 60% of homeowners can't afford repairs, survey finds",
+      "snippet": "More than 80% of homeowners have at least one issue in their home that needs to be addressed but 60% can't afford the repair."
+    },
+    {
+      "index": 20,
+      "url": "https://www.gp-radar.com/article/understanding-cash-flow-pain-points-in-the-construction-industry-and-how-to-avoid-them",
+      "title": "Understanding Cash Flow Pain Points in the Construction Industry ...",
+      "snippet": "Consider using financial instruments like lines of credit, invoice factoring, or trade credit to manage cash flow gaps. These tools can provide short-term ..."
+    },
+    {
+      "index": 21,
+      "url": "https://www.sekady.com/sekady-blog/how-to-minimize-errors-in-construction-loan-draw-request-processing",
+      "title": "How to Minimize Errors in Construction Loan Draw Request ...",
+      "snippet": "Minimizing errors in construction loan draw request processing requires standardization, automation, and rigorous verification."
+    },
+    {
+      "index": 22,
+      "url": "https://www.grossmcginley.com/resources/blog/the-home-improvement-consumer-protection-act-and-how-it-protects-you/",
+      "title": "The Home Improvement Consumer Protection Act and How it ...",
+      "snippet": "The Home Improvement Consumer Protection Act governs any contract entered into between a contractor and homeowner in connection with a private residence."
+    },
+    {
+      "index": 23,
+      "url": "https://www.mastt.com/blogs/construction-invoice-factoring",
+      "title": "Construction Invoice Factoring: Guide for Contractors and ... - Mastt",
+      "snippet": "Steady Cash Flow: Factoring gives you fast access to cash so you can cover project costs without waiting on a general contractor or project ..."
+    },
+    {
+      "index": 24,
+      "url": "https://rabbet.com/blog/three-example-issues-uncovered-by-a-third-party-draw-inspection-report",
+      "title": "Three Example Issues Uncovered by a Third-Party Draw Inspection ...",
+      "snippet": "A third-party construction draw inspection happens when the inspector, often hired by the lender, reviews the progress of a construction ..."
+    },
+    {
+      "index": 25,
+      "url": "https://www.pbmares.com/accounts-receivable-in-construction-cash-flow-at-risk-amid-payment-delays/",
+      "title": "2024 Construction Payments Report | Delayed Payments",
+      "snippet": "82 percent of contractors now face payment waits of over 30 days, up from 49 percent two years ago. These delays interrupt cash flow, impacting the ability to ..."
+    },
+    {
+      "index": 26,
+      "url": "https://www.netsuite.com/portal/resource/articles/accounting/construction-payment-schedule.shtml",
+      "title": "Construction Payment Schedules: Importance & Free Template",
+      "snippet": "Payment schedules can follow various formats, including milestone-based, time-based, or progress-based approaches."
+    },
+    {
+      "index": 27,
+      "url": "https://www.levelset.com/tools/2022-construction-cash-flow-payment-report/",
+      "title": "2022 Construction Cash Flow & Payment Report - Levelset",
+      "snippet": "The 2022 Construction Cash Flow & Payment Report, based on survey data from more than 500 construction companies, explores the state of the construction ..."
+    },
+    {
+      "index": 28,
+      "url": "https://www.constructiondive.com/news/time-money-fewer-construction-disputes-americas/808089/",
+      "title": "Construction disputes in the Americas more about scope than time ...",
+      "snippet": "\u201cThose financial pressures can trigger delays and cost overruns that ultimately lead to disputes.\u201d The report attributes a reduction in other ..."
+    },
+    {
+      "index": 29,
+      "url": "https://www.procore.com/library/contractor-payment-schedule",
+      "title": "Contractor Payment Schedules: Why They're Important & Choosing ...",
+      "snippet": "In construction, payment scheduling can be crucial. Learn about effective contractor payment schedules and which is best for your project."
+    },
+    {
+      "index": 30,
+      "url": "https://www.levelset.com/survey/",
+      "title": "Construction Industry Surveys & Reports - Levelset",
+      "snippet": "A collection of national surveys and reports on cash flow, payments, and demographics in the construction industry."
+    },
+    {
+      "index": 31,
+      "url": "https://www.arrivy.com/blog/using-time-tracking-software-to-speed-up-construction-billing/",
+      "title": "From Jobsite to Invoice: Faster Construction Billing | Arrivy",
+      "snippet": "Cut billing delays with GPS-verified time tracking, mobile timesheets, and QuickBooks sync. Turn approved job hours into invoices in minutes with Arrivy."
+    },
+    {
+      "index": 32,
+      "url": "https://acecalifornialaw.com/how-long-does-a-real-estate-litigation-case-typically-take/",
+      "title": "How Long Does a Real Estate Litigation Case Typically Take",
+      "snippet": "Mediation and settlement discussions generally require 2-4 months, including preparation, negotiations, and final agreement execution. Court ..."
+    },
+    {
+      "index": 33,
+      "url": "https://www.lamesafundcontrol.com/navigating-home-renovations-how-escrow-and-fund-control-can-save-your-budget/",
+      "title": "Home Renovations: How Escrow & Fund Control Protect Your Budget",
+      "snippet": "Escrow accounts are managed by a neutral third party who oversees the release of funds. This setup adds an extra layer of accountability and ..."
+    },
+    {
+      "index": 34,
+      "url": "https://www.foundationsoft.com/learn/is-your-construction-payroll-getting-the-most-out-of-job-costing/",
+      "title": "Is Your Construction Payroll Getting the Most Out of Job Costing?",
+      "snippet": "There are two main cost-tracking tasks: Classifying costs as you receive invoices; Manage inventory. However, for accurate payroll costing ..."
+    },
+    {
+      "index": 35,
+      "url": "https://www.bridgesadr.com/how-long-after-mediation-will-i-get-my-money/",
+      "title": "How Long After Mediation Will I Get My Money",
+      "snippet": "Some places give you seven or 14 days to file this paperwork after mediation. Some courts may require you to submit final documents within 60 ..."
+    },
+    {
+      "index": 36,
+      "url": "https://www.haber.law/understanding-construction-escrow/",
+      "title": "Understanding Construction Escrow | Haber law",
+      "snippet": "The concept of escrow revolves around a neutral third party retaining funds until specific criteria are satisfied. When it comes to construction, ..."
+    },
+    {
+      "index": 37,
+      "url": "https://www.deltek.com/en/construction/accounting/construction-retainage",
+      "title": "Construction Retainage: Ultimate Guide for Contractors - Deltek",
+      "snippet": "Typically represented as a retainage percentage, usually ranging from 5% to 10% of the total payment, these funds provide a financial incentive for maintaining ..."
+    },
+    {
+      "index": 38,
+      "url": "https://www.constructioncostaccounting.com/post/60-hour-payment-woes-how-builders-waste-time-chasing-funds-1",
+      "title": "60-Hour Payment Woes: How Builders Waste Time Chasing Funds",
+      "snippet": "Construction firms waste over 60 hours every month nearly two full work weeks just managing payments. That's one employee doing nothing but ..."
+    },
+    {
+      "index": 39,
+      "url": "https://andersongivens.com/the-12-most-common-construction-contract-disputes-and-why-associations-need-legal-review-before-signing/",
+      "title": "The 12 Most Common Construction Contract Disputes\u2014and Why ...",
+      "snippet": "Associations often face disputes over: Withheld progress payments; Retainage release; Back-charges for defective or incomplete work; Final ..."
+    },
+    {
+      "index": 40,
+      "url": "https://www.procore.com/library/retainage",
+      "title": "Retainage: How It Works and Best Practices - Procore",
+      "snippet": "Retainage \u2014 or retention or holdback \u2014 is a common practice in the construction industry where a portion of payment, typically 5-10%, is withheld until a ..."
+    },
+    {
+      "index": 41,
+      "url": "https://www.foundationsoft.com/learn/stop-chasing-payments-what-construction-contractors-really-need-in-accounts-receivable-software/",
+      "title": "Stop Chasing Payments: What Construction Contractors Really ...",
+      "snippet": "Construction contractors wait an average of 83 days to collect payment, nearly a month longer than other industries, creating significant cash ..."
+    },
+    {
+      "index": 42,
+      "url": "https://www.kaplaw.com/blog/common-disputes-residential-commercial-construction/",
+      "title": "Common Disputes in Residential and Commercial Construction",
+      "snippet": "Missed and late payments are certain to lead to disputes \u2014 especially in situations where the nonpayment concerns a particularly substantial ..."
+    },
+    {
+      "index": 43,
+      "url": "https://ukenreport.com/home-renovation-scams-spike/",
+      "title": "Home Renovation Scams Spike - Uken Report",
+      "snippet": "Recent national reporting reveals fraudsters raked in nearly $5 million from over 40 homeowners in one US state's contractor scam alone, ..."
+    },
+    {
+      "index": 44,
+      "url": "https://www.veryfi.com/fraud-detection/construction-fraud-the-250000-problem-threatening-your-business/",
+      "title": "Construction Fraud: The $250000 Problem Threatening Your Business",
+      "snippet": "According to ACFE data, billing fraud represents 20% of all asset misappropriation cases and causes the highest median losses in this category."
+    },
+    {
+      "index": 45,
+      "url": "https://nixlaw.com/practice-areas/construction-dispute-lawyers/statistics/",
+      "title": "Construction Dispute Statistics | Nix Patterson, LLP",
+      "snippet": "The report also notes, \u201cthe average time taken to resolve disputes increased significantly, by almost 15%, after steadily declining for three years.\u201d The 2021 ..."
+    },
+    {
+      "index": 46,
+      "url": "https://www.roofingcontractor.com/articles/101855-contractor-scams-leave-roofers-repairing-more-than-roofs",
+      "title": "Contractor Scams Leave Roofers Repairing More Than Roofs",
+      "snippet": "Federal Trade Commission data show that consumer-reported losses to fraud continue to climb nationwide \u2014 exceeding $10 billion in 2023 \u2014 with ..."
+    },
+    {
+      "index": 47,
+      "url": "https://www.tgccpa.com/the-latest-on-occupational-fraud-in-the-construction-industry/",
+      "title": "The Latest on Occupational Fraud in the Construction Industry",
+      "snippet": "The average loss per case across all industries was $1,662,000. Obviously, it's tough to stop fraud unless you know where to look. According to ..."
+    },
+    {
+      "index": 48,
+      "url": "https://www.levelset.com/blog/contractor-rights-when-homeowner-wont-pay/",
+      "title": "Contractor Rights When the Homeowner Won't Pay - Levelset",
+      "snippet": "Residential projects can be a challenge, especially when the homeowner doesn't want to pay their contractor. Here's what contractors can do."
+    },
+    {
+      "index": 49,
+      "url": "https://www.gocanvas.com/construction",
+      "title": "Construction Project Management Software & App - GoCanvas",
+      "snippet": "Save hours for the entire team. Daily reports, inspections, timesheets, RFIs, and punch lists don't have to be a chore. We help convert all of your forms ..."
+    },
+    {
+      "index": 50,
+      "url": "https://smartbarrel.io/blog/labor-burden-in-construction/",
+      "title": "Understanding The Hidden Costs Of Labor Burden In Construction",
+      "snippet": "Labor burden includes payroll taxes, insurance, benefits - typically 20-40% on top of wages. Learn how to calculate it accurately and stop ..."
+    },
+    {
+      "index": 51,
+      "url": "https://billd.com",
+      "title": "Billd: Contractor Financing | Same-Day Funding",
+      "snippet": "The survey for the 2026 National Subcontractor Market Report is live\u2014and we want to hear from you! Take Survey \u00b7 Take the 2026 Market Report Survey."
+    },
+    {
+      "index": 52,
+      "url": "https://smartbarrel.io/blog/best-construction-time-tracking-software/",
+      "title": "11 Best Construction Time Tracking Software: Reviewed For 2026",
+      "snippet": "Time tracking software helps construction companies track hours, prevent buddy punching, and streamline payroll. Check out our top 11 picks ..."
+    },
+    {
+      "index": 53,
+      "url": "https://www.rhumbix.com/blog/calculating-construction-labor-costs-a-guide-for-contractors",
+      "title": "Calculating Construction Labor Costs: A Guide for ...",
+      "snippet": "To calculate this, use the following formula: multiply the total days off (including vacations and sick days) by the daily hours worked, then ..."
+    },
+    {
+      "index": 54,
+      "url": "https://www.tipranks.com/news/private-companies/billd-deepens-market-intelligence-and-highlights-early-pay-finance-shift-in-construction",
+      "title": "Billd Deepens Market Intelligence and Highlights Early Pay Finance ...",
+      "snippet": "Early survey results are said to be revealing emerging trends in payment behavior and margin dynamics, which could inform Billd's underwriting ..."
+    },
+    {
+      "index": 55,
+      "url": "https://www.sunraynotice.com/blog/lien-waivers-in-residential-vs-commercial-construction-what-you-need-to-know",
+      "title": "Lien Waivers in Residential vs. Commercial Construction: What You ...",
+      "snippet": "Lien waivers in residential and commercial construction require clear communication, compliance with state laws, and thorough documentation ..."
+    },
+    {
+      "index": 56,
+      "url": "https://www.levelset.com/news/construction-cash-flow-payment-report-2022/",
+      "title": "Construction Industry Booming, But Slow Payment Hurts Businesses",
+      "snippet": "Construction businesses report that slow payments contribute to wasted resources (45%), reduced profit (41%), and failure to meet payroll (18%)."
+    },
+    {
+      "index": 57,
+      "url": "https://www.hudsonts.com/escrow-platforms",
+      "title": "Custom Escrow Platforms for Legal, Financial & Debt Use - Hudson",
+      "snippet": "Escrow services provide additional security for high-value transactions by building trust, preventing fraud, ensuring contract fulfillment, and providing ..."
+    },
+    {
+      "index": 58,
+      "url": "https://thecromeenslawfirm.com/guide-to-commercial-construction-contracts/",
+      "title": "Contract Guide for Contractors 2025 - The Cromeens Law Firm",
+      "snippet": "What is the main difference between residential and commercial construction contracts? The primary difference is control and flexibility."
+    },
+    {
+      "index": 59,
+      "url": "https://www.enr.com/articles/61557-constructions-split-screen-economy-resilience-at-the-top-strain-below",
+      "title": "Construction's Split-Screen Economy: Resilience at the Top, Strain ...",
+      "snippet": "A resilient U.S. construction economy continues to expand at the top, even as cash-flow pressure and workforce shortages build beneath the ..."
+    },
+    {
+      "index": 60,
+      "url": "https://www.traverselegal.com/blog/software-escrow-agreement-source-code-protection/",
+      "title": "What Is a Software Escrow Agreement and Why It Safeguards ...",
+      "snippet": "A software escrow agreement protects access to source code if a vendor fails. Learn how it works, what triggers a release, and how to ..."
+    }
+  ],
+  "search_results": [
+    {
+      "title": "New B.C. Construction Industry Survey Reveals Shocking Data",
+      "url": "https://bccassn.com/new-b-c-construction-industry-survey-reveals-shocking-data-91-reported-late-payments-69-experienced-not-being-paid-at-all/",
+      "snippet": "91% of employer respondents reporting being paid late at one time this past year for completed work and 69% having not being paid at least once at all.",
+      "date": null
+    },
+    {
+      "title": "Resolving construction disputes through mediation",
+      "url": "https://www.advocatemagazine.com/article/2024-september/resolving-construction-disputes-through-mediation",
+      "snippet": "The key steps for positioning most construction disputes for settlement at mediation are: Fully document the nature and scope of the problem; fully document ...",
+      "date": null
+    },
+    {
+      "title": "Construction Invoicing 101: A Contractor's Essential Guide - Deltek",
+      "url": "https://www.deltek.com/en/construction/construction-invoicing",
+      "snippet": "Construction invoices are typically sent monthly, especially for larger or longer projects, aligning with payment schedules. However, for smaller projects, ...",
+      "date": null
+    },
+    {
+      "title": "Construction's Cash Crunch: 70% of Contractors Say Payment ...",
+      "url": "https://getbuilt.com/blog/70-percent-of-contractors-say-payment-delays-threaten-industry/",
+      "snippet": "According to research involving 250 general contractors and subcontractors, a staggering 70% regularly face delayed payments, causing serious ...",
+      "date": null
+    },
+    {
+      "title": "Mediation for Property Disputes Florida & HOA Conflicts",
+      "url": "https://themediationgroupinc.com/mediation-for-property-disputes-florida/",
+      "snippet": "The process is way more streamlined\u2014no endless discovery or repeat court dates. Time comparison: Mediation: 2-8 weeks average resolution; Litigation: 6 months ...",
+      "date": null
+    },
+    {
+      "title": "Contractor Payment Schedules: Why They're Important & Choosing ...",
+      "url": "https://www.procore.com/library/contractor-payment-schedule",
+      "snippet": "In construction, payment scheduling can be crucial. Learn about effective contractor payment schedules and which is best for your project.",
+      "date": null
+    },
+    {
+      "title": "The Road to Getting Paid on Time for Residential Construction ...",
+      "url": "https://magicplan.app/blog/getting-paid-on-time-for-construction-contractors",
+      "snippet": "43% of the respondents said that they have to wait between 30 and 60 days for their payment. For another 30%, this figure rises to more than 60 days. Yes, the ...",
+      "date": null
+    },
+    {
+      "title": "How Construction Draw Management Technology Can Improve ...",
+      "url": "https://landgorilla.com/blog/how-construction-draw-management-improves-inspection-turn-times/",
+      "snippet": "A manual inspection process can result in draw disbursements taking 3 times longer than a more standardized, automated process. Issues that cost your team time ...",
+      "date": null
+    },
+    {
+      "title": "My Contractor Filed a Mechanics Lien. What Should I Do?",
+      "url": "https://www.lawjtlg.com/2022/10/06/my-contractor-filed-a-mechanics-lien-what-should-i-do/",
+      "snippet": "Time Limits \u00b7 Lien must be filed within 4 months of last work to affect lenders or future owners. \u00b7 Lien must be filed within 2 years of last work ...",
+      "date": null
+    },
+    {
+      "title": "Contractor Payment Schedules: Why They're Important & Choosing ...",
+      "url": "https://www.procore.com/library/contractor-payment-schedule",
+      "snippet": "In construction, payment scheduling can be crucial. Learn about effective contractor payment schedules and which is best for your project.",
+      "date": null
+    },
+    {
+      "title": "Construction Draw Guide: Steps, Docs, and Best Practices - Mastt",
+      "url": "https://www.mastt.com/guide/construction-draw",
+      "snippet": "This guide breaks down how the construction draw process works, what documents are required, who's involved, and how to avoid common challenges.",
+      "date": null
+    },
+    {
+      "title": "Clearing the Way: Removing Expired Mechanics Liens From Title In ...",
+      "url": "https://www.lauriebrennan.com/blog/clearing-the-way-removing-expired-mechanics-liens-from-title-in-illinois/",
+      "snippet": "After properly recording a lien claim, a claimant must file suit to foreclose the lien within two years after completion of the part of the work ...",
+      "date": null
+    },
+    {
+      "title": "Contractor Fraud Costs Americans Billions Every Year",
+      "url": "https://www.nicb.org/news/news-releases/contractor-fraud-costs-americans-billions-every-year",
+      "snippet": "Upwards of 10 percent or $9.3 billion is lost to post-disaster fraud, which not only impacts individuals, but also impacts insurance premiums ...",
+      "date": null
+    },
+    {
+      "title": "Subcontractor Didn't Finish the Job! What Can Texas Homeowners ...",
+      "url": "https://www.rogergjain.com/subcontractor-didnt-finish-what-homeowners-do/",
+      "snippet": "Texas civil laws allow for homeowners to sue a subcontractor or developer for breach of contract. Do you have to pay them? Find out HERE.",
+      "date": null
+    },
+    {
+      "title": "2024 Construction Payments Report | Delayed Payments",
+      "url": "https://www.pbmares.com/accounts-receivable-in-construction-cash-flow-at-risk-amid-payment-delays/",
+      "snippet": "82 percent of contractors now face payment waits of over 30 days, up from 49 percent two years ago. These delays interrupt cash flow, impacting the ability to ...",
+      "date": null
+    },
+    {
+      "title": "Faults in the Foundation: Exposing Fraud in Construction",
+      "url": "https://www.cbiz.com/insights/article/faults-in-the-foundation-exposing-fraud-in-construction",
+      "snippet": "That amounts to a staggering $98,000,000,000 (or $98 billion dollars) in industry-related fraud. Then in November of 2024, Red Flag Alert ...",
+      "date": null
+    },
+    {
+      "title": "The Real Reason Contractors Abandon Projects and How to Protect ...",
+      "url": "https://wymanlegalsolutions.com/the-real-reason-contractors-abandon-projects-and-how-to-protect-yourself/",
+      "snippet": "What should a homeowner do if their contractor abandons the project? The Real Reason Contractors Abandon Projects and How to Protect Yourself.",
+      "date": null
+    },
+    {
+      "title": "How to Avoid Payment Delays in Construction - Command Credit",
+      "url": "https://commandcredit.com/blog/avoid-payment-delays-construction",
+      "snippet": "Delayed payments in construction can cause cascading ... While payment delays in construction may be common, they are not inevitable.",
+      "date": null
+    },
+    {
+      "title": "Nearly 60% of homeowners can't afford repairs, survey finds",
+      "url": "https://www.youtube.com/watch?v=8qjeZeiaCxk",
+      "snippet": "More than 80% of homeowners have at least one issue in their home that needs to be addressed but 60% can't afford the repair.",
+      "date": null
+    },
+    {
+      "title": "Understanding Cash Flow Pain Points in the Construction Industry ...",
+      "url": "https://www.gp-radar.com/article/understanding-cash-flow-pain-points-in-the-construction-industry-and-how-to-avoid-them",
+      "snippet": "Consider using financial instruments like lines of credit, invoice factoring, or trade credit to manage cash flow gaps. These tools can provide short-term ...",
+      "date": null
+    },
+    {
+      "title": "How to Minimize Errors in Construction Loan Draw Request ...",
+      "url": "https://www.sekady.com/sekady-blog/how-to-minimize-errors-in-construction-loan-draw-request-processing",
+      "snippet": "Minimizing errors in construction loan draw request processing requires standardization, automation, and rigorous verification.",
+      "date": null
+    },
+    {
+      "title": "The Home Improvement Consumer Protection Act and How it ...",
+      "url": "https://www.grossmcginley.com/resources/blog/the-home-improvement-consumer-protection-act-and-how-it-protects-you/",
+      "snippet": "The Home Improvement Consumer Protection Act governs any contract entered into between a contractor and homeowner in connection with a private residence.",
+      "date": null
+    },
+    {
+      "title": "Construction Invoice Factoring: Guide for Contractors and ... - Mastt",
+      "url": "https://www.mastt.com/blogs/construction-invoice-factoring",
+      "snippet": "Steady Cash Flow: Factoring gives you fast access to cash so you can cover project costs without waiting on a general contractor or project ...",
+      "date": null
+    },
+    {
+      "title": "Three Example Issues Uncovered by a Third-Party Draw Inspection ...",
+      "url": "https://rabbet.com/blog/three-example-issues-uncovered-by-a-third-party-draw-inspection-report",
+      "snippet": "A third-party construction draw inspection happens when the inspector, often hired by the lender, reviews the progress of a construction ...",
+      "date": null
+    },
+    {
+      "title": "2024 Construction Payments Report | Delayed Payments",
+      "url": "https://www.pbmares.com/accounts-receivable-in-construction-cash-flow-at-risk-amid-payment-delays/",
+      "snippet": "82 percent of contractors now face payment waits of over 30 days, up from 49 percent two years ago. These delays interrupt cash flow, impacting the ability to ...",
+      "date": null
+    },
+    {
+      "title": "Construction Payment Schedules: Importance & Free Template",
+      "url": "https://www.netsuite.com/portal/resource/articles/accounting/construction-payment-schedule.shtml",
+      "snippet": "Payment schedules can follow various formats, including milestone-based, time-based, or progress-based approaches.",
+      "date": null
+    },
+    {
+      "title": "2022 Construction Cash Flow & Payment Report - Levelset",
+      "url": "https://www.levelset.com/tools/2022-construction-cash-flow-payment-report/",
+      "snippet": "The 2022 Construction Cash Flow & Payment Report, based on survey data from more than 500 construction companies, explores the state of the construction ...",
+      "date": null
+    },
+    {
+      "title": "Construction disputes in the Americas more about scope than time ...",
+      "url": "https://www.constructiondive.com/news/time-money-fewer-construction-disputes-americas/808089/",
+      "snippet": "\u201cThose financial pressures can trigger delays and cost overruns that ultimately lead to disputes.\u201d The report attributes a reduction in other ...",
+      "date": null
+    },
+    {
+      "title": "Contractor Payment Schedules: Why They're Important & Choosing ...",
+      "url": "https://www.procore.com/library/contractor-payment-schedule",
+      "snippet": "A clear payment schedule helps ensure a project's contractor and subcontractors are paid in a timely manner and that the project progresses smoothly.",
+      "date": null
+    },
+    {
+      "title": "Construction Industry Surveys & Reports - Levelset",
+      "url": "https://www.levelset.com/survey/",
+      "snippet": "A collection of national surveys and reports on cash flow, payments, and demographics in the construction industry.",
+      "date": null
+    },
+    {
+      "title": "From Jobsite to Invoice: Faster Construction Billing | Arrivy",
+      "url": "https://www.arrivy.com/blog/using-time-tracking-software-to-speed-up-construction-billing/",
+      "snippet": "Cut billing delays with GPS-verified time tracking, mobile timesheets, and QuickBooks sync. Turn approved job hours into invoices in minutes with Arrivy.",
+      "date": null
+    },
+    {
+      "title": "How Long Does a Real Estate Litigation Case Typically Take",
+      "url": "https://acecalifornialaw.com/how-long-does-a-real-estate-litigation-case-typically-take/",
+      "snippet": "Mediation and settlement discussions generally require 2-4 months, including preparation, negotiations, and final agreement execution. Court ...",
+      "date": null
+    },
+    {
+      "title": "Home Renovations: How Escrow & Fund Control Protect Your Budget",
+      "url": "https://www.lamesafundcontrol.com/navigating-home-renovations-how-escrow-and-fund-control-can-save-your-budget/",
+      "snippet": "Escrow accounts are managed by a neutral third party who oversees the release of funds. This setup adds an extra layer of accountability and ...",
+      "date": null
+    },
+    {
+      "title": "Is Your Construction Payroll Getting the Most Out of Job Costing?",
+      "url": "https://www.foundationsoft.com/learn/is-your-construction-payroll-getting-the-most-out-of-job-costing/",
+      "snippet": "There are two main cost-tracking tasks: Classifying costs as you receive invoices; Manage inventory. However, for accurate payroll costing ...",
+      "date": null
+    },
+    {
+      "title": "How Long After Mediation Will I Get My Money",
+      "url": "https://www.bridgesadr.com/how-long-after-mediation-will-i-get-my-money/",
+      "snippet": "Some places give you seven or 14 days to file this paperwork after mediation. Some courts may require you to submit final documents within 60 ...",
+      "date": null
+    },
+    {
+      "title": "Understanding Construction Escrow | Haber law",
+      "url": "https://www.haber.law/understanding-construction-escrow/",
+      "snippet": "The concept of escrow revolves around a neutral third party retaining funds until specific criteria are satisfied. When it comes to construction, ...",
+      "date": null
+    },
+    {
+      "title": "Construction Retainage: Ultimate Guide for Contractors - Deltek",
+      "url": "https://www.deltek.com/en/construction/accounting/construction-retainage",
+      "snippet": "Typically represented as a retainage percentage, usually ranging from 5% to 10% of the total payment, these funds provide a financial incentive for maintaining ...",
+      "date": null
+    },
+    {
+      "title": "60-Hour Payment Woes: How Builders Waste Time Chasing Funds",
+      "url": "https://www.constructioncostaccounting.com/post/60-hour-payment-woes-how-builders-waste-time-chasing-funds-1",
+      "snippet": "Construction firms waste over 60 hours every month nearly two full work weeks just managing payments. That's one employee doing nothing but ...",
+      "date": null
+    },
+    {
+      "title": "The 12 Most Common Construction Contract Disputes\u2014and Why ...",
+      "url": "https://andersongivens.com/the-12-most-common-construction-contract-disputes-and-why-associations-need-legal-review-before-signing/",
+      "snippet": "Associations often face disputes over: Withheld progress payments; Retainage release; Back-charges for defective or incomplete work; Final ...",
+      "date": null
+    },
+    {
+      "title": "Retainage: How It Works and Best Practices - Procore",
+      "url": "https://www.procore.com/library/retainage",
+      "snippet": "Retainage \u2014 or retention or holdback \u2014 is a common practice in the construction industry where a portion of payment, typically 5-10%, is withheld until a ...",
+      "date": null
+    },
+    {
+      "title": "Stop Chasing Payments: What Construction Contractors Really ...",
+      "url": "https://www.foundationsoft.com/learn/stop-chasing-payments-what-construction-contractors-really-need-in-accounts-receivable-software/",
+      "snippet": "Construction contractors wait an average of 83 days to collect payment, nearly a month longer than other industries, creating significant cash ...",
+      "date": null
+    },
+    {
+      "title": "Common Disputes in Residential and Commercial Construction",
+      "url": "https://www.kaplaw.com/blog/common-disputes-residential-commercial-construction/",
+      "snippet": "Missed and late payments are certain to lead to disputes \u2014 especially in situations where the nonpayment concerns a particularly substantial ...",
+      "date": null
+    },
+    {
+      "title": "Home Renovation Scams Spike - Uken Report",
+      "url": "https://ukenreport.com/home-renovation-scams-spike/",
+      "snippet": "Recent national reporting reveals fraudsters raked in nearly $5 million from over 40 homeowners in one US state's contractor scam alone, ...",
+      "date": null
+    },
+    {
+      "title": "Construction Fraud: The $250000 Problem Threatening Your Business",
+      "url": "https://www.veryfi.com/fraud-detection/construction-fraud-the-250000-problem-threatening-your-business/",
+      "snippet": "According to ACFE data, billing fraud represents 20% of all asset misappropriation cases and causes the highest median losses in this category.",
+      "date": null
+    },
+    {
+      "title": "Construction Dispute Statistics | Nix Patterson, LLP",
+      "url": "https://nixlaw.com/practice-areas/construction-dispute-lawyers/statistics/",
+      "snippet": "The report also notes, \u201cthe average time taken to resolve disputes increased significantly, by almost 15%, after steadily declining for three years.\u201d The 2021 ...",
+      "date": null
+    },
+    {
+      "title": "Contractor Scams Leave Roofers Repairing More Than Roofs",
+      "url": "https://www.roofingcontractor.com/articles/101855-contractor-scams-leave-roofers-repairing-more-than-roofs",
+      "snippet": "Federal Trade Commission data show that consumer-reported losses to fraud continue to climb nationwide \u2014 exceeding $10 billion in 2023 \u2014 with ...",
+      "date": null
+    },
+    {
+      "title": "The Latest on Occupational Fraud in the Construction Industry",
+      "url": "https://www.tgccpa.com/the-latest-on-occupational-fraud-in-the-construction-industry/",
+      "snippet": "The average loss per case across all industries was $1,662,000. Obviously, it's tough to stop fraud unless you know where to look. According to ...",
+      "date": null
+    },
+    {
+      "title": "Contractor Rights When the Homeowner Won't Pay - Levelset",
+      "url": "https://www.levelset.com/blog/contractor-rights-when-homeowner-wont-pay/",
+      "snippet": "Residential projects can be a challenge, especially when the homeowner doesn't want to pay their contractor. Here's what contractors can do.",
+      "date": null
+    },
+    {
+      "title": "Construction Project Management Software & App - GoCanvas",
+      "url": "https://www.gocanvas.com/construction",
+      "snippet": "Save hours for the entire team. Daily reports, inspections, timesheets, RFIs, and punch lists don't have to be a chore. We help convert all of your forms ...",
+      "date": null
+    },
+    {
+      "title": "Understanding The Hidden Costs Of Labor Burden In Construction",
+      "url": "https://smartbarrel.io/blog/labor-burden-in-construction/",
+      "snippet": "Labor burden includes payroll taxes, insurance, benefits - typically 20-40% on top of wages. Learn how to calculate it accurately and stop ...",
+      "date": null
+    },
+    {
+      "title": "Billd: Contractor Financing | Same-Day Funding",
+      "url": "https://billd.com",
+      "snippet": "The survey for the 2026 National Subcontractor Market Report is live\u2014and we want to hear from you! Take Survey \u00b7 Take the 2026 Market Report Survey.",
+      "date": null
+    },
+    {
+      "title": "11 Best Construction Time Tracking Software: Reviewed For 2026",
+      "url": "https://smartbarrel.io/blog/best-construction-time-tracking-software/",
+      "snippet": "Time tracking software helps construction companies track hours, prevent buddy punching, and streamline payroll. Check out our top 11 picks ...",
+      "date": null
+    },
+    {
+      "title": "Calculating Construction Labor Costs: A Guide for ...",
+      "url": "https://www.rhumbix.com/blog/calculating-construction-labor-costs-a-guide-for-contractors",
+      "snippet": "To calculate this, use the following formula: multiply the total days off (including vacations and sick days) by the daily hours worked, then ...",
+      "date": null
+    },
+    {
+      "title": "Billd Deepens Market Intelligence and Highlights Early Pay Finance ...",
+      "url": "https://www.tipranks.com/news/private-companies/billd-deepens-market-intelligence-and-highlights-early-pay-finance-shift-in-construction",
+      "snippet": "Early survey results are said to be revealing emerging trends in payment behavior and margin dynamics, which could inform Billd's underwriting ...",
+      "date": null
+    },
+    {
+      "title": "Lien Waivers in Residential vs. Commercial Construction: What You ...",
+      "url": "https://www.sunraynotice.com/blog/lien-waivers-in-residential-vs-commercial-construction-what-you-need-to-know",
+      "snippet": "Lien waivers in residential and commercial construction require clear communication, compliance with state laws, and thorough documentation ...",
+      "date": null
+    },
+    {
+      "title": "Construction Industry Booming, But Slow Payment Hurts Businesses",
+      "url": "https://www.levelset.com/news/construction-cash-flow-payment-report-2022/",
+      "snippet": "Construction businesses report that slow payments contribute to wasted resources (45%), reduced profit (41%), and failure to meet payroll (18%).",
+      "date": null
+    },
+    {
+      "title": "Custom Escrow Platforms for Legal, Financial & Debt Use - Hudson",
+      "url": "https://www.hudsonts.com/escrow-platforms",
+      "snippet": "Escrow services provide additional security for high-value transactions by building trust, preventing fraud, ensuring contract fulfillment, and providing ...",
+      "date": null
+    },
+    {
+      "title": "Contract Guide for Contractors 2025 - The Cromeens Law Firm",
+      "url": "https://thecromeenslawfirm.com/guide-to-commercial-construction-contracts/",
+      "snippet": "What is the main difference between residential and commercial construction contracts? The primary difference is control and flexibility.",
+      "date": null
+    },
+    {
+      "title": "Construction's Split-Screen Economy: Resilience at the Top, Strain ...",
+      "url": "https://www.enr.com/articles/61557-constructions-split-screen-economy-resilience-at-the-top-strain-below",
+      "snippet": "A resilient U.S. construction economy continues to expand at the top, even as cash-flow pressure and workforce shortages build beneath the ...",
+      "date": null
+    },
+    {
+      "title": "What Is a Software Escrow Agreement and Why It Safeguards ...",
+      "url": "https://www.traverselegal.com/blog/software-escrow-agreement-source-code-protection/",
+      "snippet": "A software escrow agreement protects access to source code if a vendor fails. Learn how it works, what triggers a release, and how to ...",
+      "date": null
+    }
+  ]
+}

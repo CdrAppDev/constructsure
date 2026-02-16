@@ -1,0 +1,82 @@
+principles:
+  - id: P1
+    statement: "Payment without independent verification is payment without accountability"
+    evidence:
+      - "SOV frameworks concentrated in 'large-scale commercial projects,' not residential (ProjectManager.com / NAHB industry analysis)"
+      - "No standardized framework for what constitutes 'completion' of a milestone in residential renovation — ambiguity enables overpayment (prevalence research)"
+      - "CoConstruct, Houzz Pro, Buildertrend, Jobber generate invoices but do NOT enforce SOV verification or independent progress checks (current-solutions research)"
+      - "Homeowners inspect work themselves or hire optional inspections — no mandatory third-party verification (current-solutions research)"
+    denial_test: "If payment without verification provided accountability, residential renovation would show comparable fraud and loss rates to commercial construction (which mandates verification). Instead, residential losses are dramatically higher: 1 in 10 Americans victimized by contractor fraud vs. structured commercial processes with third-party inspectors."
+    derivations:
+      - "Every disbursement must be conditioned on independently verified work completion"
+      - "Verification must be third-party, not self-reported by the party receiving payment"
+      - "Completion criteria must be defined before work begins, not negotiated after"
+
+  - id: P2
+    statement: "Information asymmetry between transaction parties determines who bears financial risk"
+    evidence:
+      - "Homeowners lack construction expertise to evaluate bids, verify completion, or understand lien rights (severity research)"
+      - "Subcontractors cannot see upstream payment status — 52% blame GC mismanagement while GCs blame owner financing (Levelset 2022 Payment Report)"
+      - "Lenders get point-in-time inspection snapshots, not real-time visibility — 'inspections provide snapshots, not real-time visibility' (financial services analysis)"
+      - "Contractors must track deposits, reconcile payments, chase draws across fragmented systems — 60 hours/month on payment admin (Construction Cost Accounting)"
+    denial_test: "If all parties had equal information about project status, payment timing, and fund usage, disputes would not average 16.7 months to resolve (Arcadis 2022), contractors would not inflate bids 8% for payment risk, and 88% of subcontractors would not reject projects over payment reliability concerns."
+    derivations:
+      - "Solution must provide symmetric, real-time visibility to all stakeholders simultaneously"
+      - "No party should have to 'chase' information that other parties already possess"
+      - "Audit trails must be accessible to all authorized parties, not siloed"
+
+  - id: P3
+    statement: "Payment chain delays compound through tiers — each delayed tier amplifies costs for all downstream parties"
+    evidence:
+      - "82% of contractors wait 30+ days for payment, up from 49% two years ago (Rabbet 2024 Construction Payments Report)"
+      - "71% of subcontractors report delayed payments from GCs, up from 60% in 2022; 77% cover materials out-of-pocket (PYMNTS/AmEx 2025)"
+      - "Contractors inflate bids 8% to compensate for slow payment risk; subs add 5-10% markup on top (Built 2025, n=250)"
+      - "100% of subcontractors evaluate GC payment reputation; 88% have rejected projects over payment concerns (PYMNTS/AmEx 2025)"
+      - "Carrying cost formula: inflation + interest + lost profit = 6.17%/month cumulative impact (CFMA analysis)"
+    denial_test: "If delays compounded linearly rather than through tiers, removing one tier's delay would have proportional impact. Instead, research shows cascading effects: GC delay → sub delay → supplier credit restriction → material shortage → project halt. Each tier adds its own risk premium, creating exponential cost inflation."
+    derivations:
+      - "Solution must accelerate the entire payment chain, not just one tier"
+      - "Simultaneous notification of all parties when milestones are verified reduces cascading delays"
+      - "Fund custody that enables immediate downstream payment upon verification breaks the cascade"
+
+  - id: P4
+    statement: "Trust-based controls fail at market scale — institutional controls are required when transaction volume exceeds relationship capacity"
+    evidence:
+      - "Residential renovation historically relationship-based, dominated by small contractors and individual homeowners (prevalence research)"
+      - "At $603B annual residential remodeling spending (2024), informal controls are inadequate (NARI/Harvard JCHS)"
+      - "1 in 10 Americans victimized by contractor fraud, average loss >$2,400 (consumer watchdog estimates)"
+      - "25% of construction firms victimized annually; fraud cases increased 60% in recent years (ACFE 2024)"
+      - "Project abandonments up 66.5% since end of 2024 — record highs (ConstructConnect)"
+    denial_test: "If trust-based controls scaled with market size, fraud rates and financial losses would be stable or declining as the residential renovation industry matured. Instead, fraud cases are increasing 60%, abandonments hit record highs, and payment delays have worsened from 49% to 82% of contractors affected in just two years."
+    derivations:
+      - "Solution must provide institutional controls that function independent of personal relationships"
+      - "Controls must work for first-time transactions between strangers, not just repeat relationships"
+      - "Compliance must be structural (built into the payment flow), not voluntary"
+
+  - id: P5
+    statement: "Financial controls are a prerequisite for project completion, not a consequence of it"
+    evidence:
+      - "Commercial construction has mandatory controls (SOV, third-party inspections, surety bonds, AIA contracts, escrow) and lower per-project failure rates (comparison across all research areas)"
+      - "Residential renovation lacks controls and has higher fraud, abandonment, and dispute rates per dollar spent (comparison across all research areas)"
+      - "Escrow workarounds that exist show measurably better outcomes — '$75K paid to contractor who vanished... no escrow, no recourse' vs. escrow users where 'money is still in escrow, waiting for resolution' (Build Safe Escrow)"
+      - "NY requires escrow/bond for residential contractors but compliance is uneven — demonstrating the standard exists but is not structurally enforced (NY Attorney General)"
+    denial_test: "If controls emerged naturally from market maturity, the $603B residential renovation market — larger than many national economies — would have developed them. It has not. Meanwhile, smaller commercial projects that operate under lender-mandated controls experience lower per-dollar loss rates."
+    derivations:
+      - "Controls must be designed into the payment structure from project inception"
+      - "Controls cannot be optional add-ons — they must be the default path"
+      - "The economic case for controls must be made against current loss rates, not against zero"
+
+  - id: P6
+    statement: "The cost of absent financial controls exceeds the cost of implementing controls by orders of magnitude"
+    evidence:
+      - "$280B annual cost from payment delays across construction (Rabbet 2024)"
+      - "$9.3B annual post-disaster fraud (NICB)"
+      - "8% bid inflation on $400B+ residential spending = $32B+ in inflated costs annually (Built 2025)"
+      - "Escrow services cost $400-$725 per draw — 5-15% of project cost for small renovations (California escrow fee survey 2024)"
+      - "60 hours/month administrative burden per firm on payment management (Construction Cost Accounting)"
+      - "Dispute resolution averages 16.7 months and litigation costs often exceed dispute value for small projects (Arcadis 2022)"
+    denial_test: "If the cost of controls exceeded the cost of no controls, rational market participants would consistently avoid controls. Instead, commercial construction voluntarily maintains expensive control infrastructure (inspections, escrow, bonds, specialized lending systems) because the alternative — uncontrolled payment — is demonstrably more expensive. The ~100:1 ratio of documented losses to control costs proves controls are economically rational."
+    derivations:
+      - "Solution pricing must be justified against current loss rates, not against zero baseline"
+      - "Even partial reduction in loss rates generates compelling ROI"
+      - "The market failure is not that controls are too expensive — it is that no entity has made them accessible at residential scale"

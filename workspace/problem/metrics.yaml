@@ -1,0 +1,36 @@
+run_date: "2026-02-16"
+
+extraction:
+  source_count: 3
+  hypotheses_count: 6
+  signal_density: "high"
+
+research:
+  rounds: 1
+  total_prompts: 4
+  total_citations_found: 226
+  hypotheses_validated: 6
+  hypotheses_invalidated: 0
+  hypotheses_redirected: 0
+  hypotheses_insufficient: 0
+  emergent_findings: 5
+  api_cost_usd: 0.0
+
+processing:
+  first_principles_count: 6
+  fp_tests_passed: 30
+  fp_tests_failed: 0
+  jtbd_functional: 5
+  jtbd_emotional: 3
+  jtbd_social: 2
+  thesis_citation_rate: 0.85
+  evidence_entries: 41
+  sources_deduplicated: 55
+  scope_violations: 0
+
+validation:
+  checks_run: 22
+  checks_passed: 22
+  checks_failed: 0
+  attempts: 1
+  status: "PASS"

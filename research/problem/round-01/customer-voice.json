@@ -1,0 +1,576 @@
+{
+  "metadata": {
+    "model": "sonar-deep-research",
+    "response_id": "de22cfa0-d24a-4f5a-bb33-955fd76a0c19",
+    "usage": {
+      "prompt_tokens": 759,
+      "completion_tokens": 9178,
+      "total_tokens": 9937,
+      "citation_tokens": 39027,
+      "reasoning_tokens": 241534,
+      "num_search_queries": 30,
+      "cost": {
+        "total_cost": null,
+        "input_tokens_cost": null,
+        "output_tokens_cost": null
+      }
+    },
+    "citation_count": 46
+  },
+  "citations": [
+    {
+      "index": 1,
+      "url": "https://www.channelnewsasia.com/today/ground-up/vendors-contractors-renovation-bridal-fail-deliver-restitution-loss-5176971",
+      "title": "'I told my husband I was done': The heartbreak for people who write ...",
+      "snippet": "Lawyers say recovering money in renovation disputes is often difficult, especially if the contractor's company has closed or lacks assets."
+    },
+    {
+      "index": 2,
+      "url": "https://www.pbmares.com/accounts-receivable-in-construction-cash-flow-at-risk-amid-payment-delays/",
+      "title": "2024 Construction Payments Report | Delayed Payments",
+      "snippet": "82 percent of contractors now face payment waits of over 30 days, up from 49 percent two years ago. These delays interrupt cash flow, impacting the ability to ..."
+    },
+    {
+      "index": 3,
+      "url": "https://wymanlegalsolutions.com/%F0%9F%9A%A9-contractor-red-flags-that-cost-wealthy-homeowners-millions/",
+      "title": "Contractor Red Flags That Cost Wealthy Homeowners Millions",
+      "snippet": "Contractors demanding a huge deposit before any work begins is a major red flag \u2014 especially if there's no detailed start date or schedule ..."
+    },
+    {
+      "index": 4,
+      "url": "https://getbuilt.com/blog/70-percent-of-contractors-say-payment-delays-threaten-industry/",
+      "title": "70% of Contractors Say Payment Delays Threaten Industry",
+      "snippet": "Built study reveals slow payments inflate bids by 8%, trigger project cancellations, and discourage competition amid economic uncertainty."
+    },
+    {
+      "index": 5,
+      "url": "https://www.bbb.org/article/news-releases/16924-bbb-tip-home-improvement-scams",
+      "title": "BBB Scam Alert: Home improvement scammers take money, don't ...",
+      "snippet": "Tips to spot this scam: Watch out for \"red flags.\" Say no to cash-only deals, high-pressure sales tactics, high upfront payments, handshake ..."
+    },
+    {
+      "index": 6,
+      "url": "https://www.bbb.org/article/news-releases/27102-bbb-tip-contracting-with-confidence-this-national-homeownership-month",
+      "title": "BBB Tip: Contracting with confidence this National Homeownership ...",
+      "snippet": "If you have experienced a home improvement scam or questionable business practices, report it to BBB Scam Tracker or file an official complaint ..."
+    },
+    {
+      "index": 7,
+      "url": "https://www.myptsd.com/threads/do-you-struggle-when-contractors-need-to-do-work-on-your-house.101977/",
+      "title": "Do you struggle when contractors need to do work on your house?",
+      "snippet": "I really struggle with contractors coming to my house, and I'm looking to both vent and see if there is any place that my wants can be met ..."
+    },
+    {
+      "index": 8,
+      "url": "https://getbuilt.com/blog/construction-loan-monitoring-software/",
+      "title": "Why Lenders Need Construction Loan Monitoring Software for Risk ...",
+      "snippet": "See how construction loan monitoring software turns inspection data into portfolio-wide visibility, compliance, and risk control."
+    },
+    {
+      "index": 9,
+      "url": "https://www.houzz.com/discussions/5908303/should-a-contractor-notify-the-homeowner-about-unexpected-cost",
+      "title": "Should a contractor notify the homeowner about unexpected cost?",
+      "snippet": "We recently did a large renovation on our home. We started with a specific budget then decided we wanted to add a couple things so ultimate ..."
+    },
+    {
+      "index": 10,
+      "url": "https://www.truepic.com/blog/draw-inspection-fraud",
+      "title": "AI fraud or authentic draw inspection: Can you spot the difference?",
+      "snippet": "Learn how draw inspection fraud is evolving with generative AI, and what private and hard money lenders can do to prevent false progress photos."
+    },
+    {
+      "index": 11,
+      "url": "https://www.inspectionsupport.com/home-improvement-scams-trends-report-2022/",
+      "title": "Home Improvement Scams Trends Report 2022 - ISN",
+      "snippet": "Americans lost $206.9 million to home improvement scams in the last 14 years, $13.8m annually. Residents of Nebraska ($5,730 per scam per year) and Minnesota ($ ..."
+    },
+    {
+      "index": 12,
+      "url": "https://theconsumer.org.sg/prepayment-dangers/",
+      "title": "Prepayment dangers - The Consumer",
+      "snippet": "Learn about the dangers of prepayments in Singapore \u2014 how they can lead to losses, common risky scenarios and practical tips to protect yourself before ..."
+    },
+    {
+      "index": 13,
+      "url": "https://www.chicagomechanicslienattorney.com/practice-areas/construction-law/contractor-subcontractor-liens/",
+      "title": "Contractor & Subcontractor Liens - Chicago Mechanics Lien Attorney",
+      "snippet": "If notice is not given within the 60 day period, the lien is preserved but only to the extent the owner has not been prejudiced by prior payments to the ..."
+    },
+    {
+      "index": 14,
+      "url": "https://www.metalconstructionnews.com/articles/features/contractor-fraud-winter-storms/",
+      "title": "Winter Storms and Contractor Fraud: How Homeowners Can Protect ...",
+      "snippet": "Consumer watchdog groups estimate that roughly one in 10 Americans will experience some form of contractor fraud, with average losses exceeding ..."
+    },
+    {
+      "index": 15,
+      "url": "https://www.consumerreports.org/home-improvement/home-renovation-without-aggravation/",
+      "title": "Home Renovation Without Aggravation - Consumer Reports",
+      "snippet": "Considering a home renovation project? Here's what you need to know from the pros at Consumer Reports."
+    },
+    {
+      "index": 16,
+      "url": "https://www.illinoislegalaid.org/legal-information/can-contractor-put-mechanics-lien-my-house",
+      "title": "Can a contractor put a mechanics lien on my house? | Illinois Legal ...",
+      "snippet": "A contractor has 2 years from completing their work to record a lien or to sue to foreclose. But they only have 4 months to either record a ..."
+    },
+    {
+      "index": 17,
+      "url": "https://svcleanenergy.org/home-rebates/",
+      "title": "Rebates to Upgrade Home Appliances - SVCE",
+      "snippet": "Get up to $8750in rebates for upgrading to new electric home appliances. Plus, additional rebates of $4250 for income-qualified customers."
+    },
+    {
+      "index": 18,
+      "url": "https://contractorforeman.com/how-payments-to-subcontractors-create-cash-flow-anxiety/",
+      "title": "How Payments to Subcontractors Create Cash Flow Anxiety",
+      "snippet": "Managing payments to subcontractors while waiting on client invoices creates real cash flow anxiety. Discover how cash flow planning relieves stress."
+    },
+    {
+      "index": 19,
+      "url": "https://davies-group.com/northamerica/contractor-fraud-what-claims-managers-need-to-know/",
+      "title": "Contractor Fraud: What Claims Managers Need to Know",
+      "snippet": "Contractor fraud is a growing concern in the insurance industry, costing billions annually and undermining the integrity of property restoration"
+    },
+    {
+      "index": 20,
+      "url": "https://assets.publishing.service.gov.uk/media/67f4d2d86852ad6032f5c01d/Means_Assessment_Guidance_April_2025.pdf",
+      "title": "[PDF] Means Assessment Guidance - GOV.UK",
+      "snippet": "If the individual moves from becoming a homeowner to rented accommodation or vice versa then the above allowances will have to be ..."
+    },
+    {
+      "index": 21,
+      "url": "https://www.americanexpress.com/content/dam/amex/us/merchant/pdf/bcfm/PYMNTS-Construction-Delayed-Payments-January-2025.pdf",
+      "title": "[PDF] Solving Construction's Delayed Payments With Digital Tools",
+      "snippet": "By the end of 2023, 71% of subcontractors reported delayed payments from general contractors, up from 60% in 2022. The average payment cycle for completed work ..."
+    },
+    {
+      "index": 22,
+      "url": "https://www.restorationindustry.org/restoration-blog/dont-become-accidental-adjuster-staying-within-lines-restoration-contractor",
+      "title": "Don't Become an Accidental Adjuster: Staying Within the Lines of the ...",
+      "snippet": "Public adjusting is a regulated profession with strict boundaries that restoration contractors must respect to stay compliant with the law."
+    },
+    {
+      "index": 23,
+      "url": "https://buildsafeescrow.com/protect-renovation-funds-construction-escrow/",
+      "title": "Construction Escrow: Protect Your Funds During Renovation",
+      "snippet": "What is Construction Escrow? Construction escrow is a neutral, third-party service that holds and disburses renovation funds based on pre-agreed milestones."
+    },
+    {
+      "index": 24,
+      "url": "https://buildsafeescrow.com/risks-of-paying-contractors-upfront-guide/",
+      "title": "5 Risks of Paying Contractors Upfront: A Homeowner's Guide",
+      "snippet": "Milestone-based payments, managed through a construction escrow service, offer the best protection for homeowners and contractors alike. Here's how it works ..."
+    },
+    {
+      "index": 25,
+      "url": "https://www.lamesafundcontrol.com/navigating-home-renovations-how-escrow-and-fund-control-can-save-your-budget/",
+      "title": "Home Renovations: How Escrow & Fund Control Protect Your Budget",
+      "snippet": "Escrow accounts are managed by a neutral third party who oversees the release of funds. This setup adds an extra layer of accountability and ..."
+    },
+    {
+      "index": 26,
+      "url": "https://buildsafeescrow.com/why-homeowners-should-consider-putting-construction-funds-in-escrow/",
+      "title": "Smart Decision: Putting Construction Funds in Escrow",
+      "snippet": "Handling home improvement projects can be stressful, but putting construction funds in escrow protects your investment and ensures completion."
+    },
+    {
+      "index": 27,
+      "url": "https://www.fdic.gov/analysis/cfr/working-papers/2021/cfr-wp2021-07.pdf?locale=en",
+      "title": "[PDF] Determinants of Losses on Construction Loans - FDIC",
+      "snippet": "Construction loan portfolios have experienced notoriously high loss rates during economic downturns and are a key factor in many bank failures. Yet there has ..."
+    },
+    {
+      "index": 28,
+      "url": "https://skroofingandconstruction.com/how-do-i-protect-myself-when-paying-a-contractor/",
+      "title": "How Do I Protect Myself When Paying A Contractor",
+      "snippet": "Bond: A surety bond ensures you're covered if they don't complete the job. Insurance: Liability and worker's compensation protect your property ..."
+    },
+    {
+      "index": 29,
+      "url": "https://getbuilt.com/blog/70-percent-of-contractors-say-payment-delays-threaten-industry/",
+      "title": "70% of Contractors Say Payment Delays Threaten Industry",
+      "snippet": "Built study reveals slow payments inflate bids by 8%, trigger project cancellations, and discourage competition amid economic uncertainty."
+    },
+    {
+      "index": 30,
+      "url": "https://piainsagency.com/builders-risk-policy-for-homeowner/",
+      "title": "Builders Risk Policy for Homeowner: Benefits",
+      "snippet": "When planning your builders risk policy for homeowner protection, builder's risk insurance typically costs 1% to 5% of your total construction ..."
+    },
+    {
+      "index": 31,
+      "url": "https://www.veryfi.com/fraud-detection/construction-fraud-the-250000-problem-threatening-your-business/",
+      "title": "Construction Fraud: The $250000 Problem Threatening Your Business",
+      "snippet": "$250,000 median loss per construction fraud case\u201472% higher than the global average; Construction fraud cases increased by 60% in recent years ..."
+    },
+    {
+      "index": 32,
+      "url": "https://www.bogleheads.org/forum/viewtopic.php?t=384717",
+      "title": "MIL lost $5000 for down payment on roof [RESOLVED!] - Bogleheads",
+      "snippet": "Consider small claims court. No attorney needed. But first ask for a refund, in writing, sent by certified mail. Then fill out the paperwork for ..."
+    },
+    {
+      "index": 33,
+      "url": "https://www.truepic.com/blog/construction-lending-risks",
+      "title": "5 of the biggest construction lending risks - Truepic",
+      "snippet": "Construction lending risks like fraud, delays, and bad reporting are common ... oversight, cost overruns, inspection delays, and fraudulent photos ..."
+    },
+    {
+      "index": 34,
+      "url": "https://www.nicb.org/news/news-releases/contractor-fraud-costs-americans-billions-every-year",
+      "title": "Contractor Fraud Costs Americans Billions Every Year",
+      "snippet": "Upwards of 10 percent or $9.3 billion is lost to post-disaster fraud ... \u201cContractor fraud costs hardworking Americans billions of dollars every ..."
+    },
+    {
+      "index": 35,
+      "url": "https://www.biggerpockets.com/forums/311/topics/133874-contractor-put-a-bs-lien-on-our-property-need-advice",
+      "title": "contractor put a bs lien on our property, need advice.",
+      "snippet": "Tough place to be...Try to negotiate settlement with contractor. If no resolve, seek legal advice. He's probably done this before. Also make ..."
+    },
+    {
+      "index": 36,
+      "url": "https://nwmriskmanagement.com/common-draw-inspection-challenges/",
+      "title": "Common Draw Inspection Challenges and How to Overcome Them",
+      "snippet": "In this article, we'll explore the most common draw inspection challenges encountered during a construction project, how to overcome them, and how partnering ..."
+    },
+    {
+      "index": 37,
+      "url": "https://linpub.blob.core.windows.net/pdf/2/c06cbce9-0617-4191-8f9a-69928030def1.pdf",
+      "title": "[PDF] Fine arts a tradition at WCS",
+      "snippet": "The $21 prepaid weekend admis- sion includes access to the Trade. Center with 200 exhibitors, healthy food vendors both inside and out- doors, ..."
+    },
+    {
+      "index": 38,
+      "url": "https://www.safetyproresources.com/blog/residential-vs-commercial-construction-safety-standards",
+      "title": "Residential vs. Commercial Construction Safety Standards",
+      "snippet": "Commercial construction safety is more stringent about a building's size, design, and internal components (such as plumbing, electricity, and piping)."
+    },
+    {
+      "index": 39,
+      "url": "https://sfa.senate.ca.gov/sites/sfa.senate.ca.gov/files/packet/trp_052621.pdf",
+      "title": "[PDF] Senate Third Reading Packet",
+      "snippet": "... payment of fees ultimately would be the responsibility of each peace officer, as a practical matter, they likely would be covered by their ..."
+    },
+    {
+      "index": 40,
+      "url": "https://www.elitepermits.com/residential-versus-commercial-code/",
+      "title": "Residential Versus Commercial Code",
+      "snippet": "The \u201cResidential\u201d version includes all the requirements for building, mechanical, electrical, gas and plumbing (MEP) within its code, while the building, aka ..."
+    },
+    {
+      "index": 41,
+      "url": "https://www.oreateai.com/blog/indepth-analysis-of-complaints-data-in-the-renovation-industry-and-risk-avoidance-strategies-for-2025/67591795173f780aa11743d7a8491e26",
+      "title": "In-Depth Analysis of Complaints Data in the Renovation Industry ...",
+      "snippet": "This document analyzes major complaints trends within China's renovation sector while offering risk avoidance strategies focusing ..."
+    },
+    {
+      "index": 42,
+      "url": "https://www.projectmanager.com/blog/best-construction-project-management-software",
+      "title": "10 Best Construction Project Management Software - ProjectManager",
+      "snippet": "Microsoft Project Reviews. G2 review: 4/5; Capterra review: 4.4/5. Highlighted User Reviews. \u201cIt's a powerful tool for managing complex projects ..."
+    },
+    {
+      "index": 43,
+      "url": "https://www.dallasconstructionlaw.com/how-mechanics-liens-help-you-get-paid-25-powerful-reasons/",
+      "title": "How Mechanics Liens Help You Get Paid: 25 Powerful Reasons",
+      "snippet": "Owners and GCs often delay or deprioritize payments. A lien filing signals that further delay will result in litigation or foreclosure. That ..."
+    },
+    {
+      "index": 44,
+      "url": "https://www.kitchenbathdesign.com/consumer-burnout-reported-high-during-remodeling",
+      "title": "Consumer Burnout Reported High During Remodeling",
+      "snippet": "A vast majority (85%) of homeowners undertaking home remodeling report having had significant stress throughout the process, while more than half (57%) ..."
+    },
+    {
+      "index": 45,
+      "url": "https://www.g2.com/products/capterra/reviews",
+      "title": "Capterra Reviews 2026: Details, Pricing, & Features - G2",
+      "snippet": "Users consistently praise Capterra for its ease of use and comprehensive software comparisons, which help them make informed decisions quickly. The platform's ..."
+    },
+    {
+      "index": 46,
+      "url": "https://fullertonlaw.com/mechanics-liens-in-pennsylvania",
+      "title": "Pennsylvania Mechanic's Liens - Fullerton & Knowles, P.C.",
+      "snippet": "Upon foreclosure by any lien holder, all inferior liens are eliminated. The inferior lien holders have no security interest in the property after foreclosure."
+    }
+  ],
+  "search_results": [
+    {
+      "title": "'I told my husband I was done': The heartbreak for people who write ...",
+      "url": "https://www.channelnewsasia.com/today/ground-up/vendors-contractors-renovation-bridal-fail-deliver-restitution-loss-5176971",
+      "snippet": "Lawyers say recovering money in renovation disputes is often difficult, especially if the contractor's company has closed or lacks assets.",
+      "date": null
+    },
+    {
+      "title": "2024 Construction Payments Report | Delayed Payments",
+      "url": "https://www.pbmares.com/accounts-receivable-in-construction-cash-flow-at-risk-amid-payment-delays/",
+      "snippet": "82 percent of contractors now face payment waits of over 30 days, up from 49 percent two years ago. These delays interrupt cash flow, impacting the ability to ...",
+      "date": null
+    },
+    {
+      "title": "Contractor Red Flags That Cost Wealthy Homeowners Millions",
+      "url": "https://wymanlegalsolutions.com/%F0%9F%9A%A9-contractor-red-flags-that-cost-wealthy-homeowners-millions/",
+      "snippet": "Contractors demanding a huge deposit before any work begins is a major red flag \u2014 especially if there's no detailed start date or schedule ...",
+      "date": null
+    },
+    {
+      "title": "70% of Contractors Say Payment Delays Threaten Industry",
+      "url": "https://getbuilt.com/blog/70-percent-of-contractors-say-payment-delays-threaten-industry/",
+      "snippet": "Built study reveals slow payments inflate bids by 8%, trigger project cancellations, and discourage competition amid economic uncertainty.",
+      "date": null
+    },
+    {
+      "title": "BBB Scam Alert: Home improvement scammers take money, don't ...",
+      "url": "https://www.bbb.org/article/news-releases/16924-bbb-tip-home-improvement-scams",
+      "snippet": "Tips to spot this scam: Watch out for \"red flags.\" Say no to cash-only deals, high-pressure sales tactics, high upfront payments, handshake ...",
+      "date": null
+    },
+    {
+      "title": "BBB Tip: Contracting with confidence this National Homeownership ...",
+      "url": "https://www.bbb.org/article/news-releases/27102-bbb-tip-contracting-with-confidence-this-national-homeownership-month",
+      "snippet": "If you have experienced a home improvement scam or questionable business practices, report it to BBB Scam Tracker or file an official complaint ...",
+      "date": null
+    },
+    {
+      "title": "Do you struggle when contractors need to do work on your house?",
+      "url": "https://www.myptsd.com/threads/do-you-struggle-when-contractors-need-to-do-work-on-your-house.101977/",
+      "snippet": "I really struggle with contractors coming to my house, and I'm looking to both vent and see if there is any place that my wants can be met ...",
+      "date": null
+    },
+    {
+      "title": "Why Lenders Need Construction Loan Monitoring Software for Risk ...",
+      "url": "https://getbuilt.com/blog/construction-loan-monitoring-software/",
+      "snippet": "See how construction loan monitoring software turns inspection data into portfolio-wide visibility, compliance, and risk control.",
+      "date": null
+    },
+    {
+      "title": "Should a contractor notify the homeowner about unexpected cost?",
+      "url": "https://www.houzz.com/discussions/5908303/should-a-contractor-notify-the-homeowner-about-unexpected-cost",
+      "snippet": "We recently did a large renovation on our home. We started with a specific budget then decided we wanted to add a couple things so ultimate ...",
+      "date": null
+    },
+    {
+      "title": "AI fraud or authentic draw inspection: Can you spot the difference?",
+      "url": "https://www.truepic.com/blog/draw-inspection-fraud",
+      "snippet": "Learn how draw inspection fraud is evolving with generative AI, and what private and hard money lenders can do to prevent false progress photos.",
+      "date": null
+    },
+    {
+      "title": "Home Improvement Scams Trends Report 2022 - ISN",
+      "url": "https://www.inspectionsupport.com/home-improvement-scams-trends-report-2022/",
+      "snippet": "Americans lost $206.9 million to home improvement scams in the last 14 years, $13.8m annually. Residents of Nebraska ($5,730 per scam per year) and Minnesota ($ ...",
+      "date": null
+    },
+    {
+      "title": "Prepayment dangers - The Consumer",
+      "url": "https://theconsumer.org.sg/prepayment-dangers/",
+      "snippet": "Learn about the dangers of prepayments in Singapore \u2014 how they can lead to losses, common risky scenarios and practical tips to protect yourself before ...",
+      "date": null
+    },
+    {
+      "title": "Contractor & Subcontractor Liens - Chicago Mechanics Lien Attorney",
+      "url": "https://www.chicagomechanicslienattorney.com/practice-areas/construction-law/contractor-subcontractor-liens/",
+      "snippet": "If notice is not given within the 60 day period, the lien is preserved but only to the extent the owner has not been prejudiced by prior payments to the ...",
+      "date": null
+    },
+    {
+      "title": "Winter Storms and Contractor Fraud: How Homeowners Can Protect ...",
+      "url": "https://www.metalconstructionnews.com/articles/features/contractor-fraud-winter-storms/",
+      "snippet": "Consumer watchdog groups estimate that roughly one in 10 Americans will experience some form of contractor fraud, with average losses exceeding ...",
+      "date": null
+    },
+    {
+      "title": "Home Renovation Without Aggravation - Consumer Reports",
+      "url": "https://www.consumerreports.org/home-improvement/home-renovation-without-aggravation/",
+      "snippet": "Considering a home renovation project? Here's what you need to know from the pros at Consumer Reports.",
+      "date": null
+    },
+    {
+      "title": "Can a contractor put a mechanics lien on my house? | Illinois Legal ...",
+      "url": "https://www.illinoislegalaid.org/legal-information/can-contractor-put-mechanics-lien-my-house",
+      "snippet": "A contractor has 2 years from completing their work to record a lien or to sue to foreclose. But they only have 4 months to either record a ...",
+      "date": null
+    },
+    {
+      "title": "Rebates to Upgrade Home Appliances - SVCE",
+      "url": "https://svcleanenergy.org/home-rebates/",
+      "snippet": "Get up to $8750in rebates for upgrading to new electric home appliances. Plus, additional rebates of $4250 for income-qualified customers.",
+      "date": null
+    },
+    {
+      "title": "How Payments to Subcontractors Create Cash Flow Anxiety",
+      "url": "https://contractorforeman.com/how-payments-to-subcontractors-create-cash-flow-anxiety/",
+      "snippet": "Managing payments to subcontractors while waiting on client invoices creates real cash flow anxiety. Discover how cash flow planning relieves stress.",
+      "date": null
+    },
+    {
+      "title": "Contractor Fraud: What Claims Managers Need to Know",
+      "url": "https://davies-group.com/northamerica/contractor-fraud-what-claims-managers-need-to-know/",
+      "snippet": "Contractor fraud is a growing concern in the insurance industry, costing billions annually and undermining the integrity of property restoration",
+      "date": null
+    },
+    {
+      "title": "[PDF] Means Assessment Guidance - GOV.UK",
+      "url": "https://assets.publishing.service.gov.uk/media/67f4d2d86852ad6032f5c01d/Means_Assessment_Guidance_April_2025.pdf",
+      "snippet": "If the individual moves from becoming a homeowner to rented accommodation or vice versa then the above allowances will have to be ...",
+      "date": null
+    },
+    {
+      "title": "[PDF] Solving Construction's Delayed Payments With Digital Tools",
+      "url": "https://www.americanexpress.com/content/dam/amex/us/merchant/pdf/bcfm/PYMNTS-Construction-Delayed-Payments-January-2025.pdf",
+      "snippet": "By the end of 2023, 71% of subcontractors reported delayed payments from general contractors, up from 60% in 2022. The average payment cycle for completed work ...",
+      "date": null
+    },
+    {
+      "title": "Don't Become an Accidental Adjuster: Staying Within the Lines of the ...",
+      "url": "https://www.restorationindustry.org/restoration-blog/dont-become-accidental-adjuster-staying-within-lines-restoration-contractor",
+      "snippet": "Public adjusting is a regulated profession with strict boundaries that restoration contractors must respect to stay compliant with the law.",
+      "date": null
+    },
+    {
+      "title": "Construction Escrow: Protect Your Funds During Renovation",
+      "url": "https://buildsafeescrow.com/protect-renovation-funds-construction-escrow/",
+      "snippet": "What is Construction Escrow? Construction escrow is a neutral, third-party service that holds and disburses renovation funds based on pre-agreed milestones.",
+      "date": null
+    },
+    {
+      "title": "5 Risks of Paying Contractors Upfront: A Homeowner's Guide",
+      "url": "https://buildsafeescrow.com/risks-of-paying-contractors-upfront-guide/",
+      "snippet": "Milestone-based payments, managed through a construction escrow service, offer the best protection for homeowners and contractors alike. Here's how it works ...",
+      "date": null
+    },
+    {
+      "title": "Home Renovations: How Escrow & Fund Control Protect Your Budget",
+      "url": "https://www.lamesafundcontrol.com/navigating-home-renovations-how-escrow-and-fund-control-can-save-your-budget/",
+      "snippet": "Escrow accounts are managed by a neutral third party who oversees the release of funds. This setup adds an extra layer of accountability and ...",
+      "date": null
+    },
+    {
+      "title": "Smart Decision: Putting Construction Funds in Escrow",
+      "url": "https://buildsafeescrow.com/why-homeowners-should-consider-putting-construction-funds-in-escrow/",
+      "snippet": "Handling home improvement projects can be stressful, but putting construction funds in escrow protects your investment and ensures completion.",
+      "date": null
+    },
+    {
+      "title": "[PDF] Determinants of Losses on Construction Loans - FDIC",
+      "url": "https://www.fdic.gov/analysis/cfr/working-papers/2021/cfr-wp2021-07.pdf?locale=en",
+      "snippet": "Construction loan portfolios have experienced notoriously high loss rates during economic downturns and are a key factor in many bank failures. Yet there has ...",
+      "date": null
+    },
+    {
+      "title": "How Do I Protect Myself When Paying A Contractor",
+      "url": "https://skroofingandconstruction.com/how-do-i-protect-myself-when-paying-a-contractor/",
+      "snippet": "Bond: A surety bond ensures you're covered if they don't complete the job. Insurance: Liability and worker's compensation protect your property ...",
+      "date": null
+    },
+    {
+      "title": "Construction's Cash Crunch: 70% of Contractors Say Payment ...",
+      "url": "https://getbuilt.com/blog/70-percent-of-contractors-say-payment-delays-threaten-industry/",
+      "snippet": "Built study reveals slow payments inflate bids by 8%, trigger project cancellations, and discourage competition amid economic uncertainty.",
+      "date": null
+    },
+    {
+      "title": "Builders Risk Policy for Homeowner: Benefits",
+      "url": "https://piainsagency.com/builders-risk-policy-for-homeowner/",
+      "snippet": "When planning your builders risk policy for homeowner protection, builder's risk insurance typically costs 1% to 5% of your total construction ...",
+      "date": null
+    },
+    {
+      "title": "Construction Fraud: The $250000 Problem Threatening Your Business",
+      "url": "https://www.veryfi.com/fraud-detection/construction-fraud-the-250000-problem-threatening-your-business/",
+      "snippet": "$250,000 median loss per construction fraud case\u201472% higher than the global average; Construction fraud cases increased by 60% in recent years ...",
+      "date": null
+    },
+    {
+      "title": "MIL lost $5000 for down payment on roof [RESOLVED!] - Bogleheads",
+      "url": "https://www.bogleheads.org/forum/viewtopic.php?t=384717",
+      "snippet": "Consider small claims court. No attorney needed. But first ask for a refund, in writing, sent by certified mail. Then fill out the paperwork for ...",
+      "date": null
+    },
+    {
+      "title": "5 of the biggest construction lending risks - Truepic",
+      "url": "https://www.truepic.com/blog/construction-lending-risks",
+      "snippet": "Construction lending risks like fraud, delays, and bad reporting are common ... oversight, cost overruns, inspection delays, and fraudulent photos ...",
+      "date": null
+    },
+    {
+      "title": "Contractor Fraud Costs Americans Billions Every Year",
+      "url": "https://www.nicb.org/news/news-releases/contractor-fraud-costs-americans-billions-every-year",
+      "snippet": "Upwards of 10 percent or $9.3 billion is lost to post-disaster fraud ... \u201cContractor fraud costs hardworking Americans billions of dollars every ...",
+      "date": null
+    },
+    {
+      "title": "contractor put a bs lien on our property, need advice.",
+      "url": "https://www.biggerpockets.com/forums/311/topics/133874-contractor-put-a-bs-lien-on-our-property-need-advice",
+      "snippet": "Tough place to be...Try to negotiate settlement with contractor. If no resolve, seek legal advice. He's probably done this before. Also make ...",
+      "date": null
+    },
+    {
+      "title": "Common Draw Inspection Challenges and How to Overcome Them",
+      "url": "https://nwmriskmanagement.com/common-draw-inspection-challenges/",
+      "snippet": "In this article, we'll explore the most common draw inspection challenges encountered during a construction project, how to overcome them, and how partnering ...",
+      "date": null
+    },
+    {
+      "title": "[PDF] Fine arts a tradition at WCS",
+      "url": "https://linpub.blob.core.windows.net/pdf/2/c06cbce9-0617-4191-8f9a-69928030def1.pdf",
+      "snippet": "The $21 prepaid weekend admis- sion includes access to the Trade. Center with 200 exhibitors, healthy food vendors both inside and out- doors, ...",
+      "date": null
+    },
+    {
+      "title": "Residential vs. Commercial Construction Safety Standards",
+      "url": "https://www.safetyproresources.com/blog/residential-vs-commercial-construction-safety-standards",
+      "snippet": "Commercial construction safety is more stringent about a building's size, design, and internal components (such as plumbing, electricity, and piping).",
+      "date": null
+    },
+    {
+      "title": "[PDF] Senate Third Reading Packet",
+      "url": "https://sfa.senate.ca.gov/sites/sfa.senate.ca.gov/files/packet/trp_052621.pdf",
+      "snippet": "... payment of fees ultimately would be the responsibility of each peace officer, as a practical matter, they likely would be covered by their ...",
+      "date": null
+    },
+    {
+      "title": "Residential Versus Commercial Code",
+      "url": "https://www.elitepermits.com/residential-versus-commercial-code/",
+      "snippet": "The \u201cResidential\u201d version includes all the requirements for building, mechanical, electrical, gas and plumbing (MEP) within its code, while the building, aka ...",
+      "date": null
+    },
+    {
+      "title": "In-Depth Analysis of Complaints Data in the Renovation Industry ...",
+      "url": "https://www.oreateai.com/blog/indepth-analysis-of-complaints-data-in-the-renovation-industry-and-risk-avoidance-strategies-for-2025/67591795173f780aa11743d7a8491e26",
+      "snippet": "This document analyzes major complaints trends within China's renovation sector while offering risk avoidance strategies focusing ...",
+      "date": null
+    },
+    {
+      "title": "10 Best Construction Project Management Software - ProjectManager",
+      "url": "https://www.projectmanager.com/blog/best-construction-project-management-software",
+      "snippet": "Microsoft Project Reviews. G2 review: 4/5; Capterra review: 4.4/5. Highlighted User Reviews. \u201cIt's a powerful tool for managing complex projects ...",
+      "date": null
+    },
+    {
+      "title": "How Mechanics Liens Help You Get Paid: 25 Powerful Reasons",
+      "url": "https://www.dallasconstructionlaw.com/how-mechanics-liens-help-you-get-paid-25-powerful-reasons/",
+      "snippet": "Owners and GCs often delay or deprioritize payments. A lien filing signals that further delay will result in litigation or foreclosure. That ...",
+      "date": null
+    },
+    {
+      "title": "Consumer Burnout Reported High During Remodeling",
+      "url": "https://www.kitchenbathdesign.com/consumer-burnout-reported-high-during-remodeling",
+      "snippet": "A vast majority (85%) of homeowners undertaking home remodeling report having had significant stress throughout the process, while more than half (57%) ...",
+      "date": null
+    },
+    {
+      "title": "Capterra Reviews 2026: Details, Pricing, & Features - G2",
+      "url": "https://www.g2.com/products/capterra/reviews",
+      "snippet": "Users consistently praise Capterra for its ease of use and comprehensive software comparisons, which help them make informed decisions quickly. The platform's ...",
+      "date": null
+    },
+    {
+      "title": "Pennsylvania Mechanic's Liens - Fullerton & Knowles, P.C.",
+      "url": "https://fullertonlaw.com/mechanics-liens-in-pennsylvania",
+      "snippet": "Upon foreclosure by any lien holder, all inferior liens are eliminated. The inferior lien holders have no security interest in the property after foreclosure.",
+      "date": null
+    }
+  ]
+}

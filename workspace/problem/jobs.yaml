@@ -1,0 +1,87 @@
+functional_jobs:
+  - id: J1
+    statement: "When I'm paying for renovation work, I want to ensure money only moves when work is verified complete, so I can protect my investment from loss"
+    done_state: "Every payment tied to independently verified milestone completion; no disbursement occurs without third-party confirmation"
+    evidence:
+      - "'I told my husband I was done' — homeowner after contractor disappeared with prepayments (Channel News Asia, 2025)"
+      - "'$75K paid to contractor who vanished before pouring foundation — no escrow, no recourse' (Build Safe Escrow)"
+      - "Mr. Lim — S$90K contract, prepayments for 'project confirmation to carpentry progress,' work barely started (CAS, 2024)"
+      - "FTC: 109,000+ home improvement scams reported 2007-2021, median loss $1,700 per scam — 3.5x other scam types (ISN, 2022)"
+
+  - id: J2
+    statement: "When I complete a construction milestone, I want to receive payment within days rather than months, so I can pay my subcontractors and keep the project moving"
+    done_state: "Verified work triggers payment release within 1-2 business days; no manual invoice chasing required"
+    evidence:
+      - "Texas GC forced onto personal credit cards to pay subs while waiting on $50K invoice for two months (Contractor Foreman)"
+      - "82% of contractors face payment waits of 30+ days, up from 49% two years ago (Rabbet 2024)"
+      - "Average 83-day collection time vs. 30-day contract terms (CFMA)"
+      - "76% of contractors willing to offer discounts for guaranteed faster payments (Built 2025)"
+
+  - id: J3
+    statement: "When I'm funding renovation or restoration projects, I want real-time visibility into how funds are being used and whether work matches claims, so I can prevent overpayment and fraud before disbursement"
+    done_state: "Dashboard shows verified progress vs. claimed progress for every active project; no disbursement without matched verification data"
+    evidence:
+      - "'Inspections provide snapshots, not real-time visibility' — financial services analysis (Built, construction loan monitoring)"
+      - "Manual draw process averages 11 days from work completion to payment (Sekady)"
+      - "Truepic documenting fraudulent/manipulated progress photos as major fraud vector (Truepic, draw inspection fraud)"
+      - "Draw inspection costs $200-$500 per inspection residential — too expensive for $10K-$100K projects (Sekady)"
+
+  - id: J4
+    statement: "When a payment dispute arises, I want documented evidence of agreements, work performed, and payments made, so I can resolve the dispute in days rather than months"
+    done_state: "Complete audit trail accessible to all authorized parties; dispute can reference timestamped verification records, not competing claims"
+    evidence:
+      - "Average dispute in North America takes 16.7 months to resolve (Arcadis 2022)"
+      - "Common draw errors: incomplete submissions, calculation errors, missing lien waivers, budget ambiguity (Sekady)"
+      - "'Without clear audit trails, disputes can drag on for months... the decision-making process cannot be reconstructed' (draw request analysis)"
+      - "Homeowners who face longest payment disputes have contracts with vague 'settling based on actual costs' language (CAS case data)"
+
+  - id: J5
+    statement: "When my subcontractors complete their portion of work, I want their lien rights satisfied automatically, so I can deliver clean title to the homeowner"
+    done_state: "Lien waivers collected and matched to payments at each milestone; no outstanding lien exposure at project completion"
+    evidence:
+      - "Mechanics lien foreclosure risk — contractor can force property sale in some states (Illinois Legal Aid)"
+      - "If subcontractor was not paid by GC, subs may record their own mechanic's liens against the project (Cromeens Law Firm)"
+      - "If owner is financing through construction loan and liens are filed, lender may stop advancing funds, halting construction (construction dispute analysis)"
+      - "Levelset and Procore offer lien waiver management but designed for commercial, not residential (current-solutions research)"
+
+emotional_jobs:
+  - id: E1
+    statement: "Feel confident that my renovation funds are protected from loss"
+    evidence:
+      - "'I'm still in debt, still trying to pay it off. There was a dark period when I kept wondering, Was I really scammed?' (Channel News Asia, 2025)"
+      - "85% of homeowners undertaking remodeling report significant stress throughout the process (Block Renovation, 2025)"
+      - "Colorado homeowner lost entire retirement savings on $350K renovation scam (Uken Report)"
+      - "75 homeowners received mass email from bankrupt roofer who collected prepayments (Bogleheads forum)"
+
+  - id: E2
+    statement: "Feel relieved from the constant anxiety of managing cash flow and chasing payments"
+    evidence:
+      - "'Anxiety becomes a constant companion, sleepless nights follow, and over time, stress can lead to burnout' (Contractor Foreman)"
+      - "60 hours/month — nearly two full work weeks — spent on payment administration (Construction Cost Accounting)"
+      - "Boise contractor after adopting real-time tracking: 'Now, he can accurately predict when funds will arrive... without needing loans or credit' (Contractor Foreman)"
+      - "82% of contractors open to digital payment systems if it accelerates cash flow (Built 2025)"
+
+  - id: E3
+    statement: "Feel in control of my renovation project rather than at the mercy of opaque processes"
+    evidence:
+      - "57% of remodeling homeowners experience 'renovation fatigue' — emotional burnout from delays, disruptions, and decision fatigue (Block Renovation, 2025)"
+      - "Millennials feel strain most acutely: 67% moderate-high stress, 40% say renovations strained personal relationships (Block Renovation, 2025)"
+      - "37% of homeowners exceeded renovation budgets, with unexpected costs for materials (58%) and labor (40%) (Block Renovation, 2025)"
+      - "'I have PTSD... it's really hard to have strange men in my home. When something breaks, I immediately go into a panic' (PTSD forum, contractor anxiety)"
+
+social_jobs:
+  - id: S1
+    statement: "Be seen as a reliable business partner by subcontractors and suppliers"
+    evidence:
+      - "100% of surveyed subcontractors evaluate GC payment reputation before bidding (PYMNTS/AmEx 2025)"
+      - "88% of subcontractors have rejected projects over payment reliability concerns (PYMNTS/AmEx 2025)"
+      - "75% of subcontractors raise bids to compensate for slow-paying GCs (PYMNTS/AmEx 2025)"
+      - "60% of contractors say a developer's payment reputation significantly affects bid decisions (Built 2025)"
+
+  - id: S2
+    statement: "Be seen as a responsible fiduciary by depositors, regulators, and borrowers"
+    evidence:
+      - "Draw fraud, overpayment, and non-completion remain significant risks for lenders (ConstructSure exec summary)"
+      - "State regulatory fragmentation — 50 different regimes for escrow/bonding requirements (current-solutions research)"
+      - "$9.3B lost annually to post-disaster fraud — 10% of catastrophe losses — impacting insurance premiums industry-wide (NICB)"
+      - "Money transmitter/escrow licenses required in 50 states to offer custody — major regulatory barrier (current-solutions research)"

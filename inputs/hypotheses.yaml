@@ -1,0 +1,88 @@
+sources:
+  - id: S1
+    type: "exec_summary"
+    file: "inputs/ConstructSure_Executive_Summary_v1.09_DRAFT.pdf"
+    date_accessed: "2026-02-16"
+    notes: "2-page executive summary + Financial Institution Portal screenshots. Rich signal on all 4 stakeholder pain points and competitive positioning."
+
+  - id: S2
+    type: "pitch_deck"
+    file: "inputs/ConstructSure_Pitch_Deck_Unformatted_DRAFT.pdf"
+    date_accessed: "2026-02-16"
+    notes: "18-slide unformatted pitch deck. Problem/solution/market/financial model. Includes TAM/SAM/SOM, proforma revenue modeling, GTM channels."
+
+  - id: S3
+    type: "exec_summary"
+    file: "inputs/ConstructSure_Angel_Teaser_021526_DRAFT.pdf"
+    date_accessed: "2026-02-16"
+    notes: "Single-page angel investor teaser. Condensed version of exec summary with charts and screenshot."
+
+hypotheses:
+  - id: H1
+    problem: "Residential renovation payments are structurally disconnected from verified work completion, with no standardized schedule-of-values framework linking disbursements to construction milestones"
+    source: [S1, S2, S3]
+    evidence_signals:
+      - "S1: 'misaligned payment timing' identified as core financial risk"
+      - "S1: 'structured milestone payments tied to industry-standard SOVs' — implies no such standard exists currently"
+      - "S2 Problem slide: 'Payments are front-loaded, poorly verified, and weakly controlled'"
+      - "S2 Problem slide: 'No standardized Schedule of Values'"
+      - "S2 How It Works: 'Project scope converted into digital SOV' — implies SOVs are not digital or standard today"
+      - "S3: 'Homeowners prepay for unverified work'"
+    falsifiable: true
+
+  - id: H2
+    problem: "Homeowners in residential renovation projects routinely prepay for unverified work, exposing them to significant financial loss when contractors underperform, abandon projects, or file mechanic's liens"
+    source: [S1, S2, S3]
+    evidence_signals:
+      - "S1: 'homeowners' top fear—losing money to unfinished or abandoned projects'"
+      - "S1: 'In an industry where mistrust is common'"
+      - "S1: 'releasing payments only when conditions are met' — implies payments currently release without conditions"
+      - "S2 Why This Matters: 'Homeowners: Prepay for unverified work, contractor flight risk, liens'"
+      - "S2 Problem slide: 'Results in misallocated capital, liens, disputes, abandoned projects'"
+      - "S3: 'Homeowners prepay for unverified work'"
+      - "S3: 'contractor flight, liens, litigation'"
+    falsifiable: true
+
+  - id: H3
+    problem: "Residential contractors experience chronic cash flow strain from slow and unpredictable payment cycles, forcing reliance on factoring or self-financing and creating downstream non-payment risk for subcontractors"
+    source: [S1, S2, S3]
+    evidence_signals:
+      - "S1: 'smaller contractors are forced to operate as de facto financial managers—tracking deposits, reconciling payments, requesting/chasing draws, and handling lien documentation'"
+      - "S1: 'Contractors receive faster, clearer, and more reliable payments' — implies current payments are slow, unclear, unreliable"
+      - "S2 Why This Matters: 'Contractors: Slow payment, cashflow strain, sub-contractor flight, factoring dependence'"
+      - "S2 How It Works: 'Approved payments released within 1–2 days' — implies current release is much slower"
+      - "S3: 'Contractors suffer slow and inconsistent payments'"
+    falsifiable: true
+
+  - id: H4
+    problem: "Lenders and insurers funding residential renovation and restoration projects lack real-time visibility into fund utilization and work completion, relying on manual and costly draw inspection processes that leave them exposed to fraud and overpayment"
+    source: [S1, S2, S3]
+    evidence_signals:
+      - "S1: 'Banks/Insurers largely rely on legacy draw processes that implicitly create unnecessary risk exposure and are often too slow, too expensive, or too manual for residential projects'"
+      - "S1: 'Draw fraud, overpayment, and non-completion remain significant risks'"
+      - "S1: 'fully automating progress verification, tracking the disbursement lifecycle, and providing audit-ready documentation' — implies none of this exists today"
+      - "S2 Why This Matters: 'Lenders: Limited fund visibility, renovation loan risk, high mitigation costs'"
+      - "S2 Why This Matters: 'Insurers: Absence of audit quality documentation, limited financial control, resource constrained adjuster oversight'"
+      - "S3: 'Lenders/Insurers lack visibility into fund usage'"
+    falsifiable: true
+
+  - id: H5
+    problem: "Residential renovation and restoration operates without the independent third-party financial controls — fund custody, progress verification, audit trails — that are standard practice in commercial construction"
+    source: [S1, S2, S3]
+    evidence_signals:
+      - "S1: 'No entity offers true independent fund control, milestone-based disbursements, or lender/insurer-aligned compliance'"
+      - "S1: 'first purpose-built financial control and transparency platform for the residential renovation and restoration market'"
+      - "S1: 'None of the existing contractor-focused CM tools offer this capability'"
+      - "S2 Why This Matters: 'Residential construction operates without commercial-grade controls'"
+      - "S2 Competitive Advantage: 'Built on proven commercial construction finance' — implies commercial has it, residential does not"
+      - "S3: 'Residential projects currently operate without the financial controls standard in commercial construction'"
+    falsifiable: true
+
+  - id: H6
+    problem: "The U.S. residential renovation industry loses tens of billions of dollars annually to fraud, overpayment, slow/no-pay, and payment-related disputes and project failures"
+    source: [S2, S3]
+    evidence_signals:
+      - "S2 Problem slide: 'Over $40B lost annually to fraud, slow/no-pay, and payment friction'"
+      - "S3: 'over $40B annually in payment friction and project failure'"
+      - "S2 Problem slide: 'Results in misallocated capital, liens, disputes, abandoned projects, and inflated contractor costs'"
+    falsifiable: true

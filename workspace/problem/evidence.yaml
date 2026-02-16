@@ -1,0 +1,208 @@
+prevalence:
+  - claim: "70% of contractors regularly face delayed payments"
+    source: "Built / Talker Research"
+    date: "2025"
+    url: "https://getbuilt.com/blog/70-percent-of-contractors-say-payment-delays-threaten-industry/"
+
+  - claim: "82% of contractors face payment waits of 30+ days, up from 49% two years ago"
+    source: "Rabbet / PBMares"
+    date: "2024"
+    url: "https://www.pbmares.com/accounts-receivable-in-construction-cash-flow-at-risk-amid-payment-delays/"
+
+  - claim: "Average 83-day collection time for construction contractors, vs. 30-day contract terms"
+    source: "Construction Financial Management Association (CFMA)"
+    date: "2024"
+    url: "https://www.foundationsoft.com/learn/stop-chasing-payments-what-construction-contractors-really-need-in-accounts-receivable-software/"
+
+  - claim: "71% of subcontractors report delayed payments from GCs, up from 60% in 2022"
+    source: "PYMNTS / American Express"
+    date: "2025"
+    url: "https://www.americanexpress.com/content/dam/amex/us/merchant/pdf/bcfm/PYMNTS-Construction-Delayed-Payments-January-2025.pdf"
+
+  - claim: "77% of subcontractors cover materials expenses out-of-pocket before reimbursement"
+    source: "PYMNTS / American Express"
+    date: "2025"
+    url: "https://www.americanexpress.com/content/dam/amex/us/merchant/pdf/bcfm/PYMNTS-Construction-Delayed-Payments-January-2025.pdf"
+
+  - claim: "Schedule of values used 'mostly in large-scale commercial projects,' not residential"
+    source: "ProjectManager.com"
+    date: "2025"
+    url: "https://www.projectmanager.com/blog/schedule-of-values"
+
+  - claim: "FTC received 81,900+ home improvement scam reports in 2024, avg loss $1,800/incident"
+    source: "FTC via Uken Report"
+    date: "2024"
+    url: "https://ukenreport.com/home-renovation-scams-spike/"
+
+  - claim: "109,000+ home improvement scams reported to FTC 2007-2021, $206.9M total losses"
+    source: "Inspection Support Network / FTC"
+    date: "2022"
+    url: "https://www.inspectionsupport.com/home-improvement-scams-trends-report-2022/"
+
+  - claim: "1 in 10 Americans victimized by contractor fraud, average losses exceeding $2,400"
+    source: "Metal Construction News / consumer watchdog estimates"
+    date: "2025"
+    url: "https://www.metalconstructionnews.com/articles/features/contractor-fraud-winter-storms/"
+
+  - claim: "25% of construction firms victimized by fraud annually; cases increased 60%"
+    source: "ACFE / Veryfi"
+    date: "2024"
+    url: "https://www.veryfi.com/fraud-detection/construction-fraud-the-250000-problem-threatening-your-business/"
+
+  - claim: "Project abandonments up 66.5% since end of 2024, highest levels on record"
+    source: "ConstructConnect"
+    date: "2025"
+    url: "https://www.constructiondive.com/news/private-project-abandonments-record-high/750100/"
+
+  - claim: "71% of homeowners postponing renovations due to economic uncertainty"
+    source: "PA Realtors / homeowner survey (n=1,000+)"
+    date: "2025"
+    url: "https://www.parealtors.org/blog/71-of-homeowners-postponing-renovations-due-to-economic-concern/"
+
+  - claim: "100% of subcontractors evaluate GC payment reputation; 88% have rejected projects over payment concerns"
+    source: "PYMNTS / American Express"
+    date: "2025"
+    url: "https://www.americanexpress.com/content/dam/amex/us/merchant/pdf/bcfm/PYMNTS-Construction-Delayed-Payments-January-2025.pdf"
+
+severity:
+  - claim: "60+ hours/month wasted on payment administration — nearly two full work weeks per firm"
+    source: "Construction Cost Accounting"
+    date: "2025"
+    url: "https://www.constructioncostaccounting.com/post/60-hour-payment-woes-how-builders-waste-time-chasing-funds-1"
+
+  - claim: "Contractors inflate bids by average of 8% to compensate for slow payment risk"
+    source: "Built / Talker Research"
+    date: "2025"
+    url: "https://getbuilt.com/blog/70-percent-of-contractors-say-payment-delays-threaten-industry/"
+
+  - claim: "35% of projects canceled or significantly delayed due to financing gaps from payment delays"
+    source: "Built / Talker Research"
+    date: "2025"
+    url: "https://getbuilt.com/blog/70-percent-of-contractors-say-payment-delays-threaten-industry/"
+
+  - claim: "Manual draw inspection timeline averages 11 days from work completion to payment"
+    source: "Sekady"
+    date: "2025"
+    url: "https://www.sekady.com/sekady-blog/what-is-a-draw-inspection"
+
+  - claim: "Draw inspection costs $200-$500 per inspection residential, $500-$1,500 commercial"
+    source: "Sekady / Larson Home Inspection"
+    date: "2025"
+    url: "https://www.sekady.com/sekady-blog/what-is-a-draw-inspection"
+
+  - claim: "Dispute resolution averages 16.7 months in North America"
+    source: "Arcadis"
+    date: "2022"
+    url: "https://nixlaw.com/practice-areas/construction-dispute-lawyers/statistics/"
+
+  - claim: "Construction fraud median $250,000 per incident — 72% higher than global average of $145,000"
+    source: "ACFE / Veryfi"
+    date: "2024"
+    url: "https://www.veryfi.com/fraud-detection/construction-fraud-the-250000-problem-threatening-your-business/"
+
+  - claim: "Escrow services cost $400-$725 per draw for residential projects"
+    source: "Secured Trust Escrow / California fee survey"
+    date: "2024"
+    url: "https://securedtrustescrow.com/blog/"
+
+  - claim: "Mechanics lien foreclosure risk — contractor can force property sale in some states"
+    source: "Illinois Legal Aid"
+    date: "2024"
+    url: "https://www.illinoislegalaid.org/legal-information/can-contractor-put-mechanics-lien-my-house"
+
+  - claim: "Carrying cost of delayed payment: ~6.17% per month (inflation + interest + lost profit)"
+    source: "Billd / CFMA analysis"
+    date: "2024"
+    url: "https://billd.com/blog/cost-of-slow-payments/"
+
+  - claim: "$280 billion annual cost from payment delays across U.S. construction"
+    source: "PYMNTS / American Express / Rabbet"
+    date: "2024"
+    url: "https://www.americanexpress.com/content/dam/amex/us/merchant/pdf/bcfm/PYMNTS-Construction-Delayed-Payments-January-2025.pdf"
+
+  - claim: "$9.3 billion lost annually to post-disaster contractor fraud (10% of $93B catastrophe losses)"
+    source: "National Insurance Crime Bureau (NICB)"
+    date: "2024"
+    url: "https://www.nicb.org/news/news-releases/contractor-fraud-costs-americans-billions-every-year"
+
+customer_voice:
+  - claim: "'I told my husband I was done' — homeowner after contractor disappeared with prepayments"
+    source: "Channel News Asia"
+    date: "2025"
+    url: "https://www.channelnewsasia.com/today/ground-up/vendors-contractors-renovation-bridal-fail-deliver-restitution-loss-5176971"
+
+  - claim: "'I'm still in debt, still trying to pay it off. There was a dark period when I kept wondering, Was I really scammed?'"
+    source: "Channel News Asia"
+    date: "2025"
+    url: "https://www.channelnewsasia.com/today/ground-up/vendors-contractors-renovation-bridal-fail-deliver-restitution-loss-5176971"
+
+  - claim: "'Anxiety becomes a constant companion, sleepless nights follow, and over time, stress can lead to burnout'"
+    source: "Contractor Foreman"
+    date: "2025"
+    url: "https://contractorforeman.com/how-payments-to-subcontractors-create-cash-flow-anxiety/"
+
+  - claim: "85% of remodeling homeowners report significant stress; 57% experience 'renovation fatigue'"
+    source: "Block Renovation"
+    date: "2025"
+    url: "https://www.kitchenbathdesign.com/consumer-burnout-reported-high-during-remodeling"
+
+  - claim: "76% of contractors willing to offer discounts for guaranteed faster payments"
+    source: "Built / Talker Research"
+    date: "2025"
+    url: "https://getbuilt.com/blog/70-percent-of-contractors-say-payment-delays-threaten-industry/"
+
+  - claim: "82% of contractors open to digital payment systems if it accelerates cash flow"
+    source: "Built / Talker Research"
+    date: "2025"
+    url: "https://getbuilt.com/blog/70-percent-of-contractors-say-payment-delays-threaten-industry/"
+
+  - claim: "'They vanished without cleaning the asphalt debris. Phone was disconnected.'"
+    source: "BBB Scam Tracker"
+    date: "2024"
+    url: "https://www.bbb.org/article/news-releases/16924-bbb-tip-home-improvement-scams"
+
+  - claim: "75 homeowners mass-emailed by bankrupt roofer who collected prepayments from all"
+    source: "Bogleheads Forum"
+    date: "2024"
+    url: "https://www.bogleheads.org/forum/viewtopic.php?t=384717"
+
+  - claim: "Colorado homeowner lost entire retirement savings on $350K renovation scam"
+    source: "Uken Report"
+    date: "2025"
+    url: "https://ukenreport.com/home-renovation-scams-spike/"
+
+current_solutions:
+  - claim: "CoConstruct, Houzz Pro, Buildertrend, Jobber generate invoices but do NOT enforce SOV verification or independent progress checks"
+    source: "Platform documentation analysis"
+    date: "2025"
+    url: "https://www.coconstruct.com/blog/invoices-in-residential-construction"
+
+  - claim: "Built Technologies and Land Gorilla solve draw management for commercial lending — NOT adapted for residential at scale"
+    source: "Built Technologies / Land Gorilla"
+    date: "2025"
+    url: "https://getbuilt.com/features/draw-inspections/"
+
+  - claim: "Levelset and Procore offer lien waiver management designed for commercial construction, not residential"
+    source: "Levelset / Procore"
+    date: "2025"
+    url: "https://www.levelset.com/lien-waiver-management/"
+
+  - claim: "Niche escrow companies (Build Safe, La Mesa) market third-party custody as novel — proving it's not standard practice"
+    source: "Build Safe Escrow / La Mesa Fund Control"
+    date: "2025"
+    url: "https://buildsafeescrow.com/protect-renovation-funds-construction-escrow/"
+
+  - claim: "Escrow costs $400-$725 per draw — does not scale to $10K-$100K residential projects"
+    source: "Secured Trust Escrow / California fee survey"
+    date: "2024"
+    url: "https://securedtrustescrow.com/blog/"
+
+  - claim: "Money transmitter/escrow licenses needed in 50 states to offer fund custody — major regulatory barrier"
+    source: "Current-solutions analysis across platform documentation"
+    date: "2025"
+    url: "https://www.procore.com/library/construction-escrow-accounts"
+
+  - claim: "EagleView drones for insurance claims assessment but not residential renovation progress tracking"
+    source: "EagleView Technologies"
+    date: "2025"
+    url: "https://www.eagleview.com/product/eagleview-assess-construction/"
