@@ -427,6 +427,8 @@ h3 {
 }
 .criteria-list li::before { content: "\2192"; position: absolute; left: 0; color: var(--accent-light); }
 .criteria-source { font-size: 0.75rem; color: var(--text-muted); font-style: italic; }
+.criteria-source a { color: #c4b5fd; text-decoration: none; border-bottom: 1px dotted #c4b5fd; }
+.criteria-source a:hover { color: #ede9fe; border-color: #ede9fe; }
 
 /* INLINE SOURCE LINKS */
 .source-link {
