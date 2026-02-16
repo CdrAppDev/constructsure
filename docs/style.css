@@ -430,14 +430,14 @@ h3 {
 
 /* INLINE SOURCE LINKS */
 .source-link {
-  color: var(--accent-light);
+  color: #c4b5fd;
   text-decoration: none;
-  border-bottom: 1px dotted var(--accent-light);
+  border-bottom: 1px dotted #c4b5fd;
   transition: color 0.2s, border-color 0.2s;
 }
 .source-link:hover {
-  color: var(--text-primary);
-  border-color: var(--text-primary);
+  color: #ede9fe;
+  border-color: #ede9fe;
 }
 
 /* DUAL-TRACK STRATEGY */
